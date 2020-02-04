@@ -1,864 +1,864 @@
-Win Shares,Mins Played (per game),Player,Games,Year,Rank,Points(per game),WS/48,Box +/-,Value Overall Replacement Player,Team,College,Years,Mins Played (Total),Points (Total)
-48.0,30.6,Kenyon Martin,757,2000,1,12.3,0.1,0.7,15.5,NJN,Cincinnati,15,23134,9325
-11.6,14.3,Jake Voskuhl,450,2000,33,4.0,0.087,-2.2,-0.3,CHI,UConn,9,6443,1814
-0.6,18.7,Khalid El-Amin,50,2000,34,6.3,0.03,-3.8,-0.4,CHI,UConn,1,936,314
--0.1,10.6,Mike Smith,17,2000,35,3.0,-0.033,-5.5,-0.2,WAS,University of Louisiana at Monroe,1,180,51
-20.0,17.3,Eddie House,717,2000,37,7.5,0.077,-1.5,1.6,MIA,Arizona State,11,12405,5356
-24.7,18.1,Eduardo Nájera,619,2000,38,4.9,0.106,0.3,6.4,HOU,Oklahoma,12,11213,3052
--0.2,7.3,Lavor Postell,61,2000,39,3.2,-0.025,-8.6,-0.7,NYK,St. John's,3,446,195
-0.9,15.2,Hanno Möttölä,155,2000,40,4.6,0.019,-5.8,-2.3,ATL,Utah,2,2360,715
-0.0,0.0,Chris Carrawell,0,2000,41,0.0,0.0,0.0,0.0,SAS,Duke,0,0,0
-55.9,32.0,Michael Redd,629,2000,43,19.0,0.134,0.9,14.9,MIL,Ohio State,12,20104,11972
-15.4,14.2,Brian Cardinal,456,2000,44,4.6,0.114,0.7,4.5,DET,Purdue,12,6477,2108
-0.3,15.6,A.J. Guyton,80,2000,32,5.5,0.01,-5.4,-1.1,CHI,Indiana,3,1246,442
-1.3,9.8,Jabari Smith,108,2000,45,3.0,0.058,-4.0,-0.5,SAC,LSU,4,1063,329
-0.0,0.0,Mark Karcher,0,2000,48,0.0,0.0,0.0,0.0,PHI,Temple,0,0,0
-8.6,15.5,Jason Hart,341,2000,49,4.8,0.078,-1.7,0.3,MIL,Syracuse,9,5289,1623
-0.1,4.5,Kaniel Dickens,19,2000,50,1.2,0.055,-5.0,-0.1,UTA,Idaho,3,85,22
--0.2,7.0,Ernest Brown,3,2000,52,1.0,-0.349,-24.7,-0.1,MIA,Indian Hills Community College,1,21,3
-0.0,9.7,Dan McClintock,6,2000,53,3.0,0.007,-6.6,-0.1,DEN,Northern Arizona University,1,58,18
-0.0,0.0,Cory Hightower,0,2000,54,0.0,0.0,0.0,0.0,SAS,Indian Hills Community College,0,0,0
-0.2,22.5,Chris Porter,51,2000,55,8.6,0.008,-4.6,-0.8,GSW,Auburn,1,1147,440
-0.0,0.0,Jaquay Walls,0,2000,56,0.0,0.0,0.0,0.0,IND,Colorado,0,0,0
-0.0,0.0,Scoonie Penn,0,2000,57,0.0,0.0,0.0,0.0,ATL,Ohio State,0,0,0
-0.0,0.0,Pete Mickeal,0,2000,58,0.0,0.0,0.0,0.0,DAL,Cincinnati,0,0,0
-0.0,0.0,DeeAndre Hulett,0,2000,46,0.0,0.0,0.0,0.0,TOR,College of the Sequoias,0,0,0
-0.3,9.4,Dan Langhi,133,2000,31,3.0,0.012,-6.8,-1.5,DAL,Vanderbilt,4,1253,393
-21.3,19.8,Stromile Swift,547,2000,2,8.4,0.095,-1.9,0.2,VAN,LSU,9,10804,4582
-8.2,11.8,Mark Madsen,453,2000,29,2.2,0.074,-2.2,-0.2,LAL,Stanford,9,5335,975
-2.7,20.9,Marcus Fizer,289,2000,4,9.6,0.022,-4.7,-4.1,CHI,Iowa State,6,6032,2782
-60.7,26.9,Mike Miller,1032,2000,5,10.6,0.105,0.9,20.3,ORL,Florida,17,27812,10973
-6.4,17.2,DerMarr Johnson,344,2000,6,6.2,0.052,-1.6,0.6,ATL,Cincinnati,7,5930,2121
-13.3,20.1,Chris Mihm,436,2000,7,7.5,0.073,-3.8,-4.1,CHI,Texas,8,8758,3262
-60.6,29.4,Jamal Crawford,1326,2000,8,14.6,0.075,-1.1,8.9,CLE,Michigan,19,38988,19414
-18.5,19.4,Keyon Dooling,728,2000,10,7.0,0.063,-3.0,-3.6,ORL,Missouri,13,14134,5067
-2.1,9.6,Jérôme Moïso,145,2000,11,2.7,0.074,-3.8,-0.6,BOS,UCLA,5,1392,386
-14.9,17.3,Etan Thomas,409,2000,12,5.7,0.101,-2.6,-1.0,DAL,Syracuse,9,7084,2341
-4.1,21.7,Courtney Alexander,187,2000,13,9.0,0.048,-4.0,-2.1,ORL,Fresno State,3,4067,1690
--0.8,11.2,Mateen Cleaves,167,2000,14,3.6,-0.021,-6.3,-2.0,DET,Michigan State,6,1863,609
-1.9,14.4,Jason Collier,151,2000,15,5.6,0.042,-6.3,-2.3,MIL,Georgia Tech,5,2178,841
-23.0,19.8,Joel Przybilla,592,2000,9,3.9,0.094,-0.9,3.3,HOU,Minnesota,13,11733,2293
-23.1,30.5,Desmond Mason,643,2000,17,12.1,0.056,-2.4,-1.9,SEA,Oklahoma State,10,19641,7767
-0.2,9.9,Erick Barkley,27,2000,28,2.9,0.027,-3.8,-0.1,POR,St. John's,2,266,77
-1.8,12.4,Mamadou N'Diaye,69,2000,26,3.8,0.101,-5.3,-0.7,DEN,Auburn,5,858,262
-4.7,16.2,Donnell Harvey,205,2000,22,5.6,0.069,-2.7,-0.6,NYK,Florida,5,3318,1150
-35.7,27.2,Morris Peterson,711,2000,21,10.7,0.089,0.0,9.7,TOR,Michigan State,11,19366,7628
-14.2,25.6,Speedy Claxton,334,2000,20,9.3,0.08,-0.7,2.8,PHI,Hofstra,7,8548,3096
-27.7,21.5,Jamaal Magloire,680,2000,19,7.2,0.091,-2.9,-3.3,CHH,Kentucky,12,14621,4917
-32.8,26.5,Quentin Richardson,783,2000,18,10.3,0.076,-0.3,8.9,LAC,DePaul,13,20785,8032
-0.0,8.7,Jamison Brewer,54,2001,41,1.6,-0.001,-4.4,-0.3,IND,Auburn,4,468,89
-19.2,22.2,Earl Watson,878,2001,40,6.4,0.047,-1.8,1.0,SEA,UCLA,13,19494,5593
-0.0,0.0,Michael Wright,0,2001,39,0.0,0.0,0.0,0.0,NYK,Arizona,0,0,0
--0.7,9.0,Damone Brown,39,2001,37,2.8,-0.1,-10.3,-0.7,PHI,Syracuse,4,351,108
-13.8,25.3,Trenton Hassell,644,2001,30,5.8,0.041,-2.3,-1.3,CHI,Austin Peay State University,9,16278,3741
-7.6,13.0,Brian Scalabrine,520,2001,35,3.1,0.054,-2.6,-1.1,NJN,USC,11,6772,1594
-1.0,13.9,Terence Morris,139,2001,34,3.4,0.025,-3.6,-0.8,ATL,Maryland,3,1934,472
-0.0,13.8,Will Solomon,115,2001,33,5.1,0.0,-4.7,-1.1,MEM,Clemson,2,1584,584
--0.1,9.7,Omar Cook,22,2001,32,1.7,-0.021,-6.1,-0.2,ORL,St. John's,2,213,37
-51.3,35.1,Gilbert Arenas,552,2001,31,20.7,0.127,2.9,24.1,GSW,Arizona,11,19351,11402
--0.2,8.7,Jeff Trepagnier,31,2001,36,2.8,-0.038,-4.8,-0.2,CLE,USC,3,270,88
-20.1,24.7,Bobby Simmons,466,2001,42,9.0,0.084,-0.1,5.4,SEA,DePaul,10,11513,4189
-15.7,15.8,Jarron Collins,542,2001,53,3.9,0.088,-1.8,0.5,UTA,Stanford,10,8542,2095
-0.0,0.0,Kyle Hill,0,2001,44,0.0,0.0,0.0,0.0,DAL,Eastern Illinois University,0,0,0
-1.1,12.2,Sean Lampley,45,2001,45,4.5,0.096,-3.2,-0.2,CHI,California,2,550,203
-3.1,11.3,Loren Woods,215,2001,46,2.6,0.062,-2.9,-0.6,MIN,Arizona,6,2428,555
-0.0,9.8,Ken Johnson,16,2001,49,2.0,-0.002,-10.0,-0.3,MIA,Ohio State,1,156,32
-0.0,0.0,Bryan Bracey,0,2001,58,0.0,0.0,0.0,0.0,SAS,Oregon,0,0,0
-0.1,5.5,Alvin Jones,23,2001,57,1.1,0.034,-4.5,-0.1,PHI,Georgia Tech,1,126,26
-0.0,0.0,Maurice Jeffers,0,2001,55,0.0,0.0,0.0,0.0,SAC,Saint Louis,0,0,0
--1.1,14.2,Kenny Satterfield,75,2001,54,4.3,-0.051,-6.1,-1.1,DAL,Cincinnati,2,1062,321
-0.0,0.0,Andre Hutson,0,2001,52,0.0,0.0,0.0,0.0,MIL,Michigan State,0,0,0
-0.0,0.0,Eric Chenowith,0,2001,43,0.0,0.0,0.0,0.0,NYK,Kansas,0,0,0
-50.3,27.3,Troy Murphy,729,2001,14,10.8,0.121,-0.1,9.5,GSW,Notre Dame,12,19921,7860
-51.3,24.4,Samuel Dalembert,886,2001,26,7.7,0.114,-0.7,7.2,PHI,Seton Hall,13,21646,6814
-59.1,34.1,Jason Richardson,857,2001,5,17.1,0.097,1.3,24.4,GSW,Michigan State,13,29241,14644
-75.7,30.7,Shane Battier,977,2001,6,8.6,0.121,2.9,37.0,MEM,Duke,13,30004,8408
-10.9,22.2,Eddie Griffin,303,2001,7,7.2,0.078,-1.0,1.7,NJN,Seton Hall,5,6729,2171
-1.8,15.4,Rodney White,218,2001,9,7.1,0.026,-3.8,-1.5,DET,UNC Charlotte,4,3354,1540
-82.8,34.7,Joe Johnson,1276,2001,10,16.0,0.09,0.4,26.4,BOS,Arkansas,17,44234,20405
-17.2,26.4,Jamaal Tinsley,547,2001,27,8.5,0.057,-0.4,5.7,MEM,Iowa State,11,14443,4652
-3.0,13.5,Kedrick Brown,143,2001,11,3.6,0.074,-2.2,-0.1,BOS,Okaloosa-Walton Community College,4,1935,509
-0.8,7.2,Alton Ford,73,2001,51,2.5,0.074,-6.5,-0.6,PHO,Houston,3,524,186
-59.7,29.7,Gerald Wallace,832,2001,25,11.9,0.116,2.4,27.3,SAC,Alabama,14,24731,9933
--0.6,6.5,Brandon Armstrong,108,2001,23,2.2,-0.039,-8.6,-1.2,HOU,Pepperdine,3,699,239
-83.0,29.0,Richard Jefferson,1181,2001,13,12.6,0.116,0.3,19.8,HOU,Arizona,17,34293,14904
--0.4,5.0,Joseph Forte,25,2001,21,1.2,-0.166,-10.1,-0.3,BOS,UNC,2,125,30
-0.7,12.9,Jeryl Sasser,82,2001,22,2.5,0.032,-2.9,-0.2,ORL,SMU,2,1061,204
-81.1,31.0,Zach Randolph,1116,2001,19,16.6,0.112,-0.4,13.6,POR,Michigan State,17,34616,18578
-20.1,20.4,Jason Collins,735,2001,18,3.6,0.064,-2.0,0.2,HOU,Stanford,13,14974,2621
-2.0,11.7,Michael Bradley,173,2001,17,2.8,0.047,-3.7,-0.9,TOR,Villanova,5,2016,483
--0.5,5.0,Kirk Haston,27,2001,16,1.2,-0.197,-13.5,-0.4,CHH,Indiana,2,134,32
-10.6,15.0,Steven Hunter,400,2001,15,4.5,0.085,-2.8,-1.3,ORL,DePaul,8,5993,1817
-43.8,22.9,Brendan Haywood,816,2001,20,6.8,0.113,-0.2,8.4,CLE,UNC,13,18680,5538
-0.2,6.3,Ruben Boumtje-Boumtje,44,2001,50,1.0,0.027,-4.5,-0.2,POR,Georgetown,3,276,43
-0.0,2.8,Randy Holcomb,4,2002,57,0.5,0.15,-1.8,0.0,SAS,San Diego State,1,11,2
-0.1,11.0,Corsley Edwards,10,2002,58,2.7,0.026,-5.2,-0.1,SAC,Central Connecticut State University,1,110,27
-42.8,23.6,Matt Barnes,929,2002,46,8.2,0.093,1.0,16.7,MEM,UCLA,14,21967,7589
-20.8,21.3,Rasual Butler,809,2002,53,7.5,0.058,-2.1,-0.4,MIA,La Salle,13,17219,6092
-63.1,31.0,Tayshaun Prince,1017,2002,23,11.1,0.096,0.1,16.6,DET,Kentucky,14,31576,11272
-6.2,18.5,Casey Jacobsen,287,2002,22,5.2,0.056,-2.3,-0.4,PHO,Stanford,4,5320,1488
-1.4,12.3,Qyntel Woods,167,2002,21,4.1,0.032,-3.0,-0.5,POR,Northeast Mississippi Community College,4,2060,691
-1.7,17.2,Kareem Rush,346,2002,20,6.4,0.013,-4.1,-3.2,TOR,Missouri,7,5956,2213
--0.4,9.1,Ryan Humphrey,85,2002,19,2.3,-0.027,-7.6,-1.1,UTA,Notre Dame,3,772,197
-1.0,13.5,Curtis Borchardt,83,2002,18,3.1,0.041,-2.4,-0.1,ORL,Stanford,2,1117,258
-6.1,19.5,Juan Dixon,436,2002,17,8.4,0.034,-3.0,-2.1,WAS,Maryland,7,8509,3678
-16.5,24.0,Fred Jones,430,2002,14,7.5,0.077,-0.9,2.8,IND,Oregon,7,10299,3206
-0.5,9.6,Marcus Haislip,89,2002,13,3.5,0.026,-6.2,-0.9,MIL,Tennessee,4,854,311
-4.0,16.0,Melvin Ely,375,2002,12,5.3,0.032,-3.6,-2.4,LAC,Fresno State,9,6005,1992
-13.1,21.6,Jared Jeffries,629,2002,11,4.8,0.046,-0.9,3.8,WAS,Indiana,11,13579,3003
-50.9,32.2,Caron Butler,881,2002,10,14.1,0.086,0.2,15.9,MIA,UConn,14,28333,12430
-26.9,19.9,Chris Wilcox,628,2002,8,8.2,0.103,-1.6,1.2,LAC,Maryland,11,12474,5150
-0.0,21.4,Dajuan Wagner,103,2002,6,9.4,0.0,-5.6,-2.0,CLE,Memphis,4,2202,964
-43.9,25.5,Drew Gooden,790,2002,4,11.0,0.105,-1.5,2.3,MEM,Kansas,14,20127,8653
-58.5,27.7,Mike Dunleavy,986,2002,3,11.2,0.103,0.3,15.9,GSW,Duke,15,27340,11048
-0.8,26.1,Jay Williams,75,2002,2,9.5,0.02,-2.2,-0.1,CHI,Duke,1,1961,714
-0.1,11.1,Frank Williams,86,2002,25,2.9,0.003,-5.0,-0.7,DEN,Illinois,3,952,253
-33.9,26.4,John Salmons,895,2002,26,9.3,0.069,-1.0,5.8,SAS,Miami (FL),13,23672,8292
--0.5,12.0,Chris Jefferies,72,2002,27,3.9,-0.03,-6.3,-0.9,LAL,Fresno State,2,861,281
-0.0,0.0,Marcus Taylor,0,2002,52,0.0,0.0,0.0,0.0,MIN,Michigan State,0,0,0
-15.9,18.6,Darius Songaila,495,2002,50,6.9,0.083,-1.7,0.7,BOS,Wake Forest,8,9229,3415
-0.0,6.0,Chris Owens,1,2002,48,4.0,-0.032,-10.7,0.0,MIL,Texas,1,6,4
-1.4,8.8,Jamal Sampson,72,2002,47,2.0,0.106,-2.1,0.0,UTA,California,5,631,142
-0.0,0.0,Sam Clancy,0,2002,45,0.0,0.0,0.0,0.0,PHI,USC,0,0,0
-2.9,11.6,Lonny Baxter,162,2002,44,3.9,0.075,-5.1,-1.5,CHI,Maryland,4,1884,637
-0.0,0.0,Jason Jennings,0,2002,43,0.0,0.0,0.0,0.0,POR,Arkansas State University,0,0,0
-8.5,22.7,Ronald Murray,487,2002,42,9.9,0.037,-2.9,-2.6,MIL,Shaw,8,11077,4817
--0.3,7.8,Tamar Slay,66,2002,54,2.6,-0.029,-6.0,-0.5,NJN,Marshall,3,517,173
-0.0,3.9,Tito Maddox,9,2002,38,1.2,-0.011,-2.2,0.0,HOU,Fresno State,1,35,11
-80.3,31.2,Carlos Boozer,861,2002,35,16.2,0.143,1.2,22.1,CLE,Duke,13,26901,13976
-15.8,14.8,Dan Gadzuric,527,2002,34,4.7,0.097,-1.3,1.3,MIL,UCLA,10,7793,2465
-1.0,23.4,Vincent Yarbrough,59,2002,33,6.9,0.035,-2.4,-0.1,DEN,Tennessee,1,1381,406
-0.0,7.5,Robert Archibald,44,2002,32,1.2,-0.004,-5.0,-0.2,MEM,Illinois,2,328,51
-0.0,0.0,Steve Logan,0,2002,30,0.0,0.0,0.0,0.0,GSW,Cincinnati,0,0,0
-5.9,15.4,Dan Dickau,300,2002,28,5.8,0.061,-2.3,-0.4,SAC,Gonzaga,6,4617,1745
-0.0,0.0,Rod Grizzard,0,2002,39,0.0,0.0,0.0,0.0,WAS,Alabama,0,0,0
-13.0,17.7,Roger Mason,518,2002,31,6.3,0.068,-1.8,0.5,CHI,Virginia,10,9147,3289
-13.5,17.2,Luke Walton,564,2003,32,4.7,0.067,-1.2,1.9,LAL,Arizona,10,9685,2649
-106.0,35.8,Chris Bosh,893,2003,4,19.2,0.159,1.4,27.5,TOR,Georgia Tech,13,31936,17189
-0.0,0.0,Mario Austin,0,2003,36,0.0,0.0,0.0,0.0,CHI,Mississippi State,0,0,0
-0.2,12.4,Travis Hansen,41,2003,37,3.0,0.019,-5.0,-0.4,ATL,BYU,1,507,123
-29.1,23.9,Steve Blake,870,2003,38,6.5,0.067,-1.8,1.3,WAS,Maryland,13,20823,5662
-0.0,16.0,Derrick Zimmerman,2,2003,40,2.0,0.004,-9.7,-0.1,GSW,Mississippi State,1,32,4
-12.9,20.2,Willie Green,731,2003,41,8.3,0.042,-3.6,-5.9,SEA,Detroit Mercy,12,14783,6059
-20.4,21.6,Keith Bogans,671,2003,43,6.3,0.068,-0.8,4.5,MIL,Kentucky,11,14527,4257
-38.5,16.9,Matt Bonner,792,2003,45,5.8,0.138,1.0,10.1,CHI,Florida,12,13356,4632
-40.0,29.2,Mo Williams,818,2003,47,13.2,0.08,-0.5,8.9,UTA,Alabama,13,23872,10759
-25.2,15.7,James Jones,709,2003,49,5.2,0.109,-0.6,4.0,IND,Miami (FL),14,11098,3717
-72.7,25.4,Kyle Korver,1216,2003,51,9.7,0.113,0.8,21.5,NJN,Creighton,17,30925,11836
-0.0,0.0,Tommy Smith,0,2003,53,0.0,0.0,0.0,0.0,CHI,Arizona State,0,0,0
-0.0,0.0,Rick Rickert,0,2003,55,0.0,0.0,0.0,0.0,MIN,Minnesota,0,0,0
-0.7,9.4,Brandon Hunter,67,2003,56,3.3,0.055,-5.4,-0.5,BOS,Ohio University,2,630,220
-101.8,35.7,Carmelo Anthony,1097,2003,3,23.8,0.125,0.8,27.7,DEN,Syracuse,17,39202,26073
-0.0,2.5,Jerome Beasley,2,2003,33,1.0,-0.117,-22.4,0.0,MIA,University of North Dakota,1,5,2
-10.3,17.8,Jason Kapono,509,2003,31,6.7,0.055,-3.0,-2.3,CLE,UCLA,9,9068,3398
-120.7,33.9,Dwyane Wade,1054,2003,5,22.0,0.162,4.5,58.4,MIA,Marquette,16,35773,23165
-24.6,26.7,Chris Kaman,735,2003,6,11.2,0.06,-2.0,0.0,LAC,Central Michigan University,13,19642,8208
-52.5,30.7,Kirk Hinrich,879,2003,7,10.9,0.093,0.2,14.7,CHI,Kansas,13,27015,9594
-16.9,27.7,T.J. Ford,429,2003,8,11.2,0.068,-0.8,3.6,MIL,Texas,8,11882,4797
-7.8,15.5,Mike Sweetney,233,2003,9,6.5,0.103,-2.1,-0.1,NYK,Georgetown,4,3610,1516
-10.2,23.2,Jarvis Hayes,427,2003,10,8.3,0.049,-2.9,-2.2,WAS,Georgia,7,9898,3553
-6.6,16.0,Marcus Banks,348,2003,13,5.9,0.057,-2.4,-0.6,MEM,UNLV,8,5571,2061
-36.0,26.1,Luke Ridnour,830,2003,14,9.3,0.08,-0.9,5.8,SEA,Oregon,12,21623,7740
--0.6,8.5,Reece Gaines,71,2003,15,1.7,-0.049,-7.7,-0.9,ORL,Louisville,3,605,123
--0.2,5.7,Troy Bell,6,2003,16,1.8,-0.326,-14.4,-0.1,BOS,Boston College,1,34,11
-44.5,20.4,Nick Collison,910,2003,12,5.9,0.115,0.4,11.3,SEA,Kansas,14,18603,5359
-85.9,28.2,David West,1034,2003,18,13.6,0.141,1.5,25.8,NOH,Xavier,15,29144,14034
-38.0,30.3,Josh Howard,507,2003,29,14.3,0.119,0.6,10.3,DAL,Wake Forest,10,15350,7270
-9.9,15.7,Dahntay Jones,624,2003,20,5.4,0.048,-3.7,-4.1,BOS,Duke,13,9799,3353
-10.2,13.4,Brian Cook,421,2003,24,5.5,0.086,-2.4,-0.6,LAL,Illinois,9,5649,2312
-61.5,29.7,Trevor Ariza,1047,2004,43,10.5,0.095,1.4,26.7,NYK,UCLA,16,31093,11035
-0.0,0.0,David Young,0,2004,41,0.0,0.0,0.0,0.0,SEA,NC Central,0,0,0
-0.5,10.6,Justin Reed,136,2004,40,3.5,0.016,-5.9,-1.4,BOS,Ole Miss,3,1436,472
-0.1,9.7,Antonio Burks,81,2004,36,2.3,0.004,-6.6,-0.9,ORL,Memphis,2,789,186
-4.5,12.5,Royal Ivey,492,2004,37,3.3,0.035,-3.8,-2.8,ATL,Texas,10,6162,1641
-0.1,5.2,Andre Emmett,14,2004,35,1.4,0.04,-6.8,-0.1,SEA,Texas Tech,2,73,20
-0.5,9.2,Donta Smith,61,2004,34,2.7,0.043,-3.2,-0.2,ATL,Southeastern Illinois College,2,560,165
--0.2,12.0,Lionel Chalmers,36,2004,33,3.1,-0.025,-6.3,-0.5,LAC,Xavier,1,433,111
-25.0,25.6,Chris Duhon,606,2004,38,6.5,0.077,-1.5,2.0,CHI,Duke,9,15526,3946
-0.0,0.0,Tim Pickett,0,2004,44,0.0,0.0,0.0,0.0,NOH,Florida State,0,0,0
-0.0,0.0,Blake Stepp,0,2004,58,0.0,0.0,0.0,0.0,MIN,Gonzaga,0,0,0
-0.0,0.0,Ricky Minard,0,2004,48,0.0,0.0,0.0,0.0,SAC,Morehead State University,0,0,0
-0.0,0.0,Christian Drejer,0,2004,51,0.0,0.0,0.0,0.0,NJN,Florida,0,0,0
-0.0,0.0,Romain Sato,0,2004,52,0.0,0.0,0.0,0.0,SAS,Xavier,0,0,0
--0.6,14.0,Matt Freije,42,2004,53,3.2,-0.047,-6.3,-0.6,MIA,Vanderbilt,2,588,133
-0.0,0.0,Rickey Paulding,0,2004,54,0.0,0.0,0.0,0.0,DET,Missouri,0,0,0
-0.0,4.8,Luis Flores,16,2004,55,2.2,-0.02,-9.6,-0.1,HOU,Manhattan College,1,77,35
-0.0,0.0,Marcus Douthit,0,2004,56,0.0,0.0,0.0,0.0,LAL,Providence,0,0,0
-0.0,12.8,Jackson Vroman,87,2004,31,3.3,0.001,-3.9,-0.5,CHI,Iowa State,2,1111,285
-0.0,0.0,Rashad Wright,0,2004,59,0.0,0.0,0.0,0.0,IND,Georgia,0,0,0
-2.0,14.9,Bernard Robinson,128,2004,45,4.5,0.049,-2.0,0.0,CHA,Michigan,3,1909,576
-0.8,11.6,Pape Sow,76,2004,47,2.9,0.044,-4.8,-0.6,MIA,"California State University, Fullerton",3,879,219
-3.2,14.2,David Harrison,189,2004,29,5.0,0.057,-3.4,-1.0,IND,Colorado,4,2686,949
-45.3,30.9,Emeka Okafor,616,2004,2,12.0,0.114,-0.4,7.6,CHA,UConn,10,19055,7370
-33.3,27.4,Ben Gordon,744,2004,3,14.9,0.078,-1.1,4.7,CHI,UConn,11,20366,11084
-54.9,24.3,Devin Harris,985,2004,5,10.8,0.11,0.3,13.7,WAS,Wisconsin,15,23963,10597
-25.7,26.7,Josh Childress,391,2004,6,9.1,0.118,1.3,8.6,ATL,Stanford,8,10432,3548
-74.0,34.3,Luol Deng,902,2004,7,14.8,0.115,0.9,22.6,PHO,Duke,15,30941,13361
--0.4,11.4,Rafael Araújo,139,2004,8,2.8,-0.013,-6.4,-1.8,TOR,BYU,3,1585,389
-96.4,33.4,Andre Iguodala,1108,2004,9,12.1,0.125,2.9,45.5,PHI,Arizona,15,37034,13456
-0.2,9.9,Luke Jackson,73,2004,10,3.5,0.01,-4.4,-0.4,CLE,Oregon,4,724,252
-4.5,16.8,Kirk Snyder,211,2004,16,6.3,0.061,-2.0,0.0,UTA,Nevada,4,3540,1333
-48.3,27.9,Jameer Nelson,878,2004,20,11.3,0.094,0.0,12.7,DEN,Saint Joseph's,14,24539,9940
-30.3,17.8,Kris Humphries,800,2004,14,6.7,0.102,-2.0,0.1,UTA,Minnesota,13,14232,5350
-24.5,27.4,Delonte West,432,2004,24,9.7,0.099,0.5,7.6,BOS,Saint Joseph's,8,11842,4198
-38.7,22.0,Tony Allen,820,2004,25,8.1,0.103,1.0,13.7,BOS,Oklahoma State,14,18055,6654
-61.3,30.2,Kevin Martin,714,2004,26,17.4,0.137,0.1,11.3,SAC,Western Carolina University,12,21559,12396
-0.5,8.5,Chris Taft,17,2005,42,2.8,0.155,-1.3,0.0,GSW,Pitt,1,144,47
-3.3,12.4,Von Wafer,200,2005,39,5.3,0.064,-3.2,-0.7,LAL,Florida State,6,2475,1054
-42.8,21.6,Brandon Bass,758,2005,33,8.7,0.125,-1.1,3.7,NOH,LSU,12,16410,6575
-19.2,17.0,Ronny Turiaf,473,2005,37,4.7,0.115,1.0,6.0,LAL,Gonzaga,10,8020,2209
-5.6,14.9,Travis Diener,179,2005,38,4.8,0.102,-1.8,0.1,ORL,Marquette,5,2660,854
-19.4,27.6,Ryan Gomes,487,2005,50,10.1,0.069,-1.3,2.3,BOS,Providence,8,13463,4926
-0.5,12.5,Bracey Wright,26,2005,47,5.0,0.068,-3.7,-0.1,MIN,Indiana,2,325,129
-0.8,13.3,Daniel Ewing,127,2005,32,3.4,0.024,-3.7,-0.7,LAC,Duke,2,1683,431
-0.0,9.2,Robert Whaley,23,2005,51,2.1,0.004,-3.5,-0.1,UTA,Walsh University,1,212,49
--0.7,11.9,Orien Greene,131,2005,53,2.5,-0.022,-3.8,-0.7,BOS,LA-Lafayette,4,1555,326
-0.2,5.8,Dijon Thompson,16,2005,54,2.8,0.102,-4.3,-0.1,NYK,UCLA,2,93,45
-2.5,13.2,Lawrence Roberts,87,2005,55,3.8,0.106,-1.4,0.2,SEA,Mississippi State,2,1150,334
-2.2,17.0,Salim Stoudamire,157,2005,31,8.0,0.04,-5.1,-2.1,ATL,Arizona,3,2672,1260
-14.7,22.4,Luther Head,348,2005,24,8.2,0.09,-0.4,3.2,HOU,Illinois,6,7797,2842
-0.9,9.9,Wayne Simien,51,2005,29,3.3,0.083,-4.8,-0.4,MIA,Kansas,2,507,169
-50.6,28.1,Andrew Bogut,706,2005,1,9.6,0.122,2.3,21.6,MIL,Utah,14,19862,6808
-64.1,28.3,Marvin Williams,1053,2005,2,10.3,0.103,-0.2,13.2,ATL,UNC,15,29796,10891
-77.3,34.2,Deron Williams,845,2005,3,16.3,0.129,1.3,23.8,UTA,Illinois,12,28865,13804
-177.7,34.9,Chris Paul,999,2005,4,18.5,0.244,7.2,80.9,NOH,Wake Forest,15,34900,18436
-40.2,29.7,Raymond Felton,971,2005,5,11.2,0.067,-0.6,9.9,CHA,UNC,14,28829,10853
-22.6,20.7,Charlie Villanueva,656,2005,7,10.4,0.08,-1.8,0.6,TOR,UConn,11,13578,6808
-38.9,22.2,Channing Frye,890,2005,8,8.7,0.094,-0.2,8.9,NYK,Arizona,13,19772,7786
-6.5,12.4,Ike Diogu,225,2005,9,6.0,0.112,-4.8,-2.0,GSW,Arizona State,6,2795,1348
-76.0,29.3,David Lee,829,2005,30,13.5,0.15,1.6,22.3,NYK,Florida,12,24293,11232
-2.6,15.7,Sean May,119,2005,13,6.9,0.068,-2.4,-0.2,CHA,UNC,4,1868,821
-3.1,19.2,Antoine Wright,297,2005,15,5.4,0.026,-3.1,-1.5,NJN,Texas A&M,6,5714,1614
-48.5,31.5,Danny Granger,586,2005,17,16.8,0.126,1.5,16.1,IND,New Mexico,10,18487,9855
-20.4,20.2,Hakim Warrick,526,2005,19,9.4,0.092,-3.1,-2.9,MEM,Syracuse,8,10624,4947
-0.0,4.3,Julius Hodge,23,2005,20,1.2,0.003,-4.5,-0.1,DEN,NC State,2,98,28
-27.8,22.5,Nate Robinson,618,2005,21,11.0,0.096,0.2,7.8,PHO,Washington,11,13878,6807
-36.8,27.8,Jarrett Jack,867,2005,22,10.8,0.073,-1.2,5.1,DEN,Georgia Tech,13,24140,9349
-18.2,21.6,Francisco García,549,2005,23,7.9,0.074,-0.3,4.9,SAC,Louisville,10,11853,4323
-20.3,18.4,Jason Maxiell,618,2005,26,5.6,0.086,-2.0,0.1,DET,Cincinnati,10,11379,3481
-13.6,20.0,Linas Kleiza,409,2005,27,8.7,0.08,-2.4,-0.9,POR,Missouri,7,8185,3561
-3.6,20.2,Rashad McCants,249,2005,14,10.0,0.035,-2.5,-0.6,MIN,UNC,4,5037,2479
-7.8,16.2,Joey Graham,377,2005,16,5.9,0.061,-3.8,-2.8,TOR,Oklahoma State,6,6117,2239
--0.2,7.8,Alex Acker,30,2005,60,2.7,-0.043,-6.9,-0.3,DET,Pepperdine,2,234,81
-0.8,8.7,James White,67,2006,31,2.7,0.062,-3.4,-0.2,POR,Cincinnati,3,583,182
-16.0,16.9,Craig Smith,403,2006,36,7.6,0.113,-1.5,0.9,MIN,Boston College,6,6826,3080
-1.1,9.5,Bobby Jones,91,2006,37,3.2,0.06,-3.5,-0.3,MIN,Washington,2,867,288
-0.4,11.6,David Noel,68,2006,39,2.7,0.024,-3.4,-0.3,MIL,UNC,1,792,184
-0.0,0.0,Denham Brown,0,2006,40,0.0,0.0,0.0,0.0,SEA,UConn,0,0,0
-0.3,5.8,James Augustine,27,2006,41,1.6,0.101,-2.2,0.0,ORL,Illinois,2,156,42
-16.0,23.5,Daniel Gibson,397,2006,42,7.8,0.082,-1.0,2.3,CLE,Texas,7,9316,3115
-1.5,12.8,Alexander Johnson,102,2006,45,4.3,0.056,-4.3,-0.7,IND,Florida State,2,1302,439
-0.1,10.5,Dee Brown,68,2006,46,2.1,0.008,-4.1,-0.4,UTA,Illinois,2,711,140
-90.8,29.2,Paul Millsap,977,2006,47,14.0,0.153,3.1,37.0,UTA,Louisiana Tech,14,28519,13708
-12.0,13.9,Leon Powe,239,2006,49,6.2,0.174,-2.3,-0.2,DEN,California,5,3320,1484
-10.4,11.8,Ryan Hollins,518,2006,50,3.7,0.081,-2.6,-1.0,CHA,UCLA,10,6134,1913
-0.0,3.0,Guillermo Díaz,6,2006,52,0.8,0.033,-5.9,0.0,LAC,Miami (FL),1,18,5
-0.8,7.5,Hassan Adams,73,2006,54,2.5,0.072,-4.4,-0.3,NJN,Arizona,2,547,185
-0.0,0.0,J.R. Pinnock,0,2006,58,0.0,0.0,0.0,0.0,DAL,George Washington,0,0,0
--0.1,11.9,Will Blalock,14,2006,60,1.8,-0.032,-5.7,-0.2,DET,Iowa State,1,166,25
-33.1,29.2,P.J. Tucker,630,2006,35,7.4,0.086,0.9,13.4,TOR,Texas,9,18407,4663
-0.5,8.6,Paul Davis,82,2006,34,2.6,0.035,-4.7,-0.5,LAC,Michigan State,4,702,217
-5.0,11.0,Solomon Jones,281,2006,33,3.0,0.078,-2.9,-0.7,ATL,South Florida,8,3092,839
-14.5,12.1,Steve Novak,467,2006,32,4.7,0.123,-0.9,1.6,HOU,Marquette,11,5657,2177
-37.4,35.5,Brandon Roy,326,2006,6,18.8,0.155,3.2,15.2,MIN,Washington,6,11561,6136
-23.5,25.6,Randy Foye,752,2006,7,10.3,0.058,-1.3,3.4,BOS,Villanova,11,19279,7729
-56.2,33.4,Rudy Gay,923,2006,8,17.2,0.087,0.4,19.0,HOU,UConn,14,30852,15909
-0.5,5.8,Patrick O'Bryant,90,2006,9,2.1,0.046,-3.1,-0.2,GSW,Bradley,4,524,186
-62.1,26.0,J.J. Redick,880,2006,11,13.0,0.13,0.0,11.5,ORL,Duke,14,22881,11470
-3.9,11.6,Hilton Armstrong,292,2006,12,3.0,0.055,-2.8,-0.7,NOK,UConn,6,3378,880
-30.4,23.0,Ronnie Brewer,502,2006,14,7.8,0.127,1.7,10.7,UTA,Arkansas,8,11539,3940
-0.1,9.4,Cedric Simmons,75,2006,15,2.2,0.005,-5.7,-0.7,NOK,NC State,3,705,163
-6.2,15.4,Rodney Carney,299,2006,16,5.9,0.064,-2.7,-0.8,CHI,Memphis,5,4600,1778
-6.7,17.1,Shawne Williams,314,2006,17,5.6,0.06,-2.0,0.0,IND,Memphis,7,5368,1769
-111.3,34.4,LaMarcus Aldridge,993,2006,2,19.6,0.156,1.5,29.8,CHI,Texas,14,34190,19420
-7.2,13.9,Renaldo Balkman,221,2006,20,4.0,0.113,0.9,2.2,NYK,South Carolina,6,3064,894
-59.4,31.3,Rajon Rondo,857,2006,21,10.3,0.106,1.3,22.6,PHO,Kentucky,14,26791,8804
-0.0,15.2,Marcus Williams,203,2006,22,5.6,-0.001,-4.6,-2.0,NJN,UConn,4,3095,1128
-9.1,17.5,Josh Boone,256,2006,23,5.2,0.097,-1.9,0.1,NJN,UConn,4,4482,1340
-91.5,31.5,Kyle Lowry,894,2006,24,14.7,0.156,3.8,41.0,MEM,Villanova,14,28178,13098
-9.2,18.0,Shannon Brown,408,2006,25,7.6,0.06,-2.3,-0.6,CLE,Michigan State,9,7329,3118
-13.9,19.5,Jordan Farmar,504,2006,26,7.7,0.068,-1.4,1.6,LAL,UCLA,10,9840,3888
--0.9,6.2,Maurice Ager,82,2006,28,2.1,-0.089,-10.4,-1.1,DAL,Michigan State,4,505,169
--1.6,14.7,Mardy Collins,189,2006,29,3.9,-0.027,-4.9,-2.0,NYK,Temple,4,2771,742
--1.4,20.4,Adam Morrison,161,2006,3,7.5,-0.021,-5.5,-2.9,CHA,Gonzaga,3,3278,1200
-0.0,10.7,Quincy Douby,143,2006,19,4.1,0.0,-5.4,-1.3,SAC,Rutgers University,3,1535,588
-9.9,15.5,Shelden Williams,361,2006,5,4.5,0.085,-2.8,-1.2,ATL,Duke,6,5586,1618
-13.0,19.7,Tyrus Thomas,402,2006,4,7.7,0.078,-1.1,1.7,POR,LSU,8,7932,3093
-33.5,27.3,Arron Afflalo,762,2007,27,10.8,0.077,-1.1,4.5,DET,UCLA,11,20829,8198
-19.2,20.8,Aaron Brooks,645,2007,26,9.7,0.069,-1.8,0.8,HOU,Oregon,10,13439,6259
-0.0,9.5,Morris Almond,38,2007,25,3.1,0.005,-6.4,-0.4,UTA,Rice University,3,361,119
-28.8,30.2,Wilson Chandler,660,2007,23,12.7,0.069,-0.8,6.1,NYK,DePaul,12,19942,8383
-42.8,22.7,Jared Dudley,880,2007,22,7.5,0.103,1.0,15.3,CHA,Boston College,13,19958,6617
-4.9,18.3,Daequan Cook,328,2007,21,6.4,0.039,-3.6,-2.4,PHI,Ohio State,6,5993,2114
-14.1,16.3,Jason Smith,616,2007,20,6.1,0.067,-2.7,-1.6,MIA,Colorado State,11,10029,3777
-0.1,16.4,Javaris Crittenton,113,2007,19,5.3,0.002,-4.3,-1.1,LAL,Georgia Tech,2,1853,595
-3.0,14.4,Sean Williams,137,2007,17,4.2,0.073,-2.0,0.0,NJN,Boston College,4,1978,581
-18.6,22.8,Nick Young,720,2007,16,11.4,0.054,-3.4,-5.8,WAS,USC,12,16419,8194
-28.7,27.5,Rodney Stuckey,651,2007,15,12.6,0.077,-1.4,2.7,DET,Eastern Washington,10,17890,8185
-6.1,28.0,Al Thornton,296,2007,14,11.9,0.035,-3.5,-3.1,LAC,Florida State,4,8274,3527
-3.9,13.2,Julian Wright,231,2007,13,3.9,0.061,-1.3,0.5,NOK,Kansas,4,3049,907
-60.9,30.3,Thaddeus Young,951,2007,12,13.2,0.101,0.6,19.2,PHI,Georgia Tech,13,28855,12514
-1.6,12.7,Acie Law,188,2007,11,3.9,0.032,-5.4,-2.0,ATL,Texas A&M,4,2385,725
-22.6,22.7,Spencer Hawes,684,2007,10,8.7,0.07,-0.7,5.0,SAC,Washington,10,15541,5932
-61.8,27.9,Joakim Noah,667,2007,9,8.8,0.16,4.1,28.4,CHI,Florida,12,18596,5867
-26.2,16.2,Brandan Wright,428,2007,8,7.0,0.181,1.6,6.4,CHA,UNC,10,6949,2976
-22.5,23.0,Corey Brewer,814,2007,7,8.7,0.058,-1.0,4.8,MIN,Florida,12,18738,7092
-40.9,29.6,Jeff Green,890,2007,5,13.0,0.074,-1.3,4.3,BOS,Georgetown,12,26372,11553
-72.3,32.4,Mike Conley,816,2007,4,14.8,0.131,1.9,25.7,MEM,Ohio State,13,26464,12085
-89.7,32.7,Al Horford,830,2007,3,14.0,0.158,3.2,35.7,ATL,Florida,13,27155,11644
--0.2,8.2,D.J. Strawberry,33,2007,59,2.2,-0.031,-5.1,-0.2,PHO,Maryland,1,270,73
-0.4,7.4,Gabe Pruitt,62,2007,32,2.0,0.043,-3.1,-0.1,BOS,USC,2,461,125
-0.0,0.0,Sammy Mejia,0,2007,57,0.0,0.0,0.0,0.0,DET,DePaul,0,0,0
-28.8,23.3,Ramon Sessions,691,2007,56,10.3,0.086,-1.9,0.5,MIL,Nevada,11,16119,7141
-0.0,0.0,Herbert Hill,0,2007,55,0.0,0.0,0.0,0.0,UTA,Providence,0,0,0
--0.2,3.2,Demetris Nichols,18,2007,53,1.2,-0.203,-15.3,-0.2,POR,Syracuse,2,58,22
--0.1,4.4,Taurean Green,17,2007,52,1.6,-0.066,-8.2,-0.1,POR,Florida,1,74,27
-0.0,0.0,JamesOn Curry,1,2007,51,0.0,0.0,0.0,0.0,CHI,Oklahoma State,1,0,0
-6.2,12.1,Aaron Gray,318,2007,49,3.4,0.077,-1.8,0.2,CHI,Pitt,7,3851,1066
-4.1,15.6,Dominic McGuire,342,2007,47,2.7,0.037,-1.6,0.6,WAS,Fresno State,6,5348,939
-0.3,18.9,Stéphane Lasme,16,2007,46,5.2,0.041,-2.8,-0.1,GSW,UMass,1,303,83
-0.0,0.0,Reyshawn Terry,0,2007,44,0.0,0.0,0.0,0.0,ORL,UNC,0,0,0
-0.0,0.0,Adam Haluska,0,2007,43,0.0,0.0,0.0,0.0,NOK,Iowa,0,0,0
-0.1,18.5,Derrick Byars,2,2007,42,5.0,0.147,0.6,0.0,POR,Vanderbilt,1,37,10
-0.7,11.1,Chris Richard,70,2007,41,1.9,0.045,-3.5,-0.3,MIN,Florida,2,780,135
-18.5,19.1,Josh McRoberts,433,2007,37,5.4,0.107,1.0,6.2,POR,Duke,11,8271,2333
-0.0,8.3,Jermareo Davidson,52,2007,36,3.1,0.0,-7.6,-0.6,GSW,Alabama,2,433,162
-18.6,21.1,Glen Davis,514,2007,35,8.0,0.082,-2.3,-0.8,SEA,LSU,8,10865,4111
-0.8,10.3,Nick Fazekas,26,2007,34,4.1,0.148,-0.1,0.1,DAL,Nevada,1,269,107
--0.1,3.0,Marcus Williams,13,2007,33,1.1,-0.084,-7.5,-0.1,SAS,Arizona,2,39,14
-0.0,0.0,Jared Jordan,0,2007,45,0.0,0.0,0.0,0.0,LAC,Marist College,0,0,0
-35.9,22.5,Carl Landry,513,2007,31,10.8,0.149,-1.1,2.6,SEA,Purdue,9,11524,5541
-0.4,8.4,Alando Tucker,51,2007,29,4.1,0.045,-6.7,-0.5,PHO,Wisconsin,3,426,211
-7.3,19.3,Greg Oden,105,2007,1,8.0,0.174,1.1,1.6,POR,Ohio State,3,2028,840
-141.7,36.9,Kevin Durant,849,2007,2,27.0,0.217,5.1,55.7,SEA,Texas,12,31305,22940
-21.8,30.9,O.J. Mayo,547,2008,3,13.8,0.062,-0.8,5.1,MIN,USC,8,16919,7574
-1.5,16.8,Donté Greene,253,2008,28,6.1,0.017,-3.8,-2.0,MEM,Syracuse,4,4259,1541
-12.3,17.8,Darrell Arthur,503,2008,27,6.5,0.066,-1.9,0.3,NOH,Kansas,9,8945,3282
-64.3,27.8,George Hill,770,2008,26,11.2,0.144,1.7,20.2,SAS,IUPUI,12,21399,8592
-28.3,16.4,Kosta Koufos,686,2008,23,5.7,0.12,-0.9,3.3,UTA,Ohio State,11,11271,3913
-38.8,27.2,Courtney Lee,797,2008,22,9.6,0.086,-0.2,9.8,ORL,Western Kentucky,12,21673,7691
-46.7,25.8,Ryan Anderson,649,2008,21,12.3,0.134,0.6,11.0,NJN,California,12,16769,8001
-21.9,22.3,J.J. Hickson,534,2008,19,9.5,0.088,-2.3,-0.9,CLE,NC State,8,11925,5081
-35.5,17.4,JaVale McGee,678,2008,18,8.0,0.145,0.2,6.5,WAS,Nevada,12,11765,5400
-35.9,24.8,Roy Hibbert,662,2008,17,10.0,0.105,0.2,9.1,TOR,Georgetown,9,16389,6611
-25.8,15.1,Marreese Speights,705,2008,16,7.9,0.116,-2.8,-2.2,PHI,Florida,10,10640,5592
-3.8,15.3,D.J. White,138,2008,29,5.9,0.087,-3.4,-0.7,DET,Indiana,6,2111,810
-5.8,15.2,Anthony Randolph,252,2008,14,7.1,0.072,-2.1,-0.1,GSW,LSU,6,3841,1789
-11.2,22.0,Brandon Rush,481,2008,13,6.8,0.051,-1.7,0.7,POR,Kansas,9,10564,3250
-23.8,25.2,Jason Thompson,588,2008,12,8.9,0.077,-1.7,1.3,SAC,Rider University,8,14819,5210
-18.6,21.3,Jerryd Bayless,586,2008,11,8.4,0.072,-2.0,0.0,IND,Arizona,11,12486,4909
-63.4,30.7,Brook Lopez,763,2008,10,16.9,0.13,1.1,18.5,NJN,Stanford,12,23386,12878
-44.3,24.2,D.J. Augustin,846,2008,9,9.9,0.104,-1.5,2.7,CHA,Texas,12,20432,8345
-0.5,11.1,Joe Alexander,67,2008,8,4.2,0.03,-3.3,-0.2,MIL,West Virginia,2,745,282
-34.4,32.9,Eric Gordon,653,2008,7,16.7,0.077,-1.0,5.4,LAC,Indiana,12,21503,10880
-80.8,31.9,Kevin Love,699,2008,5,18.2,0.174,2.6,25.7,MEM,UCLA,12,22332,12741
-100.2,34.6,Russell Westbrook,862,2008,4,23.1,0.161,6.4,63.1,SEA,UCLA,12,29803,19944
-15.6,22.8,Michael Beasley,609,2008,2,12.4,0.054,-3.2,-4.3,MIA,Kansas State,11,13903,7568
-44.2,22.6,Robin Lopez,810,2008,15,8.9,0.116,0.0,9.3,PHO,Stanford,12,18274,7191
--0.1,2.5,Walter Sharpe,8,2008,32,1.0,-0.131,-16.5,-0.1,SEA,University of Alabama at Birmingham,1,20,8
-0.0,0.0,Deron Washington,0,2008,59,0.0,0.0,0.0,0.0,DET,Virginia Tech,0,0,0
-0.0,11.5,Joe Crawford,2,2008,58,4.5,0.037,-5.6,0.0,LAL,Kentucky,1,23,9
-0.0,0.0,James Gist,0,2008,57,0.0,0.0,0.0,0.0,SAS,Maryland,0,0,0
-0.2,3.8,Sasha Kaun,25,2008,56,0.9,0.096,-0.8,0.0,SEA,Kansas,1,95,23
--0.4,15.1,Mike Taylor,51,2008,55,5.7,-0.028,-5.5,-0.7,POR,Iowa State,1,771,289
-0.0,0.0,Maarty Leunen,0,2008,54,0.0,0.0,0.0,0.0,HOU,Oregon,0,0,0
-1.3,7.5,Darnell Jackson,138,2008,52,2.2,0.059,-4.9,-0.7,MIA,Kansas,3,1039,308
-0.0,0.0,Shan Foster,0,2008,51,0.0,0.0,0.0,0.0,DAL,Vanderbilt,0,0,0
-0.0,0.0,DeVon Hardin,0,2008,50,0.0,0.0,0.0,0.0,SEA,California,0,0,0
-0.0,0.0,Richard Hendrix,0,2008,49,0.0,0.0,0.0,0.0,GSW,Alabama,0,0,0
-0.8,7.6,Malik Hairston,62,2008,48,2.4,0.086,-1.9,0.0,PHO,Oregon,2,472,149
-5.0,16.7,Henry Walker,181,2008,47,6.0,0.079,-1.3,0.5,WAS,Kansas State,5,3016,1079
-0.0,0.0,Trent Plaisted,0,2008,46,0.0,0.0,0.0,0.0,SEA,Brigham Young University Hawaii,0,0,0
--0.1,2.7,Patrick Ewing,7,2008,43,0.4,-0.158,-9.3,0.0,SAC,Georgetown,1,19,3
-0.0,8.2,Sean Singletary,37,2008,42,2.4,0.006,-4.9,-0.2,SAC,Virginia,1,303,90
-5.4,19.7,Chris Douglas-Roberts,222,2008,40,7.1,0.059,-2.9,-1.0,NJN,Memphis,6,4381,1571
-0.0,18.2,Sonny Weems,183,2008,39,6.5,0.001,-4.2,-1.9,CHI,Arkansas,4,3335,1189
-1.5,18.9,Kyle Weaver,73,2008,38,5.0,0.051,-1.3,0.3,CHA,Washington State,3,1379,363
-26.0,23.3,Luc Mbah a Moute,686,2008,37,6.4,0.078,-0.8,4.9,MIL,UCLA,11,16013,4375
-86.9,27.9,DeAndre Jordan,858,2008,35,9.5,0.175,2.2,25.4,LAC,Texas A&M,12,23906,8141
-32.3,26.7,Mario Chalmers,646,2008,34,8.9,0.09,0.3,9.8,MIN,Kansas,9,17245,5743
-2.9,11.4,Joey Dorsey,130,2008,33,2.6,0.092,-1.3,0.3,POR,Memphis,4,1488,344
-0.1,6.5,J.R. Giddens,38,2008,30,1.9,0.027,-4.6,-0.2,BOS,New Mexico,2,247,73
-40.1,32.7,Derrick Rose,589,2008,1,18.8,0.1,0.3,11.3,CHI,Memphis,11,19254,11094
-0.0,0.0,Robert Dozier,0,2009,60,0.0,0.0,0.0,0.0,MIA,Memphis,0,0,0
-51.4,25.3,Taj Gibson,783,2009,26,9.6,0.124,0.1,10.3,CHI,USC,11,19828,7486
-0.6,18.2,Byron Mullens,189,2009,24,7.4,0.008,-4.6,-2.3,DAL,Ohio State,5,3446,1398
-49.9,29.4,Darren Collison,708,2009,21,12.5,0.115,0.1,11.1,NOH,UCLA,10,20796,8857
-3.3,14.6,Eric Maynor,267,2009,20,4.3,0.041,-4.7,-2.7,UTA,Virginia Commonwealth,5,3896,1141
-50.5,27.7,Jeff Teague,753,2009,19,12.7,0.116,-0.1,9.7,ATL,Wake Forest,11,20836,9539
-42.1,29.2,Ty Lawson,551,2009,18,12.7,0.126,0.7,10.9,MIN,UNC,8,16088,6977
-41.5,33.2,Jrue Holiday,692,2009,17,15.8,0.087,1.3,19.2,PHI,UCLA,11,22997,10946
-23.9,20.6,James Johnson,619,2009,16,7.9,0.09,1.0,9.7,CHI,Wake Forest,11,12728,4883
-4.5,14.1,Austin Daye,293,2009,15,5.2,0.053,-2.6,-0.6,DET,Gonzaga,6,4132,1522
-29.2,23.8,DeMarre Carroll,569,2009,27,9.0,0.104,0.6,8.9,MEM,Missouri,11,13520,5096
-2.9,13.9,Earl Clark,261,2009,14,4.4,0.038,-3.6,-1.5,PHO,Louisville,6,3630,1138
-18.3,25.9,Gerald Henderson,535,2009,12,11.2,0.063,-2.2,-0.9,CHA,Duke,8,13854,5987
--0.2,19.1,Terrence Williams,153,2009,11,7.1,-0.004,-3.8,-1.4,NJN,Louisville,4,2922,1085
-65.6,34.2,DeMar DeRozan,799,2009,9,20.0,0.115,-0.3,11.5,TOR,USC,11,27291,16014
-16.4,18.8,Jordan Hill,409,2009,8,7.9,0.102,-2.0,0.0,NYK,Arizona,8,7692,3232
-103.1,34.3,Stephen Curry,698,2009,7,23.5,0.206,6.5,51.2,GSW,Davidson,11,23971,16396
--1.1,22.9,Jonny Flynn,163,2009,6,9.2,-0.015,-4.9,-2.7,MIN,Syracuse,3,3738,1504
-28.4,30.7,Tyreke Evans,594,2009,4,15.7,0.075,0.7,12.6,SAC,Memphis,10,18242,9347
-130.6,34.3,James Harden,810,2009,3,25.0,0.226,7.2,64.5,OKC,Arizona State,11,27775,20231
-4.8,10.5,Hasheem Thabeet,224,2009,2,2.2,0.099,-1.4,0.4,MEM,UConn,5,2357,483
-75.3,34.8,Blake Griffin,622,2009,1,21.7,0.167,3.8,32.0,LAC,Oklahoma,10,21671,13479
-20.2,16.9,Tyler Hansbrough,428,2009,13,6.7,0.134,-2.5,-1.0,IND,UNC,7,7233,2881
-17.7,21.0,Wayne Ellington,669,2009,28,8.0,0.06,-2.1,-0.3,MIN,UNC,11,14058,5373
-12.1,19.1,Toney Douglas,394,2009,29,7.6,0.077,-0.6,2.6,LAL,Florida State,8,7511,3009
-0.0,0.0,Ahmad Nivins,0,2009,56,0.0,0.0,0.0,0.0,DAL,Saint Joseph's,0,0,0
-29.6,19.3,Patty Mills,652,2009,55,8.7,0.113,0.4,7.6,POR,Saint Mary's,11,12596,5648
-0.0,0.0,Robert Vaden,0,2009,54,0.0,0.0,0.0,0.0,CHA,University of Alabama at Birmingham,0,0,0
-4.7,15.1,A.J. Price,261,2009,52,5.8,0.058,-2.4,-0.4,IND,UConn,6,3929,1523
-0.0,0.0,Jack McClinton,0,2009,51,0.0,0.0,0.0,0.0,SAS,Miami (FL),0,0,0
-0.0,0.0,Goran Suton,0,2009,50,0.0,0.0,0.0,0.0,UTA,Michigan State,0,0,0
-0.0,4.0,Taylor Griffin,8,2009,48,1.3,-0.039,-7.3,0.0,PHO,Oklahoma,1,32,10
-41.8,25.4,Danny Green,666,2009,46,9.0,0.119,2.9,20.9,CLE,UNC,11,16920,5978
-2.6,15.6,Nick Calathes,129,2009,45,4.6,0.063,-0.7,0.6,MIN,Florida,2,2011,590
-13.9,19.7,Chase Budinger,407,2009,44,7.9,0.083,-1.4,1.2,DET,Arizona,7,7998,3198
-20.0,23.4,Marcus Thornton,483,2009,43,11.9,0.085,-0.8,3.4,MIA,LSU,8,11299,5750
-27.7,28.3,Patrick Beverley,417,2009,42,9.0,0.113,2.1,12.3,LAL,Arkansas,8,11806,3747
-24.3,22.5,Jodie Meeks,539,2009,41,9.3,0.096,-0.6,4.2,MIL,Kentucky,10,12110,4988
-4.5,14.9,Derrick Brown,171,2009,40,5.2,0.085,-1.6,0.2,CHA,Xavier,3,2554,895
-3.7,10.5,Jon Brockman,150,2009,38,2.1,0.113,-2.1,0.0,POR,Washington,3,1570,320
-19.0,16.6,DeJuan Blair,424,2009,37,6.8,0.129,0.4,4.2,SAS,Pitt,7,7054,2865
-5.2,15.9,Sam Young,249,2009,36,5.8,0.063,-2.9,-0.9,MEM,Pitt,4,3966,1436
--0.1,9.9,DaJuan Summers,83,2009,35,3.3,-0.008,-6.4,-0.9,DET,Georgetown,4,820,278
-24.9,20.8,Dante Cunningham,715,2009,33,5.8,0.08,-1.0,3.7,POR,Villanova,10,14875,4133
-0.2,12.1,Jermaine Taylor,65,2009,32,5.4,0.014,-4.6,-0.5,WAS,Central Florida,2,786,351
-6.3,9.8,Jeff Ayres,237,2009,31,2.9,0.131,-1.4,0.4,SAC,Arizona State,6,2322,690
-0.0,0.0,Chinemelu Elonu,0,2009,59,0.0,0.0,0.0,0.0,LAL,Texas A&M,0,0,0
-0.2,10.4,Lester Hudson,57,2009,58,4.7,0.016,-2.7,-0.1,BOS,University of Tennessee at Martin,4,594,268
-52.1,25.7,Derrick Favors,662,2010,3,11.5,0.147,1.5,15.0,NJN,Georgia Tech,10,16992,7615
-0.0,0.0,Dwayne Collins,0,2010,60,0.0,0.0,0.0,0.0,PHO,Miami (FL),0,0,0
-0.2,8.2,Lazar Hayward,72,2010,30,2.9,0.02,-4.6,-0.4,WAS,Marquette,3,591,207
-1.0,10.6,Daniel Orton,51,2010,29,2.8,0.093,-1.7,0.0,ORL,Kentucky,3,542,143
-12.6,23.7,Greivis Vásquez,401,2010,28,9.0,0.064,-1.5,1.1,MEM,Maryland,7,9520,3591
-6.3,24.4,Jordan Crawford,281,2010,27,12.2,0.044,-2.1,-0.2,NJN,Xavier,6,6843,3432
-9.7,15.6,Quincy Pondexter,355,2010,26,4.5,0.084,-1.2,1.1,OKC,Washington,7,5530,1609
-0.3,9.3,Dominique Jones,80,2010,25,3.1,0.017,-3.6,-0.3,MEM,South Florida,3,741,246
-0.0,16.0,Damion James,39,2010,24,3.8,-0.001,-4.3,-0.4,ATL,Texas,4,623,150
-26.2,20.4,Trevor Booker,532,2010,23,6.9,0.116,0.2,6.0,MIN,Clemson,8,10872,3679
-0.7,13.5,Elliot Williams,109,2010,22,4.9,0.024,-5.3,-1.2,POR,Memphis,4,1470,537
--0.2,7.1,Craig Brackins,17,2010,21,1.8,-0.089,-9.1,-0.2,OKC,Iowa State,2,121,30
-3.3,17.5,James Anderson,247,2010,20,5.8,0.037,-2.8,-0.9,SAS,Oklahoma State,5,4320,1422
-15.1,28.3,Avery Bradley,555,2010,19,11.8,0.046,-1.9,0.3,BOS,Texas,10,15717,6536
-41.1,27.8,Eric Bledsoe,610,2010,18,14.2,0.116,2.2,17.9,OKC,Kentucky,10,16961,8652
-7.2,14.0,Luke Babbitt,381,2010,16,4.8,0.065,-2.8,-1.0,MIN,Nevada,8,5332,1818
-10.3,19.5,Larry Sanders,238,2010,15,6.4,0.107,0.6,3.0,MIL,Virginia Commonwealth,6,4635,1520
-30.2,21.3,Patrick Patterson,665,2010,14,6.8,0.102,0.2,7.9,HOU,Kentucky,10,14133,4509
-41.7,19.9,Ed Davis,664,2010,13,6.3,0.151,0.9,9.6,TOR,UNC,10,13208,4193
-0.8,15.7,Xavier Henry,185,2010,12,5.7,0.013,-5.1,-2.3,MEM,Kansas,5,2905,1050
-9.6,10.0,Cole Aldrich,339,2010,11,3.1,0.135,1.0,2.6,NOH,Kansas,8,3389,1050
-67.6,33.7,Paul George,631,2010,10,20.0,0.153,3.8,31.1,IND,Fresno State,10,21243,12601
-51.5,30.7,Gordon Hayward,620,2010,9,15.2,0.13,1.9,18.7,UTA,Butler,10,19038,9438
-27.5,25.1,Al-Farouq Aminu,688,2010,8,7.6,0.077,-0.1,8.5,LAC,Wake Forest,10,17264,5248
-49.7,27.7,Greg Monroe,632,2010,7,13.2,0.136,1.9,17.2,DET,Georgetown,9,17475,8326
-10.4,14.8,Ekpe Udoh,384,2010,6,3.5,0.088,0.2,3.2,GSW,Baylor,7,5694,1353
-44.1,32.0,DeMarcus Cousins,565,2010,5,21.2,0.117,2.9,22.5,SAC,Kentucky,9,18078,12006
-44.3,35.9,John Wall,573,2010,1,19.0,0.104,2.3,22.1,WAS,Kentucky,9,20545,10879
-0.5,6.9,Dexter Pittman,50,2010,32,2.3,0.068,-6.0,-0.4,MIA,Texas,4,347,116
-42.9,26.6,Hassan Whiteside,388,2010,33,13.7,0.2,0.8,7.4,SAC,Marshall,8,10309,5300
-0.0,0.0,Stanley Robinson,0,2010,59,0.0,0.0,0.0,0.0,ORL,UConn,0,0,0
-0.3,5.2,Derrick Caracter,41,2010,58,2.0,0.057,-4.9,-0.2,LAL,Texas-El Paso,1,215,81
-0.1,3.4,Ryan Reid,5,2010,57,1.6,0.142,-5.5,0.0,IND,Florida State,1,17,8
-0.0,4.8,Hamady N'Diaye,33,2010,56,0.6,0.013,-4.9,-0.1,MIN,Rutgers University,3,157,20
-8.2,10.5,Jeremy Evans,250,2010,55,3.5,0.15,1.0,2.0,UTA,Western Kentucky,7,2626,879
-0.2,7.1,Willie Warren,19,2010,54,1.9,0.065,-4.5,-0.1,LAC,Oklahoma,1,134,37
-0.9,12.4,Luke Harangody,70,2010,52,3.6,0.048,-3.3,-0.3,BOS,Notre Dame,2,871,253
-0.0,0.0,Magnum Rolle,0,2010,51,0.0,0.0,0.0,0.0,OKC,Louisiana Tech,0,0,0
-0.0,7.0,Solomon Alabi,26,2010,50,1.5,0.01,-5.4,-0.2,DAL,Florida State,2,181,39
-20.2,26.9,Evan Turner,704,2010,2,9.7,0.051,-2.0,-0.2,PHI,Ohio State,10,18917,6822
-0.0,0.0,Tiny Gallon,0,2010,47,0.0,0.0,0.0,0.0,MIL,Oklahoma,0,0,0
-1.7,7.6,Jerome Jordan,65,2010,44,2.8,0.168,0.0,0.2,MIL,Tulsa,2,491,180
-0.5,11.3,Devin Ebanks,63,2010,43,3.6,0.035,-4.7,-0.5,LAL,West Virginia,3,711,224
-0.0,0.0,Da'Sean Butler,0,2010,42,0.0,0.0,0.0,0.0,MIA,West Virginia,0,0,0
-0.7,10.7,Jarvis Varnado,37,2010,41,2.9,0.089,-1.9,0.0,MIA,Mississippi State,2,397,107
-16.7,23.4,Lance Stephenson,508,2010,40,8.6,0.068,-0.8,3.6,IND,Cincinnati,9,11866,4354
-10.5,23.6,Landry Fields,255,2010,39,6.8,0.084,-0.1,2.8,NYK,Stanford,5,6010,1731
--0.2,4.8,Andy Rautins,5,2010,38,1.6,-0.314,-16.0,-0.1,NYK,Syracuse,1,24,8
--0.2,7.8,Darington Hobson,5,2010,37,0.8,-0.225,-14.1,-0.1,MIL,New Mexico,1,39,4
-0.0,0.0,Terrico White,0,2010,36,0.0,0.0,0.0,0.0,DET,Ole Miss,0,0,0
--0.1,8.5,Armon Johnson,47,2010,34,3.3,-0.015,-6.2,-0.4,POR,Nevada,2,401,157
-0.0,2.0,Gani Lawal,1,2010,46,0.0,-0.009,-4.9,0.0,PHO,Georgia Tech,1,2,0
-10.7,22.1,Wesley Johnson,609,2010,4,7.0,0.038,-1.2,2.9,MIN,Syracuse,9,13472,4235
-14.1,20.7,Derrick Williams,428,2011,2,8.9,0.076,-3.2,-2.6,MIN,Arizona,7,8864,3809
--0.1,5.0,Tyler Honeycutt,24,2011,35,1.2,-0.049,-6.4,-0.1,SAC,UCLA,2,120,28
-1.3,14.8,Jordan Williams,43,2011,36,4.6,0.101,-3.1,-0.2,NJN,Maryland,1,635,197
-0.0,5.0,Trey Thompkins,24,2011,37,2.4,0.004,-8.9,-0.2,LAC,Georgia,1,119,57
-29.0,30.1,Chandler Parsons,440,2011,38,12.7,0.105,1.6,11.9,HOU,Florida,9,13246,5571
-13.2,15.8,Jon Leuer,377,2011,40,6.4,0.107,-1.4,0.9,MIL,Wisconsin,8,5945,2395
--0.3,11.1,Darius Morris,132,2011,41,3.3,-0.01,-5.6,-1.3,LAL,Michigan,4,1464,430
-0.4,14.8,Malcolm Lee,36,2011,43,3.9,0.04,-2.0,0.0,CHI,UCLA,3,534,140
-0.5,12.1,Charles Jenkins,110,2011,44,3.7,0.017,-5.9,-1.3,GSW,Hofstra,2,1334,408
-2.1,11.8,Josh Harrellson,75,2011,45,3.5,0.116,-0.7,0.3,NOH,Kentucky,3,888,265
-0.1,4.5,Travis Leslie,10,2011,47,1.4,0.06,-0.2,0.0,LAC,Georgia,1,45,14
-10.3,18.4,Shelvin Mack,456,2011,34,6.6,0.059,-2.7,-1.5,WAS,Butler,8,8392,2997
-0.0,3.0,Keith Benson,3,2011,48,0.0,-0.005,-10.4,0.0,ATL,Oakland,1,9,0
-13.8,17.8,Lavoy Allen,388,2011,50,4.8,0.096,-1.2,1.3,PHI,Temple,6,6905,1847
-0.0,0.0,Jon Diebler,0,2011,51,0.0,0.0,0.0,0.0,POR,Ohio State,0,0,0
-0.5,5.9,Vernon Macklin,23,2011,52,2.0,0.161,-0.6,0.0,DET,Florida,1,135,46
-1.6,10.8,DeAndre Liggins,177,2011,53,2.0,0.04,-2.0,0.0,ORL,Kentucky,5,1907,346
-14.2,21.6,E'Twaun Moore,551,2011,55,8.2,0.057,-1.8,0.4,BOS,Purdue,9,11894,4502
-45.4,28.9,Isaiah Thomas,523,2011,60,18.1,0.144,1.4,13.1,SAC,Washington,9,15135,9487
-61.4,33.8,Kyrie Irving,527,2011,1,22.4,0.166,3.9,26.5,CLE,Duke,9,17798,11831
--0.7,7.8,Josh Selby,38,2011,49,2.2,-0.113,-10.1,-0.6,MEM,Kansas,2,296,83
-10.0,21.9,Kyle Singler,356,2011,33,6.5,0.062,-1.6,0.7,DET,Duke,6,7794,2326
-0.0,9.7,Andrew Goudelock,49,2011,46,4.0,0.003,-6.5,-0.5,LAL,College of Charleston,3,475,197
-42.5,28.1,Tristan Thompson,609,2011,4,9.4,0.119,-0.5,6.4,CLE,Texas,9,17111,5720
--0.3,6.8,Justin Harper,22,2011,32,2.0,-0.093,-8.4,-0.2,CLE,Richmond,3,150,45
-11.3,29.6,Brandon Knight,437,2011,8,14.1,0.042,-1.6,1.5,DET,Kentucky,8,12916,6165
-53.8,33.9,Kemba Walker,647,2011,9,20.0,0.118,2.6,25.4,CHA,UConn,9,21954,12935
-2.2,13.3,Jimmer Fredette,241,2011,10,6.0,0.033,-4.2,-1.8,MIL,BYU,6,3213,1438
-46.8,33.1,Klay Thompson,615,2011,11,19.5,0.11,0.2,11.3,GSW,Washington State,8,20340,11995
-24.7,25.7,Markieff Morris,621,2011,13,11.6,0.074,-0.9,4.4,PHO,Kansas,9,15986,7188
-29.5,26.9,Marcus Morris,586,2011,14,12.1,0.09,-0.7,5.3,HOU,Kansas,9,15770,7080
-70.9,31.0,Kawhi Leonard,503,2011,15,18.4,0.219,6.2,32.2,IND,San Diego State,9,15572,9237
-45.4,30.1,Nikola Vučević,573,2011,16,15.9,0.126,1.9,17.0,PHI,USC,9,17274,9101
-12.9,25.0,Iman Shumpert,459,2011,17,7.2,0.054,-0.6,4.1,NYK,Georgia Tech,9,11459,3318
-15.4,21.9,Alec Burks,475,2011,12,10.1,0.071,-2.0,-0.1,UTA,Colorado,9,10389,4817
-23.1,21.8,Cory Joseph,576,2011,29,6.9,0.088,-0.8,3.7,SAS,Texas,9,12559,3973
-72.9,33.1,Jimmy Butler,564,2011,30,17.0,0.188,4.1,28.7,CHI,Marquette,9,18656,9560
-2.3,17.6,Chris Singleton,148,2011,18,4.1,0.042,-2.3,-0.2,WAS,Florida State,3,2605,612
-3.0,22.3,Norris Cole,360,2011,28,7.0,0.018,-4.0,-4.0,CHI,Cleveland State University,6,8018,2506
-0.2,8.3,JaJuan Johnson,36,2011,27,3.2,0.032,-6.3,-0.3,NJN,Purdue,1,298,114
-3.0,13.9,Jordan Hamilton,151,2011,26,5.9,0.069,-1.5,0.3,DAL,Texas,5,2100,890
-28.6,25.2,Reggie Jackson,537,2011,24,12.9,0.101,-0.1,6.6,OKC,Boston College,9,13537,6928
-3.3,17.3,MarShon Brooks,200,2011,25,8.0,0.046,-2.5,-0.4,BOS,Providence,5,3456,1592
-38.8,24.5,Kenneth Faried,478,2011,22,11.4,0.159,1.1,9.3,DEN,Morehead State University,8,11728,5430
--0.8,9.9,Nolan Smith,84,2011,21,3.3,-0.047,-6.5,-0.9,POR,Duke,2,829,277
-44.0,30.7,Tobias Harris,595,2011,19,15.8,0.115,0.2,10.0,CHA,Tennessee,9,18281,9388
-36.5,31.5,Khris Middleton,496,2012,39,16.0,0.112,0.5,9.8,DET,Texas A&M,8,15617,7959
-0.1,12.7,Doron Lamb,100,2012,42,3.5,0.005,-5.9,-1.2,MIL,Kentucky,2,1272,345
--0.9,8.0,Tyshawn Taylor,61,2012,41,2.9,-0.088,-8.8,-0.8,POR,Kansas,2,491,174
-20.3,24.2,Will Barton,484,2012,40,11.0,0.083,-0.3,4.9,POR,Memphis,8,11731,5307
--0.1,13.5,Quincy Miller,69,2012,38,4.3,-0.003,-4.0,-0.5,DEN,Baylor,3,934,295
-1.4,10.8,Orlando Johnson,103,2012,36,3.2,0.059,-3.8,-0.5,SAC,UC Santa Barbara,3,1112,329
-44.2,28.2,Draymond Green,569,2012,35,9.0,0.132,3.4,21.9,GSW,Michigan State,8,16031,5128
-30.2,24.6,Jae Crowder,587,2012,34,9.5,0.1,0.6,9.4,CLE,Marquette,8,14450,5580
-1.9,8.3,Bernard James,92,2012,33,2.2,0.117,-1.1,0.2,CLE,Florida State,3,761,203
-14.8,16.5,Mike Scott,485,2012,43,7.0,0.089,-2.5,-0.9,ATL,Virginia,8,7989,3387
-8.7,16.0,Quincy Acy,337,2012,37,4.9,0.078,-1.8,0.2,TOR,Baylor,7,5392,1642
-0.2,9.9,Kim English,41,2012,44,2.9,0.021,-4.2,-0.2,DET,Missouri,1,407,119
-1.9,14.3,Robbie Hummel,98,2012,58,3.9,0.066,-2.9,-0.3,MIN,Purdue,2,1397,379
-5.9,20.4,Darius Miller,253,2012,46,6.0,0.055,-1.7,0.4,NOH,Kentucky,5,5161,1524
--0.3,3.1,Kevin Murphy,17,2012,47,0.9,-0.272,-17.6,-0.2,UTA,Tennessee Technological University,1,52,15
-17.4,14.3,Kyle O'Quinn,464,2012,49,5.5,0.126,1.9,6.4,ORL,Norfolk State,8,6618,2536
--0.1,5.4,Kris Joseph,10,2012,51,0.9,-0.127,-10.5,-0.1,BOS,Syracuse,1,54,9
--0.3,3.0,Darius Johnson-Odom,7,2012,55,0.0,-0.597,-23.2,-0.1,DAL,Marquette,2,21,0
-1.3,19.4,Jeffery Taylor,132,2012,31,6.1,0.024,-3.9,-1.2,CHA,Vanderbilt,3,2566,807
-3.7,17.4,Justin Hamilton,113,2012,45,6.1,0.091,-0.3,0.8,PHI,LSU,3,1961,687
-5.9,14.1,Festus Ezeli,170,2012,30,4.2,0.119,-1.1,0.6,GSW,Vanderbilt,3,2394,712
-0.0,0.0,Marcus Denmon,0,2012,59,0.0,0.0,0.0,0.0,SAS,Missouri,0,0,0
-1.7,11.7,Perry Jones,143,2012,28,3.4,0.048,-4.6,-1.1,OKC,Baylor,3,1675,488
-79.5,34.6,Anthony Davis,506,2012,1,24.0,0.218,5.0,30.8,NOH,Kentucky,8,17496,12128
-21.1,25.1,Michael Kidd-Gilchrist,433,2012,2,8.6,0.093,-1.2,2.2,CHA,Kentucky,8,10857,3738
-39.9,34.5,Bradley Beal,528,2012,3,20.5,0.105,1.0,13.9,WAS,Florida,8,18198,10832
-8.7,28.3,Dion Waiters,412,2012,4,13.2,0.036,-2.5,-1.6,CLE,Syracuse,8,11670,5422
-4.6,13.4,Thomas Robinson,313,2012,5,4.9,0.053,-3.2,-1.3,SAC,Kansas,5,4204,1528
-78.6,36.3,Damian Lillard,596,2012,6,24.0,0.174,4.2,33.8,POR,Weber State,8,21653,14290
-32.6,31.1,Harrison Barnes,588,2012,7,13.6,0.086,-1.4,2.7,GSW,UNC,8,18268,8026
-20.9,24.4,Terrence Ross,538,2012,8,10.7,0.077,-0.9,3.6,TOR,Washington,8,13140,5778
-60.0,31.1,Andre Drummond,588,2012,9,14.4,0.158,1.9,17.8,DET,UConn,8,18261,8454
-10.7,24.6,Austin Rivers,528,2012,10,9.2,0.04,-2.8,-2.5,NOH,Duke,8,12963,4836
-15.6,16.0,Meyers Leonard,440,2012,11,5.6,0.107,-1.3,1.2,POR,Illinois,8,7038,2462
-23.1,21.1,Jeremy Lamb,472,2012,12,10.5,0.111,-0.4,4.0,HOU,UConn,8,9974,4937
-1.0,19.3,Kendall Marshall,160,2012,13,5.0,0.015,-5.6,-2.8,PHO,UNC,4,3083,802
-20.1,19.7,John Henson,431,2012,14,7.6,0.113,0.6,5.6,MIL,UNC,8,8500,3286
-21.2,23.1,Maurice Harkless,522,2012,15,7.2,0.085,0.3,7.1,PHI,St. John's,8,12036,3746
-0.0,3.0,Royce White,3,2012,16,0.0,-0.121,-10.4,0.0,HOU,Iowa State,1,9,0
-17.1,17.6,Tyler Zeller,412,2012,17,7.0,0.113,-1.6,0.8,DAL,UNC,7,7250,2871
-14.7,23.8,Terrence Jones,234,2012,18,10.4,0.127,0.1,3.0,HOU,Kentucky,6,5562,2431
-3.8,14.3,Andrew Nicholson,285,2012,19,6.0,0.045,-5.3,-3.4,ORL,St. Bonaventure,5,4080,1700
-15.3,24.3,Jared Sullinger,269,2012,21,10.8,0.113,0.5,4.1,BOS,Ohio State,5,6532,2893
-0.0,6.0,Fab Melo,6,2012,22,1.2,0.021,-5.8,0.0,BOS,Syracuse,1,36,7
-3.0,12.8,John Jenkins,171,2012,23,5.0,0.065,-3.8,-1.0,ATL,Vanderbilt,6,2183,855
-0.2,7.2,Jared Cunningham,84,2012,24,2.3,0.017,-5.9,-0.6,CLE,Oregon State,4,605,197
--1.3,21.2,Tony Wroten,145,2012,25,11.1,-0.021,-4.1,-1.6,MEM,Washington,4,3076,1604
-10.6,16.4,Miles Plumlee,346,2012,26,4.9,0.09,-1.6,0.5,IND,Duke,7,5658,1697
-1.7,12.4,Arnett Moultrie,59,2012,27,3.6,0.113,-3.0,-0.2,MIA,Mississippi State,2,729,210
--0.9,10.0,Marquis Teague,91,2012,29,2.4,-0.045,-8.0,-1.4,CHI,Kentucky,3,909,217
-2.4,14.5,Robert Sacre,189,2012,60,4.2,0.042,-3.1,-0.8,LAL,Gonzaga,4,2745,787
-12.7,22.5,Andre Roberson,295,2013,26,4.6,0.092,0.6,4.4,MIN,Colorado,5,6651,1356
-10.1,19.6,Reggie Bullock,287,2013,25,7.0,0.087,-0.8,1.7,LAC,UNC,7,5616,2002
-17.6,26.1,Tim Hardaway,448,2013,24,13.2,0.072,-1.7,0.9,NYK,Michigan,7,11715,5903
-10.4,22.2,Solomon Hill,352,2013,23,5.9,0.064,-0.7,2.5,IND,Arizona,7,7799,2079
-33.5,21.7,Mason Plumlee,514,2013,22,8.4,0.144,2.5,12.5,BRK,Duke,7,11170,4306
-26.6,22.2,Gorgui Dieng,495,2013,21,7.9,0.116,1.6,10.0,UTA,Louisville,7,10996,3919
-15.3,22.2,Tony Snell,485,2013,20,6.4,0.068,-1.8,0.6,CHI,New Mexico,7,10776,3106
-4.4,19.1,Shane Larkin,256,2013,18,5.5,0.044,-2.5,-0.6,ATL,Miami (FL),4,4880,1399
-8.5,17.2,Shabazz Muhammad,278,2013,14,9.0,0.085,-4.1,-2.5,UTA,UCLA,5,4772,2504
-27.2,21.4,Kelly Olynyk,475,2013,13,9.7,0.128,1.4,8.7,DAL,Gonzaga,7,10171,4615
-43.5,26.8,Steven Adams,511,2013,12,9.8,0.152,2.0,13.8,OKC,Pitt,7,13700,4984
-6.0,25.5,Michael Carter-Williams,340,2013,11,10.5,0.033,-0.7,2.9,PHI,Syracuse,7,8682,3584
-30.4,30.6,CJ McCollum,456,2013,10,18.2,0.105,0.2,7.6,POR,Lehigh,7,13932,8299
-11.2,23.0,Trey Burke,384,2013,9,10.6,0.061,-2.2,-0.4,MIN,Michigan,7,8841,4069
-26.8,29.4,Kentavious Caldwell-Pope,517,2013,8,11.7,0.085,0.0,7.8,DET,Georgia,7,15185,6050
-6.7,23.7,Ben McLemore,416,2013,7,9.0,0.033,-2.6,-1.5,SAC,Kansas,7,9853,3724
-20.7,22.4,Nerlens Noel,341,2013,6,8.2,0.13,2.2,8.1,NOH,Kentucky,6,7635,2786
-17.4,19.8,Alex Len,452,2013,5,8.0,0.093,-1.5,1.1,PHO,Maryland,7,8945,3624
-26.7,22.9,Cody Zeller,406,2013,4,8.6,0.138,0.7,6.2,CHA,Indiana,7,9313,3472
-29.6,26.9,Otto Porter,408,2013,3,11.0,0.129,1.9,10.7,WAS,Georgetown,7,10973,4484
-24.2,33.2,Victor Oladipo,403,2013,2,17.5,0.087,1.1,10.4,ORL,Indiana,7,13381,7037
-1.1,14.5,Archie Goodwin,165,2013,29,6.3,0.022,-4.2,-1.3,OKC,Kentucky,4,2396,1040
-0.5,12.6,Anthony Bennett,151,2013,1,4.4,0.013,-5.6,-1.7,CLE,UNLV,4,1905,658
-13.9,24.1,Allen Crabbe,376,2013,31,9.1,0.074,-1.3,1.6,CLE,California,7,9057,3440
-0.0,0.0,Deshaun Thomas,0,2013,58,0.0,0.0,0.0,0.0,SAS,Ohio State,0,0,0
-0.0,0.0,Alex Oriakhi,0,2013,57,0.0,0.0,0.0,0.0,PHO,Missouri,0,0,0
--0.2,9.3,Peyton Siva,24,2013,56,2.3,-0.032,-7.3,-0.3,DET,Louisville,1,224,54
-0.0,0.0,Arsalan Kazemi,0,2013,54,0.0,0.0,0.0,0.0,WAS,Oregon,0,0,0
-0.0,0.0,Colton Iverson,0,2013,53,0.0,0.0,0.0,0.0,IND,Colorado State,0,0,0
-0.0,0.0,Romero Osby,0,2013,51,0.0,0.0,0.0,0.0,ORL,Oklahoma,0,0,0
-13.6,19.9,James Ennis,325,2013,50,6.4,0.101,-0.6,2.3,ATL,Cal State Long Beach,6,6471,2082
--0.1,2.6,Erik Murphy,24,2013,49,0.3,-0.055,-8.1,-0.1,CHI,Florida,1,62,6
-3.0,19.2,Ryan Kelly,163,2013,48,6.0,0.046,-2.2,-0.2,LAL,Duke,4,3125,981
-0.1,8.7,Erick Green,52,2013,46,3.1,0.011,-5.1,-0.3,UTA,Virginia Tech,2,452,159
--0.2,11.5,Lorenzo Brown,103,2013,52,2.8,-0.007,-4.1,-0.6,MIN,NC State,5,1185,293
-12.8,15.6,Mike Muscala,342,2013,44,5.6,0.115,-0.1,2.6,DAL,Bucknell,7,5332,1920
-0.0,5.4,Carrick Felix,7,2013,33,2.7,0.057,-4.7,0.0,CLE,Arizona State,1,38,19
-4.3,20.4,Isaiah Canaan,235,2013,34,8.1,0.043,-3.0,-1.3,HOU,Murray State,6,4799,1913
--0.2,9.5,Glen Rice,16,2013,35,2.7,-0.065,-7.3,-0.2,PHI,Georgia Tech,2,152,43
-2.1,18.2,Ray McCallum,154,2013,36,6.0,0.035,-2.8,-0.6,SAC,Detroit Mercy,3,2808,920
-0.9,18.8,Nate Wolters,84,2013,38,5.5,0.028,-4.0,-0.8,WAS,South Dakota State,3,1575,461
-0.2,3.8,Tony Mitchell,21,2013,37,1.0,0.151,1.3,0.1,DET,University of North Texas,1,79,22
--0.1,6.4,Grant Jerrett,8,2013,40,2.0,-0.128,-8.4,-0.1,POR,Arizona,1,51,16
-0.0,7.3,Jamaal Franklin,24,2013,41,1.8,-0.006,-5.4,-0.1,MEM,San Diego State,2,174,42
-0.0,10.5,Pierre Jackson,8,2013,42,4.4,0.021,-4.4,-0.1,PHI,Baylor,1,84,35
--0.6,9.9,Ricky Ledo,28,2013,43,3.9,-0.096,-7.8,-0.4,MIL,Providence,2,277,109
-6.8,10.1,Jeff Withey,206,2013,39,3.2,0.157,0.6,1.4,POR,Kansas,5,2072,666
-21.3,24.3,Jerami Grant,432,2014,39,9.1,0.097,-1.0,2.6,PHI,Syracuse,6,10485,3915
--0.1,9.4,Nick Johnson,28,2014,42,2.6,-0.02,-7.3,-0.3,HOU,Arizona,1,262,74
-6.6,17.4,Glenn Robinson,265,2014,40,5.8,0.069,-2.4,-0.4,MIN,Michigan,6,4603,1531
-17.0,25.4,Spencer Dinwiddie,300,2014,38,12.6,0.107,-0.5,3.0,DET,Colorado,6,7631,3789
-1.3,14.1,K.J. McDaniels,148,2014,32,5.3,0.03,-3.3,-0.7,PHI,Clemson,3,2092,782
-0.2,11.5,Johnny O'Bryant,147,2014,36,3.5,0.006,-6.4,-1.9,MIL,LSU,4,1684,509
-0.6,5.4,Jarnell Stokes,28,2014,35,2.4,0.202,1.0,0.1,UTA,Tennessee,3,151,67
--0.6,14.3,Cleanthony Early,56,2014,34,4.3,-0.039,-5.7,-0.8,NYK,Wichita State,2,801,241
-12.9,23.9,Joe Harris,308,2014,33,10.0,0.084,-0.5,2.7,CLE,Virginia,6,7366,3074
-0.0,0.0,DeAndre Daniels,0,2014,37,0.0,0.0,0.0,0.0,TOR,UConn,0,0,0
-1.1,15.9,Markel Brown,113,2014,44,5.2,0.029,-2.8,-0.4,MIN,Oklahoma State,3,1794,584
--0.3,10.4,Devyn Marble,44,2014,56,2.2,-0.028,-5.0,-0.3,DEN,Iowa,2,457,97
-13.1,27.2,Jordan Clarkson,429,2014,46,14.7,0.054,-1.6,1.1,WAS,Missouri,6,11652,6316
--0.2,4.9,Russ Smith,27,2014,47,2.0,-0.068,-6.4,-0.1,PHI,Louisville,2,131,53
-0.1,10.9,Lamar Patterson,40,2014,48,2.3,0.006,-5.5,-0.4,MIL,Pitt,2,435,93
--0.1,4.6,Cameron Bairstow,36,2014,49,1.2,-0.021,-7.7,-0.2,CHI,New Mexico,2,167,44
-0.0,0.0,Alec Brown,0,2014,50,0.0,0.0,0.0,0.0,PHO,Green Bay,0,0,0
-0.9,10.0,Cory Jefferson,58,2014,60,3.5,0.071,-4.6,-0.4,SAS,Baylor,2,581,205
-0.0,0.0,Xavier Thames,0,2014,59,0.0,0.0,0.0,0.0,TOR,San Diego State,0,0,0
-1.6,13.6,Jordan McRae,115,2014,58,6.9,0.049,-4.0,-0.8,SAS,Tennessee,4,1566,790
-0.1,15.2,Semaj Christon,64,2014,55,2.9,0.006,-6.3,-1.1,MIA,Xavier,1,973,183
-26.1,18.7,Dwight Powell,371,2014,45,7.7,0.18,2.2,7.4,CHH,Stanford,6,6956,2867
-16.6,19.3,Kyle Anderson,343,2014,30,5.3,0.121,1.9,6.5,SAS,UCLA,6,6624,1820
-0.1,5.7,C.J. Wilcox,66,2014,28,2.0,0.007,-5.2,-0.3,LAC,Washington,3,376,132
-14.9,35.9,Andrew Wiggins,439,2014,1,19.7,0.045,-2.3,-1.4,CLE,Kansas,6,15741,8662
-12.9,29.3,Jabari Parker,279,2014,2,15.1,0.076,-1.4,1.2,MIL,Duke,6,8178,4204
-21.2,30.8,Joel Embiid,191,2014,3,24.1,0.173,3.4,8.1,PHI,Kansas,4,5876,4603
-19.7,28.3,Aaron Gordon,383,2014,4,12.5,0.088,0.1,5.6,ORL,Arizona,6,10831,4806
-19.2,28.7,Marcus Smart,379,2014,6,9.6,0.085,0.7,7.5,BOS,Oklahoma State,6,10882,3642
-19.3,29.0,Julius Randle,358,2014,7,15.9,0.089,-0.4,4.1,LAL,Kentucky,6,10373,5676
-3.8,19.9,Nik Stauskas,335,2014,8,6.8,0.028,-3.2,-2.1,SAC,Michigan,5,6662,2272
-9.3,17.2,Noah Vonleh,328,2014,9,5.0,0.079,-2.5,-0.7,CHH,Indiana,6,5642,1647
-14.0,29.3,Elfrid Payton,373,2014,10,10.9,0.061,-0.4,4.5,PHI,LA-Lafayette,6,10929,4075
-13.0,20.1,Doug McDermott,389,2014,11,8.1,0.08,-2.8,-1.5,DEN,Creighton,6,7807,3160
-0.7,14.1,Josh Huestis,76,2014,29,2.5,0.03,-3.8,-0.5,OKC,Stanford,3,1068,187
-17.1,28.4,T.J. Warren,309,2014,14,15.0,0.093,-1.1,2.1,PHO,NC State,6,8787,4636
--0.6,13.1,Adreian Payne,107,2014,15,4.0,-0.019,-5.5,-1.2,ATL,Michigan State,4,1403,429
-0.8,8.5,James Young,95,2014,17,2.3,0.046,-4.0,-0.4,BOS,Kentucky,4,812,219
-1.3,12.6,Tyler Ennis,186,2014,18,4.2,0.026,-4.6,-1.5,PHO,Syracuse,4,2336,779
-17.8,28.9,Gary Harris,352,2014,19,12.2,0.084,-0.2,4.7,CHI,Michigan State,6,10171,4307
-1.3,10.7,Mitch McGary,52,2014,21,4.4,0.108,-3.1,-0.2,OKC,Michigan,2,557,227
-0.4,8.2,Jordan Adams,32,2014,22,3.2,0.07,-0.5,0.1,MEM,UCLA,2,263,101
-17.2,27.3,Rodney Hood,341,2014,23,12.5,0.088,-1.0,2.4,UTA,Duke,6,9326,4247
-7.7,16.8,Shabazz Napier,323,2014,24,6.7,0.068,-1.5,0.7,CHH,UConn,6,5435,2174
-0.9,18.0,P.J. Hairston,111,2014,26,6.0,0.021,-3.9,-1.0,MIA,UNC,2,2000,664
-11.8,30.6,Zach LaVine,344,2014,13,17.4,0.054,-1.1,2.5,MIN,UCLA,6,10530,5989
-0.0,0.0,J.P. Tokoto,0,2015,58,0.0,0.0,0.0,0.0,PHI,UNC,0,0,0
-11.6,23.7,Kelly Oubre,338,2015,15,10.6,0.07,-1.9,0.2,ATL,Kansas,5,8013,3590
-0.6,9.0,Chris McCullough,59,2015,29,3.3,0.054,-2.3,0.0,BRK,Syracuse,3,532,194
-10.2,13.9,Kevon Looney,214,2015,30,4.4,0.165,1.9,2.9,GSW,UCLA,5,2964,937
-24.2,20.7,Montrezl Harrell,302,2015,32,12.5,0.186,2.5,7.0,HOU,Louisville,5,6244,3772
-0.5,7.5,Jordan Mickey,64,2015,33,2.4,0.05,-4.8,-0.3,BOS,LSU,3,482,152
--0.2,18.6,Anthony Brown,41,2015,34,3.9,-0.016,-4.8,-0.5,LAL,Stanford,3,762,161
-0.5,7.5,Rakeem Christmas,30,2015,36,2.1,0.105,-4.0,-0.1,MIN,Syracuse,2,225,63
-17.0,18.7,Richaun Holmes,263,2015,37,8.4,0.166,1.6,4.5,PHI,Bowling Green,5,4912,2213
-0.3,9.4,Darrun Hilliard,91,2015,38,3.2,0.016,-5.1,-0.7,DET,Villanova,3,859,295
-17.7,30.8,Josh Richardson,297,2015,40,12.5,0.093,0.5,5.8,MIA,Tennessee,5,9147,3703
-8.6,15.3,Pat Connaughton,260,2015,41,4.7,0.104,-0.4,1.6,BRK,Notre Dame,5,3989,1209
-0.0,0.0,Olivier Hanlan,0,2015,42,0.0,0.0,0.0,0.0,UTA,Boston College,0,0,0
-0.4,8.5,Joe Young,127,2015,43,3.4,0.016,-5.3,-0.9,IND,Oregon,3,1077,429
-3.2,20.6,Andrew Harrison,145,2015,44,7.0,0.051,-2.7,-0.5,PHO,Kentucky,3,2987,1012
-10.7,18.3,Norman Powell,293,2015,46,8.2,0.096,-0.8,1.6,MIL,UCLA,5,5353,2391
-0.6,5.2,Dakari Johnson,31,2015,48,1.8,0.178,0.3,0.1,OKC,Kentucky,1,161,55
-0.0,0.0,Aaron White,0,2015,49,0.0,0.0,0.0,0.0,WAS,Iowa,0,0,0
-0.0,0.0,Tyler Harvey,0,2015,51,0.0,0.0,0.0,0.0,ORL,Eastern Washington,0,0,0
-0.4,8.8,R.J. Hunter,45,2015,28,3.0,0.051,-3.3,-0.1,BOS,Georgia State University,4,395,133
-19.0,23.1,Larry Nance,299,2015,27,7.9,0.132,2.1,7.2,LAL,Wyoming,5,6900,2356
-3.2,15.9,Jarell Martin,184,2015,25,5.4,0.053,-3.8,-1.3,MEM,LSU,4,2927,998
-50.0,34.3,Karl-Anthony Towns,353,2015,1,22.6,0.198,5.3,22.3,MIN,Kentucky,5,12124,7993
-8.0,28.9,D'Angelo Russell,303,2015,2,17.3,0.044,0.5,5.6,LAL,Ohio State,5,8751,5236
-6.4,20.5,Jahlil Okafor,215,2015,3,11.1,0.069,-3.2,-1.3,PHI,Duke,5,4416,2386
-19.8,23.8,Willie Cauley-Stein,338,2015,6,9.8,0.118,0.7,5.5,SAC,Kentucky,5,8054,3300
-3.2,20.7,Stanley Johnson,301,2015,8,6.7,0.024,-2.2,-0.3,DET,Arizona,5,6240,2006
-12.4,22.2,Frank Kaminsky,314,2015,9,9.9,0.086,-1.1,1.5,CHO,Wisconsin,5,6970,3110
-7.8,28.4,Justise Winslow,241,2015,10,9.0,0.055,-0.9,1.9,MIA,Duke,5,6848,2181
-0.0,0.0,Sir'Dominic Pointer,0,2015,53,0.0,0.0,0.0,0.0,CLE,St. John's,0,0,0
-24.6,28.2,Myles Turner,318,2015,11,12.8,0.132,1.4,7.8,IND,Texas,5,8962,4063
-15.0,33.3,Devin Booker,317,2015,13,22.2,0.068,-0.6,3.7,PHO,Kentucky,5,10568,7038
-2.2,16.0,Cameron Payne,153,2015,14,6.0,0.044,-2.9,-0.6,OKC,Murray State,4,2454,914
-12.1,22.1,Terry Rozier,320,2015,16,9.3,0.082,-0.5,2.6,BOS,Louisville,5,7076,2961
--0.6,12.0,Rashad Vaughn,139,2015,17,3.0,-0.017,-5.6,-1.5,MIL,UNLV,3,1671,423
-5.4,15.5,Sam Dekker,200,2015,18,5.5,0.083,-1.9,0.1,HOU,Wisconsin,4,3096,1094
-8.3,18.0,Jerian Grant,273,2015,19,6.1,0.081,-2.0,0.0,WAS,Notre Dame,4,4918,1665
-13.8,19.5,Delon Wright,244,2015,20,7.4,0.139,2.0,4.8,TOR,Utah,5,4765,1800
-4.6,13.1,Justin Anderson,219,2015,21,5.3,0.077,-1.9,0.1,DAL,Virginia,5,2874,1157
-10.2,20.4,Bobby Portis,298,2015,22,10.1,0.081,-2.0,0.0,CHI,Arkansas,5,6065,3013
-11.5,23.1,Rondae Hollis-Jefferson,272,2015,23,9.6,0.088,-0.7,2.0,POR,Arizona,5,6277,2605
-10.1,17.9,Tyus Jones,296,2015,24,5.3,0.091,-1.7,0.4,CLE,Duke,5,5298,1561
-9.2,17.5,Trey Lyles,335,2015,12,7.2,0.075,-2.3,-0.5,UTA,Kentucky,5,5863,2419
-0.0,0.0,Marcus Thornton,0,2015,45,0.0,0.0,0.0,0.0,BOS,College of William & Mary,0,0,0
-0.0,4.8,Branden Dawson,6,2015,56,0.8,0.069,-6.6,0.0,NOP,Michigan State,1,29,5
-0.0,0.0,Cady Lalanne,0,2015,55,0.0,0.0,0.0,0.0,SAS,UMass,0,0,0
-0.3,5.1,Joel Bolomboy,18,2016,52,1.7,0.132,-3.7,0.0,UTA,Weber State,2,91,31
--0.3,10.3,Wade Baldwin,56,2016,17,3.1,-0.028,-5.7,-0.5,MEM,Vanderbilt,3,579,174
-0.3,9.2,Henry Ellenson,81,2016,18,4.0,0.018,-6.3,-0.8,DET,Marquette,4,749,327
-5.6,16.3,Malik Beasley,204,2016,19,7.3,0.082,-2.1,-0.1,DEN,Florida State,4,3325,1495
-5.4,25.0,Caris LeVert,190,2016,20,11.4,0.055,-1.2,1.0,IND,Michigan,4,4746,2174
--0.1,8.9,Malachi Richardson,70,2016,22,2.8,-0.009,-6.8,-0.8,CHO,Syracuse,3,625,198
-0.1,5.1,Brice Johnson,21,2016,25,2.2,0.062,-2.5,0.0,LAC,UNC,2,107,47
-1.1,19.4,DeAndre' Bembry,189,2016,21,6.2,0.014,-2.7,-0.6,ATL,Saint Joseph's,4,3672,1173
--0.1,3.3,Ben Bentil,3,2016,51,0.0,-0.473,-26.9,-0.1,BOS,Providence,1,10,0
-5.6,26.4,Taurean Waller-Prince,243,2016,12,11.6,0.042,-1.5,0.8,UTA,Baylor,4,6404,2826
-19.2,25.3,Pascal Siakam,254,2016,27,12.1,0.144,2.1,6.7,TOR,New Mexico State,4,6414,3078
-18.5,24.9,Domantas Sabonis,274,2016,11,11.7,0.13,0.7,4.6,ORL,Gonzaga,4,6829,3193
-15.1,16.3,Jakob Pöltl,260,2016,9,5.4,0.171,3.3,5.7,TOR,Utah,4,4250,1402
-4.2,18.9,Marquese Chriss,241,2016,8,7.6,0.045,-1.8,0.2,SAC,Washington,4,4564,1833
-14.8,29.0,Jamal Murray,278,2016,7,15.2,0.088,-0.5,3.0,DEN,Kentucky,4,8055,4234
-12.0,27.9,Buddy Hield,292,2016,6,15.8,0.07,-0.4,3.3,NOP,Oklahoma,4,8151,4615
-4.0,24.3,Kris Dunn,227,2016,5,8.3,0.035,-0.8,1.6,MIN,Providence,4,5516,1884
-12.8,25.7,Jaylen Brown,261,2016,3,12.6,0.092,-1.2,1.3,BOS,California,4,6711,3278
-8.8,32.1,Brandon Ingram,234,2016,2,16.0,0.056,-1.7,0.5,LAL,Duke,4,7520,3733
-24.1,34.4,Ben Simmons,207,2016,1,16.4,0.162,4.6,11.8,PHI,LSU,3,7131,3396
-4.4,17.5,Skal Labissière,148,2016,28,7.2,0.082,-1.7,0.2,PHO,Kentucky,4,2595,1069
-3.6,21.0,Denzel Valentine,163,2016,14,7.6,0.051,-1.2,0.7,CHI,Michigan State,3,3423,1244
-4.0,14.0,Damian Jones,93,2016,30,4.7,0.146,0.2,0.7,GSW,Vanderbilt,4,1300,438
-5.0,19.2,Dejounte Murray,162,2016,29,7.5,0.077,0.7,2.1,SAS,Washington,3,3104,1219
-0.0,5.6,Marcus Paige,5,2016,55,2.4,-0.006,-6.9,0.0,BRK,UNC,1,28,12
-0.0,9.3,Daniel Hamilton,25,2016,56,2.8,0.0,-5.3,-0.2,DEN,UConn,2,232,69
-1.4,12.2,Abdel Nader,143,2016,58,4.1,0.039,-4.5,-1.1,BOS,Iowa State,3,1749,587
-0.0,0.0,Isaiah Cousins,0,2016,59,0.0,0.0,0.0,0.0,SAC,Oklahoma,0,0,0
-0.2,15.5,Tyrone Wallace,106,2016,60,5.2,0.006,-4.2,-0.9,UTA,California,3,1639,549
-2.6,9.2,Georges Niang,133,2016,50,3.9,0.103,-1.2,0.3,IND,Iowa State,4,1217,513
--0.1,3.6,Michael Gbinije,9,2016,49,0.4,-0.136,-10.5,-0.1,DET,Syracuse,1,32,4
-2.9,13.6,Jake Layman,155,2016,47,5.2,0.066,-2.0,0.0,ORL,Maryland,4,2105,800
-0.0,7.4,A.J. Hammons,22,2016,46,2.2,-0.001,-5.6,-0.1,DAL,Purdue,1,163,48
-0.2,5.2,Demetrius Jackson,26,2016,45,1.8,0.087,-2.2,0.0,BOS,Notre Dame,3,136,48
--0.4,9.1,Kay Felder,58,2016,54,3.8,-0.041,-7.7,-0.8,ATL,Oakland,2,526,223
-5.9,11.9,Cheick Diallo,164,2016,33,5.2,0.145,-2.4,-0.2,LAC,Kansas,4,1953,858
-0.5,20.9,Tyler Ulis,133,2016,34,7.5,0.008,-4.7,-1.9,PHO,Kentucky,3,2782,998
-16.2,28.4,Malcolm Brogdon,221,2016,36,13.4,0.124,0.3,3.6,MIL,Virginia,4,6280,2971
-0.1,12.3,Chinanu Onuaku,6,2016,37,3.0,0.043,-4.1,0.0,HOU,Louisville,2,74,18
-3.6,12.1,Deyonta Davis,107,2016,31,4.2,0.131,-1.4,0.2,BOS,Michigan State,3,1299,454
--0.1,3.4,Diamond Stone,7,2016,40,1.4,-0.211,-24.1,-0.1,NOP,Maryland,1,24,10
-0.0,5.7,Stephen Zimmerman,19,2016,41,1.2,-0.005,-7.3,-0.1,ORL,UNLV,1,108,23
--0.9,20.5,Isaiah Whitehead,89,2016,42,7.2,-0.025,-4.9,-1.4,UTA,Seton Hall,2,1823,643
-3.9,16.8,Patrick McCaw,182,2016,38,3.9,0.06,-2.1,0.0,MIL,UNLV,4,3058,714
-2.1,12.4,D.J. Wilson,96,2017,17,4.0,0.083,-2.3,-0.1,MIL,Michigan,3,1188,381
-2.7,8.7,T.J. Leaf,133,2017,18,3.4,0.113,-3.0,-0.3,IND,UCLA,3,1161,448
-13.6,27.3,John Collins,158,2017,19,15.2,0.151,1.4,3.7,ATL,Wake Forest,3,4314,2402
-1.3,13.3,Harry Giles,80,2017,20,6.3,0.058,-2.0,0.0,POR,Duke,2,1063,506
-17.4,24.2,Jarrett Allen,199,2017,22,10.0,0.173,2.0,4.8,BRK,Texas,3,4819,1995
-0.2,3.7,Tyler Lydon,26,2017,24,0.9,0.084,-2.6,0.0,UTA,Syracuse,2,96,23
--0.4,7.6,Caleb Swanigan,59,2017,26,2.1,-0.039,-6.6,-0.5,POR,Purdue,3,447,122
-8.0,30.6,Kyle Kuzma,185,2017,27,16.5,0.068,-2.0,0.0,BRK,Utah,3,5665,3045
-0.0,5.4,Justin Patton,9,2017,16,1.8,0.016,-4.1,0.0,CHI,Creighton,3,49,16
-1.8,9.1,Tony Bradley,48,2017,28,3.8,0.201,0.1,0.2,LAL,UNC,3,437,184
-8.3,22.4,OG Anunoby,189,2017,23,7.4,0.094,0.2,2.4,TOR,Indiana,3,4233,1406
-4.8,19.9,Justin Jackson,192,2017,15,6.7,0.06,-2.7,-0.7,POR,UNC,3,3818,1289
--1.3,26.9,Dennis Smith,146,2017,9,13.0,-0.016,-2.7,-0.7,DAL,NC State,3,3927,1894
-14.9,33.7,Donovan Mitchell,203,2017,13,22.7,0.104,1.1,5.3,DEN,Louisville,3,6850,4601
-7.1,23.3,Luke Kennard,164,2017,12,9.8,0.089,-1.3,0.7,DET,Duke,3,3822,1613
-0.7,16.6,Malik Monk,182,2017,11,8.2,0.011,-4.2,-1.6,CHO,Kentucky,3,3024,1488
-3.7,17.0,Zach Collins,146,2017,10,5.7,0.071,-1.4,0.4,SAC,Gonzaga,3,2487,831
-2.2,24.7,Markelle Fultz,80,2017,1,10.1,0.054,-2.0,0.0,PHI,Washington,3,1978,805
-8.7,30.7,Lauri Markkanen,166,2017,7,16.2,0.082,-1.6,0.5,MIN,Arizona,3,5097,2697
-6.7,26.0,Jonathan Isaac,134,2017,6,9.3,0.092,0.7,2.4,ORL,Florida State,3,3481,1249
-7.4,30.0,De'Aaron Fox,184,2017,5,15.4,0.064,-0.7,1.8,SAC,Kentucky,3,5512,2835
--2.4,25.2,Josh Jackson,158,2017,4,12.3,-0.029,-4.6,-2.6,PHO,Kansas,3,3981,1938
-15.8,31.4,Jayson Tatum,202,2017,3,16.2,0.12,0.4,3.8,BOS,Duke,3,6343,3278
-4.8,32.1,Lonzo Ball,140,2017,2,10.6,0.051,0.9,3.3,LAL,UCLA,3,4490,1482
-6.5,22.8,Derrick White,129,2017,29,9.0,0.106,0.7,2.0,SAS,Colorado,3,2937,1164
-17.3,24.8,Bam Adebayo,198,2017,14,9.9,0.169,2.9,6.0,MIA,Kentucky,3,4902,1956
-7.3,25.3,Josh Hart,172,2017,30,8.5,0.081,-0.4,1.8,UTA,Villanova,3,4360,1462
--0.2,9.3,Davon Reed,31,2017,32,2.4,-0.039,-6.3,-0.3,PHO,Miami (FL),2,289,75
-0.3,16.8,Frank Jackson,101,2017,31,7.2,0.009,-5.5,-1.5,CHO,Duke,2,1695,725
-0.3,16.3,Jaron Blossomgame,27,2017,59,4.2,0.03,-4.5,-0.3,SAS,Clemson,1,439,114
-0.2,8.8,Jabari Bird,13,2017,56,3.0,0.098,-2.1,0.0,BOS,California,1,115,39
-0.0,3.1,Nigel Williams-Goss,9,2017,55,0.4,-0.037,-4.2,0.0,UTA,Gonzaga,1,28,4
-0.3,11.3,Alec Peters,20,2017,54,4.1,0.055,-3.3,-0.1,PHO,Valparaiso,1,225,82
-0.9,13.5,Kadeem Allen,46,2017,53,5.5,0.071,-2.5,-0.1,BOS,Arizona,3,619,252
-8.8,22.2,Monte Morris,134,2017,51,9.3,0.141,-0.5,1.1,DEN,Iowa State,3,2980,1248
-1.0,10.7,Sindarius Thornwell,137,2017,48,2.5,0.034,-2.1,0.0,MIL,South Carolina,2,1469,344
-0.0,2.6,Ike Anigbogu,14,2017,47,0.9,0.057,-6.8,0.0,IND,UCLA,2,36,13
-0.4,11.0,Edmond Sumner,43,2017,52,3.6,0.041,-2.6,-0.1,NOP,Xavier,3,472,154
-2.6,27.3,Dillon Brooks,149,2017,45,12.2,0.031,-3.1,-1.1,HOU,Oregon,3,4065,1824
-3.6,15.9,Sterling Brown,145,2017,46,5.2,0.075,-2.6,-0.4,PHI,SMU,3,2307,757
-0.8,15.3,Frank Mason,94,2017,34,6.5,0.028,-3.8,-0.6,SAC,Kansas,3,1437,613
-3.2,14.6,Ivan Rabb,85,2017,35,5.7,0.125,-1.0,0.3,ORL,California,2,1237,485
-3.1,13.9,Semi Ojeleye,174,2017,37,3.0,0.061,-3.1,-0.7,BOS,SMU,3,2419,514
-4.9,12.1,Jordan Bell,150,2017,38,3.8,0.128,1.1,1.4,CHI,Oregon,3,1818,564
-3.5,17.5,Wesley Iwundu,164,2017,33,4.5,0.059,-2.9,-0.6,ORL,Kansas State,3,2873,742
-0.4,16.0,Dwayne Bacon,132,2017,40,5.4,0.01,-5.5,-1.9,NOP,Florida State,3,2116,713
-1.0,16.1,Tyler Dorsey,104,2017,41,6.7,0.03,-4.1,-0.9,ATL,Oregon,2,1672,701
-7.4,19.8,Thomas Bryant,114,2017,42,9.9,0.158,1.2,1.8,UTA,Indiana,3,2252,1125
-2.9,20.2,Damyean Dotson,159,2017,44,7.8,0.044,-2.6,-0.5,NYK,Oregon,3,3211,1246
--0.4,15.1,Jawun Evans,56,2017,39,4.2,-0.022,-5.2,-0.7,PHI,Oklahoma State,2,843,237
-3.2,22.4,Bruce Brown,121,2018,42,6.0,0.056,-1.3,0.5,DET,Miami (FL),2,2714,724
-0.0,4.1,Jarred Vanderbilt,24,2018,41,1.2,-0.021,-6.0,-0.1,ORL,Kentucky,2,98,28
-0.0,7.2,Khyri Thomas,28,2018,38,2.2,0.006,-5.3,-0.2,PHI,Creighton,2,201,62
--0.1,4.0,Melvin Frazier,23,2018,35,1.4,-0.043,-7.7,-0.1,ORL,Tulane,2,91,33
-3.0,25.1,Devonte' Graham,94,2018,34,11.6,0.061,-1.2,0.5,ATL,Kansas,2,2363,1089
-4.5,19.9,Jalen Brunson,121,2018,33,8.6,0.089,-2.2,-0.1,DAL,Villanova,2,2404,1041
-0.4,14.2,Jevon Carter,72,2018,32,4.1,0.021,-2.8,-0.2,MEM,West Virginia,2,1019,292
-0.0,0.0,Justin Jackson,0,2018,43,0.0,0.0,0.0,0.0,DEN,Maryland,0,0,0
-0.7,13.7,Gary Trent,51,2018,37,4.9,0.048,-2.8,-0.1,SAC,Duke,2,697,252
-1.6,18.9,De'Anthony Melton,86,2018,46,6.3,0.048,-0.8,0.5,HOU,USC,2,1628,541
-1.4,16.4,Sviatoslav Mykhailiuk,87,2018,47,6.1,0.049,-2.7,-0.3,LAL,Kansas,2,1424,530
-1.5,17.4,Keita Bates-Diop,65,2018,48,6.2,0.063,-2.6,-0.2,MIN,Ohio State,2,1133,400
--0.1,4.8,Chimezie Metu,42,2018,49,2.1,-0.013,-6.4,-0.2,SAS,USC,2,203,87
-0.2,4.4,Alize Johnson,25,2018,50,1.2,0.077,-6.7,-0.1,IND,Missouri State,2,110,31
-0.0,0.0,Tony Carr,0,2018,51,0.0,0.0,0.0,0.0,NOP,Penn State,0,0,0
-0.0,8.0,Vince Edwards,2,2018,52,1.5,-0.014,-9.8,0.0,UTA,Purdue,1,16,3
-0.0,4.0,Devon Hall,5,2018,53,1.0,-0.059,-11.5,0.0,OKC,Virginia,1,20,5
-0.7,13.3,Shake Milton,36,2018,54,5.2,0.069,-2.9,-0.1,DAL,SMU,2,478,188
-0.2,10.6,Ray Spalding,14,2018,56,3.9,0.051,-3.4,-0.1,PHI,Louisville,1,148,54
--0.1,2.2,Kevin Hervey,6,2018,57,0.0,-0.357,-17.0,0.0,OKC,UT Arlington,1,13,0
-0.1,3.3,Thomas Welsh,11,2018,58,1.6,0.162,-2.6,0.0,DEN,UCLA,1,36,18
-1.0,13.7,Hamidou Diallo,81,2018,45,4.8,0.041,-4.7,-0.8,BRK,Kentucky,2,1112,389
-2.6,17.7,Omari Spellman,92,2018,30,6.8,0.076,-1.2,0.3,ATL,Villanova,2,1628,625
-0.0,3.2,Kostas Antetokounmpo,5,2018,60,0.4,-0.128,-10.4,0.0,PHI,Dayton,2,16,2
--0.7,10.3,Jacob Evans,54,2018,28,2.7,-0.06,-8.0,-0.8,GSW,Cincinnati,2,555,147
-7.5,31.1,Deandre Ayton,89,2018,1,16.6,0.131,0.2,1.5,PHO,Arizona,2,2772,1479
-4.0,25.3,Marvin Bagley,75,2018,2,14.8,0.101,-2.5,-0.2,SAC,Duke,2,1901,1108
-6.0,27.0,Jaren Jackson,105,2018,4,15.5,0.102,0.5,1.8,MEM,Michigan State,2,2833,1628
-7.8,32.4,Trae Young,125,2018,5,22.8,0.093,1.4,3.5,DAL,Oklahoma,2,4046,2844
-3.4,15.8,Mohamed Bamba,91,2018,6,5.8,0.112,0.4,0.9,ORL,Texas,2,1440,532
-5.1,27.4,Wendell Carter,81,2018,7,11.0,0.111,-0.3,0.9,CHI,Duke,2,2219,888
-0.8,31.9,Collin Sexton,131,2018,8,17.8,0.009,-4.4,-2.5,CLE,Alabama,2,4175,2329
--0.9,24.9,Kevin Knox,123,2018,9,10.6,-0.014,-5.3,-2.6,NYK,Kentucky,2,3058,1304
-5.6,27.6,Mikal Bridges,130,2018,10,8.0,0.075,0.3,2.1,PHI,Villanova,2,3593,1042
-7.4,29.9,Shai Gilgeous-Alexander,132,2018,11,14.1,0.09,-0.1,1.9,CHO,Kentucky,2,3950,1858
-4.0,24.5,Miles Bridges,128,2018,12,9.2,0.062,-1.4,0.5,LAC,Michigan State,2,3139,1182
-0.0,10.8,Jerome Robinson,73,2018,13,3.2,0.002,-4.4,-0.5,LAC,Boston College,2,792,234
-1.9,14.3,Michael Porter,39,2018,14,8.0,0.168,0.6,0.4,DEN,Missouri,1,556,311
-2.3,19.6,Troy Brown,96,2018,15,7.5,0.058,-2.1,-0.1,WAS,Oregon,2,1884,716
-0.1,14.7,Zhaire Smith,9,2018,16,4.9,0.025,-4.7,-0.1,PHO,Texas Tech,2,132,44
-3.7,19.8,Donte DiVincenzo,70,2018,17,7.4,0.129,1.4,1.2,MIL,Villanova,2,1389,518
-0.4,10.9,Lonnie Walker,56,2018,18,4.8,0.033,-4.7,-0.4,SAS,Miami (FL),2,613,270
-2.5,27.8,Kevin Huerter,113,2018,19,10.3,0.038,-1.7,0.2,ATL,Maryland,2,3140,1161
-2.4,23.8,Josh Okogie,119,2018,20,7.8,0.041,-1.6,0.3,MIN,Georgia Tech,2,2838,929
-0.6,13.4,Grayson Allen,68,2018,21,6.4,0.033,-5.0,-0.7,UTA,Duke,2,914,432
-1.3,19.2,Chandler Hutchison,68,2018,22,5.9,0.049,-3.8,-0.6,CHI,Boise State,2,1303,400
-2.7,17.9,Aaron Holiday,95,2018,23,8.0,0.076,-1.7,0.1,IND,UCLA,2,1698,760
-1.2,13.7,Moritz Wagner,64,2018,25,7.0,0.066,-2.4,-0.1,LAL,Michigan,2,875,451
-5.4,24.4,Landry Shamet,110,2018,26,9.4,0.097,-0.7,0.9,PHI,Wichita State,2,2679,1036
-2.3,10.8,Robert Williams,51,2018,27,3.0,0.199,5.0,1.0,BOS,Texas A&M,2,552,155
-0.0,6.0,George King,1,2018,59,0.0,-0.001,-10.6,0.0,PHO,Colorado,1,6,0
+Win Shares,Mins Played (per game),Player,Games,Year,Rank,Points(per game),WS/48,Box +/-,Value Overall Replacement Player,Team,College,Years,Mins Played (Total),Points (Total),Class
+48.0,30.6,Kenyon Martin,757,2000,1,12.3,0.1,0.7,15.5,NJN,Cincinnati,15,23134,9325,Above Avg
+0.3,15.6,A.J. Guyton,80,2000,32,5.5,0.01,-5.4,-1.1,CHI,Indiana,3,1246,442,Below Avg
+11.6,14.3,Jake Voskuhl,450,2000,33,4.0,0.087,-2.2,-0.3,CHI,UConn,9,6443,1814,Below Avg
+0.6,18.7,Khalid El-Amin,50,2000,34,6.3,0.03,-3.8,-0.4,CHI,UConn,1,936,314,Bust
+-0.1,10.6,Mike Smith,17,2000,35,3.0,-0.033,-5.5,-0.2,WAS,University of Louisiana at Monroe,1,180,51,Bust
+20.0,17.3,Eddie House,717,2000,37,7.5,0.077,-1.5,1.6,MIA,Arizona State,11,12405,5356,Above Avg
+24.7,18.1,Eduardo Nájera,619,2000,38,4.9,0.106,0.3,6.4,HOU,Oklahoma,12,11213,3052,Above Avg
+-0.2,7.3,Lavor Postell,61,2000,39,3.2,-0.025,-8.6,-0.7,NYK,St. John's,3,446,195,Below Avg
+0.9,15.2,Hanno Möttölä,155,2000,40,4.6,0.019,-5.8,-2.3,ATL,Utah,2,2360,715,Bust
+0.0,0.0,Chris Carrawell,0,2000,41,0.0,0.0,0.0,0.0,SAS,Duke,0,0,0,Bust
+55.9,32.0,Michael Redd,629,2000,43,19.0,0.134,0.9,14.9,MIL,Ohio State,12,20104,11972,Star
+0.3,9.4,Dan Langhi,133,2000,31,3.0,0.012,-6.8,-1.5,DAL,Vanderbilt,4,1253,393,Below Avg
+1.3,9.8,Jabari Smith,108,2000,45,3.0,0.058,-4.0,-0.5,SAC,LSU,4,1063,329,Below Avg
+0.0,0.0,Mark Karcher,0,2000,48,0.0,0.0,0.0,0.0,PHI,Temple,0,0,0,Bust
+8.6,15.5,Jason Hart,341,2000,49,4.8,0.078,-1.7,0.3,MIL,Syracuse,9,5289,1623,Above Avg
+0.1,4.5,Kaniel Dickens,19,2000,50,1.2,0.055,-5.0,-0.1,UTA,Idaho,3,85,22,Below Avg
+-0.2,7.0,Ernest Brown,3,2000,52,1.0,-0.349,-24.7,-0.1,MIA,Indian Hills Community College,1,21,3,Bust
+0.0,9.7,Dan McClintock,6,2000,53,3.0,0.007,-6.6,-0.1,DEN,Northern Arizona University,1,58,18,Bust
+0.0,0.0,Cory Hightower,0,2000,54,0.0,0.0,0.0,0.0,SAS,Indian Hills Community College,0,0,0,Bust
+0.2,22.5,Chris Porter,51,2000,55,8.6,0.008,-4.6,-0.8,GSW,Auburn,1,1147,440,Bust
+0.0,0.0,Jaquay Walls,0,2000,56,0.0,0.0,0.0,0.0,IND,Colorado,0,0,0,Bust
+0.0,0.0,Scoonie Penn,0,2000,57,0.0,0.0,0.0,0.0,ATL,Ohio State,0,0,0,Bust
+0.0,0.0,Pete Mickeal,0,2000,58,0.0,0.0,0.0,0.0,DAL,Cincinnati,0,0,0,Bust
+0.0,0.0,DeeAndre Hulett,0,2000,46,0.0,0.0,0.0,0.0,TOR,College of the Sequoias,0,0,0,Bust
+15.4,14.2,Brian Cardinal,456,2000,44,4.6,0.114,0.7,4.5,DET,Purdue,12,6477,2108,Below Avg
+0.2,9.9,Erick Barkley,27,2000,28,2.9,0.027,-3.8,-0.1,POR,St. John's,2,266,77,Bust
+8.2,11.8,Mark Madsen,453,2000,29,2.2,0.074,-2.2,-0.2,LAL,Stanford,9,5335,975,Below Avg
+21.3,19.8,Stromile Swift,547,2000,2,8.4,0.095,-1.9,0.2,VAN,LSU,9,10804,4582,Above Avg
+2.7,20.9,Marcus Fizer,289,2000,4,9.6,0.022,-4.7,-4.1,CHI,Iowa State,6,6032,2782,Below Avg
+60.7,26.9,Mike Miller,1032,2000,5,10.6,0.105,0.9,20.3,ORL,Florida,17,27812,10973,Above Avg
+6.4,17.2,DerMarr Johnson,344,2000,6,6.2,0.052,-1.6,0.6,ATL,Cincinnati,7,5930,2121,Below Avg
+13.3,20.1,Chris Mihm,436,2000,7,7.5,0.073,-3.8,-4.1,CHI,Texas,8,8758,3262,Above Avg
+60.6,29.4,Jamal Crawford,1326,2000,8,14.6,0.075,-1.1,8.9,CLE,Michigan,19,38988,19414,Above Avg
+18.5,19.4,Keyon Dooling,728,2000,10,7.0,0.063,-3.0,-3.6,ORL,Missouri,13,14134,5067,Below Avg
+2.1,9.6,Jérôme Moïso,145,2000,11,2.7,0.074,-3.8,-0.6,BOS,UCLA,5,1392,386,Below Avg
+14.9,17.3,Etan Thomas,409,2000,12,5.7,0.101,-2.6,-1.0,DAL,Syracuse,9,7084,2341,Above Avg
+4.1,21.7,Courtney Alexander,187,2000,13,9.0,0.048,-4.0,-2.1,ORL,Fresno State,3,4067,1690,Below Avg
+-0.8,11.2,Mateen Cleaves,167,2000,14,3.6,-0.021,-6.3,-2.0,DET,Michigan State,6,1863,609,Below Avg
+23.0,19.8,Joel Przybilla,592,2000,9,3.9,0.094,-0.9,3.3,HOU,Minnesota,13,11733,2293,Above Avg
+1.8,12.4,Mamadou N'Diaye,69,2000,26,3.8,0.101,-5.3,-0.7,DEN,Auburn,5,858,262,Below Avg
+1.9,14.4,Jason Collier,151,2000,15,5.6,0.042,-6.3,-2.3,MIL,Georgia Tech,5,2178,841,Below Avg
+35.7,27.2,Morris Peterson,711,2000,21,10.7,0.089,0.0,9.7,TOR,Michigan State,11,19366,7628,Above Avg
+4.7,16.2,Donnell Harvey,205,2000,22,5.6,0.069,-2.7,-0.6,NYK,Florida,5,3318,1150,Above Avg
+27.7,21.5,Jamaal Magloire,680,2000,19,7.2,0.091,-2.9,-3.3,CHH,Kentucky,12,14621,4917,Above Avg
+32.8,26.5,Quentin Richardson,783,2000,18,10.3,0.076,-0.3,8.9,LAC,DePaul,13,20785,8032,Above Avg
+23.1,30.5,Desmond Mason,643,2000,17,12.1,0.056,-2.4,-1.9,SEA,Oklahoma State,10,19641,7767,Below Avg
+14.2,25.6,Speedy Claxton,334,2000,20,9.3,0.08,-0.7,2.8,PHI,Hofstra,7,8548,3096,Above Avg
+0.0,0.0,Michael Wright,0,2001,39,0.0,0.0,0.0,0.0,NYK,Arizona,0,0,0,Bust
+20.1,24.7,Bobby Simmons,466,2001,42,9.0,0.084,-0.1,5.4,SEA,DePaul,10,11513,4189,Above Avg
+0.0,8.7,Jamison Brewer,54,2001,41,1.6,-0.001,-4.4,-0.3,IND,Auburn,4,468,89,Below Avg
+19.2,22.2,Earl Watson,878,2001,40,6.4,0.047,-1.8,1.0,SEA,UCLA,13,19494,5593,Below Avg
+-0.1,9.7,Omar Cook,22,2001,32,1.7,-0.021,-6.1,-0.2,ORL,St. John's,2,213,37,Bust
+-0.2,8.7,Jeff Trepagnier,31,2001,36,2.8,-0.038,-4.8,-0.2,CLE,USC,3,270,88,Below Avg
+7.6,13.0,Brian Scalabrine,520,2001,35,3.1,0.054,-2.6,-1.1,NJN,USC,11,6772,1594,Below Avg
+1.0,13.9,Terence Morris,139,2001,34,3.4,0.025,-3.6,-0.8,ATL,Maryland,3,1934,472,Below Avg
+0.0,13.8,Will Solomon,115,2001,33,5.1,0.0,-4.7,-1.1,MEM,Clemson,2,1584,584,Bust
+0.0,0.0,Eric Chenowith,0,2001,43,0.0,0.0,0.0,0.0,NYK,Kansas,0,0,0,Bust
+-0.7,9.0,Damone Brown,39,2001,37,2.8,-0.1,-10.3,-0.7,PHI,Syracuse,4,351,108,Below Avg
+0.0,0.0,Kyle Hill,0,2001,44,0.0,0.0,0.0,0.0,DAL,Eastern Illinois University,0,0,0,Bust
+0.0,0.0,Bryan Bracey,0,2001,58,0.0,0.0,0.0,0.0,SAS,Oregon,0,0,0,Bust
+3.1,11.3,Loren Woods,215,2001,46,2.6,0.062,-2.9,-0.6,MIN,Arizona,6,2428,555,Below Avg
+0.0,9.8,Ken Johnson,16,2001,49,2.0,-0.002,-10.0,-0.3,MIA,Ohio State,1,156,32,Bust
+0.2,6.3,Ruben Boumtje-Boumtje,44,2001,50,1.0,0.027,-4.5,-0.2,POR,Georgetown,3,276,43,Below Avg
+0.8,7.2,Alton Ford,73,2001,51,2.5,0.074,-6.5,-0.6,PHO,Houston,3,524,186,Below Avg
+0.0,0.0,Andre Hutson,0,2001,52,0.0,0.0,0.0,0.0,MIL,Michigan State,0,0,0,Bust
+15.7,15.8,Jarron Collins,542,2001,53,3.9,0.088,-1.8,0.5,UTA,Stanford,10,8542,2095,Above Avg
+-1.1,14.2,Kenny Satterfield,75,2001,54,4.3,-0.051,-6.1,-1.1,DAL,Cincinnati,2,1062,321,Bust
+0.0,0.0,Maurice Jeffers,0,2001,55,0.0,0.0,0.0,0.0,SAC,Saint Louis,0,0,0,Bust
+0.1,5.5,Alvin Jones,23,2001,57,1.1,0.034,-4.5,-0.1,PHI,Georgia Tech,1,126,26,Bust
+51.3,35.1,Gilbert Arenas,552,2001,31,20.7,0.127,2.9,24.1,GSW,Arizona,11,19351,11402,Star
+1.1,12.2,Sean Lampley,45,2001,45,4.5,0.096,-3.2,-0.2,CHI,California,2,550,203,Bust
+13.8,25.3,Trenton Hassell,644,2001,30,5.8,0.041,-2.3,-1.3,CHI,Austin Peay State University,9,16278,3741,Below Avg
+10.6,15.0,Steven Hunter,400,2001,15,4.5,0.085,-2.8,-1.3,ORL,DePaul,8,5993,1817,Below Avg
+59.1,34.1,Jason Richardson,857,2001,5,17.1,0.097,1.3,24.4,GSW,Michigan State,13,29241,14644,Above Avg
+75.7,30.7,Shane Battier,977,2001,6,8.6,0.121,2.9,37.0,MEM,Duke,13,30004,8408,Star
+10.9,22.2,Eddie Griffin,303,2001,7,7.2,0.078,-1.0,1.7,NJN,Seton Hall,5,6729,2171,Above Avg
+1.8,15.4,Rodney White,218,2001,9,7.1,0.026,-3.8,-1.5,DET,UNC Charlotte,4,3354,1540,Below Avg
+82.8,34.7,Joe Johnson,1276,2001,10,16.0,0.09,0.4,26.4,BOS,Arkansas,17,44234,20405,Above Avg
+3.0,13.5,Kedrick Brown,143,2001,11,3.6,0.074,-2.2,-0.1,BOS,Okaloosa-Walton Community College,4,1935,509,Below Avg
+83.0,29.0,Richard Jefferson,1181,2001,13,12.6,0.116,0.3,19.8,HOU,Arizona,17,34293,14904,Above Avg
+51.3,24.4,Samuel Dalembert,886,2001,26,7.7,0.114,-0.7,7.2,PHI,Seton Hall,13,21646,6814,Above Avg
+17.2,26.4,Jamaal Tinsley,547,2001,27,8.5,0.057,-0.4,5.7,MEM,Iowa State,11,14443,4652,Below Avg
+50.3,27.3,Troy Murphy,729,2001,14,10.8,0.121,-0.1,9.5,GSW,Notre Dame,12,19921,7860,Star
+59.7,29.7,Gerald Wallace,832,2001,25,11.9,0.116,2.4,27.3,SAC,Alabama,14,24731,9933,Above Avg
+-0.6,6.5,Brandon Armstrong,108,2001,23,2.2,-0.039,-8.6,-1.2,HOU,Pepperdine,3,699,239,Below Avg
+-0.4,5.0,Joseph Forte,25,2001,21,1.2,-0.166,-10.1,-0.3,BOS,UNC,2,125,30,Bust
+0.7,12.9,Jeryl Sasser,82,2001,22,2.5,0.032,-2.9,-0.2,ORL,SMU,2,1061,204,Bust
+81.1,31.0,Zach Randolph,1116,2001,19,16.6,0.112,-0.4,13.6,POR,Michigan State,17,34616,18578,Above Avg
+20.1,20.4,Jason Collins,735,2001,18,3.6,0.064,-2.0,0.2,HOU,Stanford,13,14974,2621,Below Avg
+2.0,11.7,Michael Bradley,173,2001,17,2.8,0.047,-3.7,-0.9,TOR,Villanova,5,2016,483,Below Avg
+-0.5,5.0,Kirk Haston,27,2001,16,1.2,-0.197,-13.5,-0.4,CHH,Indiana,2,134,32,Bust
+43.8,22.9,Brendan Haywood,816,2001,20,6.8,0.113,-0.2,8.4,CLE,UNC,13,18680,5538,Above Avg
+0.0,0.0,Rod Grizzard,0,2002,39,0.0,0.0,0.0,0.0,WAS,Alabama,0,0,0,Bust
+8.5,22.7,Ronald Murray,487,2002,42,9.9,0.037,-2.9,-2.6,MIL,Shaw,8,11077,4817,Below Avg
+0.0,3.9,Tito Maddox,9,2002,38,1.2,-0.011,-2.2,0.0,HOU,Fresno State,1,35,11,Bust
+0.0,7.5,Robert Archibald,44,2002,32,1.2,-0.004,-5.0,-0.2,MEM,Illinois,2,328,51,Bust
+80.3,31.2,Carlos Boozer,861,2002,35,16.2,0.143,1.2,22.1,CLE,Duke,13,26901,13976,Star
+15.8,14.8,Dan Gadzuric,527,2002,34,4.7,0.097,-1.3,1.3,MIL,UCLA,10,7793,2465,Below Avg
+1.0,23.4,Vincent Yarbrough,59,2002,33,6.9,0.035,-2.4,-0.1,DEN,Tennessee,1,1381,406,Bust
+0.0,0.0,Jason Jennings,0,2002,43,0.0,0.0,0.0,0.0,POR,Arkansas State University,0,0,0,Bust
+2.9,11.6,Lonny Baxter,162,2002,44,3.9,0.075,-5.1,-1.5,CHI,Maryland,4,1884,637,Below Avg
+0.1,11.0,Corsley Edwards,10,2002,58,2.7,0.026,-5.2,-0.1,SAC,Central Connecticut State University,1,110,27,Bust
+42.8,23.6,Matt Barnes,929,2002,46,8.2,0.093,1.0,16.7,MEM,UCLA,14,21967,7589,Above Avg
+1.4,8.8,Jamal Sampson,72,2002,47,2.0,0.106,-2.1,0.0,UTA,California,5,631,142,Below Avg
+0.0,6.0,Chris Owens,1,2002,48,4.0,-0.032,-10.7,0.0,MIL,Texas,1,6,4,Bust
+15.9,18.6,Darius Songaila,495,2002,50,6.9,0.083,-1.7,0.7,BOS,Wake Forest,8,9229,3415,Above Avg
+0.0,0.0,Marcus Taylor,0,2002,52,0.0,0.0,0.0,0.0,MIN,Michigan State,0,0,0,Bust
+20.8,21.3,Rasual Butler,809,2002,53,7.5,0.058,-2.1,-0.4,MIA,La Salle,13,17219,6092,Below Avg
+-0.3,7.8,Tamar Slay,66,2002,54,2.6,-0.029,-6.0,-0.5,NJN,Marshall,3,517,173,Below Avg
+0.0,2.8,Randy Holcomb,4,2002,57,0.5,0.15,-1.8,0.0,SAS,San Diego State,1,11,2,Bust
+13.0,17.7,Roger Mason,518,2002,31,6.3,0.068,-1.8,0.5,CHI,Virginia,10,9147,3289,Below Avg
+0.0,0.0,Sam Clancy,0,2002,45,0.0,0.0,0.0,0.0,PHI,USC,0,0,0,Bust
+0.0,0.0,Steve Logan,0,2002,30,0.0,0.0,0.0,0.0,GSW,Cincinnati,0,0,0,Bust
+5.9,15.4,Dan Dickau,300,2002,28,5.8,0.061,-2.3,-0.4,SAC,Gonzaga,6,4617,1745,Below Avg
+0.8,26.1,Jay Williams,75,2002,2,9.5,0.02,-2.2,-0.1,CHI,Duke,1,1961,714,Bust
+58.5,27.7,Mike Dunleavy,986,2002,3,11.2,0.103,0.3,15.9,GSW,Duke,15,27340,11048,Above Avg
+43.9,25.5,Drew Gooden,790,2002,4,11.0,0.105,-1.5,2.3,MEM,Kansas,14,20127,8653,Above Avg
+0.0,21.4,Dajuan Wagner,103,2002,6,9.4,0.0,-5.6,-2.0,CLE,Memphis,4,2202,964,Below Avg
+26.9,19.9,Chris Wilcox,628,2002,8,8.2,0.103,-1.6,1.2,LAC,Maryland,11,12474,5150,Above Avg
+50.9,32.2,Caron Butler,881,2002,10,14.1,0.086,0.2,15.9,MIA,UConn,14,28333,12430,Above Avg
+13.1,21.6,Jared Jeffries,629,2002,11,4.8,0.046,-0.9,3.8,WAS,Indiana,11,13579,3003,Below Avg
+4.0,16.0,Melvin Ely,375,2002,12,5.3,0.032,-3.6,-2.4,LAC,Fresno State,9,6005,1992,Below Avg
+0.5,9.6,Marcus Haislip,89,2002,13,3.5,0.026,-6.2,-0.9,MIL,Tennessee,4,854,311,Below Avg
+16.5,24.0,Fred Jones,430,2002,14,7.5,0.077,-0.9,2.8,IND,Oregon,7,10299,3206,Above Avg
+-0.5,12.0,Chris Jefferies,72,2002,27,3.9,-0.03,-6.3,-0.9,LAL,Fresno State,2,861,281,Bust
+33.9,26.4,John Salmons,895,2002,26,9.3,0.069,-1.0,5.8,SAS,Miami (FL),13,23672,8292,Above Avg
+0.1,11.1,Frank Williams,86,2002,25,2.9,0.003,-5.0,-0.7,DEN,Illinois,3,952,253,Below Avg
+63.1,31.0,Tayshaun Prince,1017,2002,23,11.1,0.096,0.1,16.6,DET,Kentucky,14,31576,11272,Above Avg
+1.4,12.3,Qyntel Woods,167,2002,21,4.1,0.032,-3.0,-0.5,POR,Northeast Mississippi Community College,4,2060,691,Below Avg
+1.7,17.2,Kareem Rush,346,2002,20,6.4,0.013,-4.1,-3.2,TOR,Missouri,7,5956,2213,Below Avg
+-0.4,9.1,Ryan Humphrey,85,2002,19,2.3,-0.027,-7.6,-1.1,UTA,Notre Dame,3,772,197,Below Avg
+1.0,13.5,Curtis Borchardt,83,2002,18,3.1,0.041,-2.4,-0.1,ORL,Stanford,2,1117,258,Bust
+6.1,19.5,Juan Dixon,436,2002,17,8.4,0.034,-3.0,-2.1,WAS,Maryland,7,8509,3678,Below Avg
+6.2,18.5,Casey Jacobsen,287,2002,22,5.2,0.056,-2.3,-0.4,PHO,Stanford,4,5320,1488,Below Avg
+12.9,20.2,Willie Green,731,2003,41,8.3,0.042,-3.6,-5.9,SEA,Detroit Mercy,12,14783,6059,Below Avg
+0.0,16.0,Derrick Zimmerman,2,2003,40,2.0,0.004,-9.7,-0.1,GSW,Mississippi State,1,32,4,Bust
+29.1,23.9,Steve Blake,870,2003,38,6.5,0.067,-1.8,1.3,WAS,Maryland,13,20823,5662,Below Avg
+0.0,0.0,Mario Austin,0,2003,36,0.0,0.0,0.0,0.0,CHI,Mississippi State,0,0,0,Bust
+20.4,21.6,Keith Bogans,671,2003,43,6.3,0.068,-0.8,4.5,MIL,Kentucky,11,14527,4257,Below Avg
+0.0,2.5,Jerome Beasley,2,2003,33,1.0,-0.117,-22.4,0.0,MIA,University of North Dakota,1,5,2,Bust
+13.5,17.2,Luke Walton,564,2003,32,4.7,0.067,-1.2,1.9,LAL,Arizona,10,9685,2649,Below Avg
+0.2,12.4,Travis Hansen,41,2003,37,3.0,0.019,-5.0,-0.4,ATL,BYU,1,507,123,Bust
+40.0,29.2,Mo Williams,818,2003,47,13.2,0.08,-0.5,8.9,UTA,Alabama,13,23872,10759,Above Avg
+25.2,15.7,James Jones,709,2003,49,5.2,0.109,-0.6,4.0,IND,Miami (FL),14,11098,3717,Above Avg
+72.7,25.4,Kyle Korver,1216,2003,51,9.7,0.113,0.8,21.5,NJN,Creighton,17,30925,11836,Above Avg
+0.0,0.0,Tommy Smith,0,2003,53,0.0,0.0,0.0,0.0,CHI,Arizona State,0,0,0,Bust
+0.0,0.0,Rick Rickert,0,2003,55,0.0,0.0,0.0,0.0,MIN,Minnesota,0,0,0,Bust
+0.7,9.4,Brandon Hunter,67,2003,56,3.3,0.055,-5.4,-0.5,BOS,Ohio University,2,630,220,Bust
+10.3,17.8,Jason Kapono,509,2003,31,6.7,0.055,-3.0,-2.3,CLE,UCLA,9,9068,3398,Below Avg
+38.5,16.9,Matt Bonner,792,2003,45,5.8,0.138,1.0,10.1,CHI,Florida,12,13356,4632,Star
+38.0,30.3,Josh Howard,507,2003,29,14.3,0.119,0.6,10.3,DAL,Wake Forest,10,15350,7270,Above Avg
+101.8,35.7,Carmelo Anthony,1097,2003,3,23.8,0.125,0.8,27.7,DEN,Syracuse,17,39202,26073,Star
+106.0,35.8,Chris Bosh,893,2003,4,19.2,0.159,1.4,27.5,TOR,Georgia Tech,13,31936,17189,Star
+120.7,33.9,Dwyane Wade,1054,2003,5,22.0,0.162,4.5,58.4,MIA,Marquette,16,35773,23165,Star
+24.6,26.7,Chris Kaman,735,2003,6,11.2,0.06,-2.0,0.0,LAC,Central Michigan University,13,19642,8208,Below Avg
+52.5,30.7,Kirk Hinrich,879,2003,7,10.9,0.093,0.2,14.7,CHI,Kansas,13,27015,9594,Above Avg
+7.8,15.5,Mike Sweetney,233,2003,9,6.5,0.103,-2.1,-0.1,NYK,Georgetown,4,3610,1516,Above Avg
+10.2,23.2,Jarvis Hayes,427,2003,10,8.3,0.049,-2.9,-2.2,WAS,Georgia,7,9898,3553,Below Avg
+44.5,20.4,Nick Collison,910,2003,12,5.9,0.115,0.4,11.3,SEA,Kansas,14,18603,5359,Above Avg
+6.6,16.0,Marcus Banks,348,2003,13,5.9,0.057,-2.4,-0.6,MEM,UNLV,8,5571,2061,Below Avg
+16.9,27.7,T.J. Ford,429,2003,8,11.2,0.068,-0.8,3.6,MIL,Texas,8,11882,4797,Below Avg
+-0.6,8.5,Reece Gaines,71,2003,15,1.7,-0.049,-7.7,-0.9,ORL,Louisville,3,605,123,Below Avg
+36.0,26.1,Luke Ridnour,830,2003,14,9.3,0.08,-0.9,5.8,SEA,Oregon,12,21623,7740,Above Avg
+10.2,13.4,Brian Cook,421,2003,24,5.5,0.086,-2.4,-0.6,LAL,Illinois,9,5649,2312,Below Avg
+9.9,15.7,Dahntay Jones,624,2003,20,5.4,0.048,-3.7,-4.1,BOS,Duke,13,9799,3353,Below Avg
+85.9,28.2,David West,1034,2003,18,13.6,0.141,1.5,25.8,NOH,Xavier,15,29144,14034,Star
+-0.2,5.7,Troy Bell,6,2003,16,1.8,-0.326,-14.4,-0.1,BOS,Boston College,1,34,11,Bust
+0.0,0.0,David Young,0,2004,41,0.0,0.0,0.0,0.0,SEA,NC Central,0,0,0,Bust
+0.5,10.6,Justin Reed,136,2004,40,3.5,0.016,-5.9,-1.4,BOS,Ole Miss,3,1436,472,Below Avg
+25.0,25.6,Chris Duhon,606,2004,38,6.5,0.077,-1.5,2.0,CHI,Duke,9,15526,3946,Above Avg
+0.1,5.2,Andre Emmett,14,2004,35,1.4,0.04,-6.8,-0.1,SEA,Texas Tech,2,73,20,Bust
+0.1,9.7,Antonio Burks,81,2004,36,2.3,0.004,-6.6,-0.9,ORL,Memphis,2,789,186,Bust
+0.5,9.2,Donta Smith,61,2004,34,2.7,0.043,-3.2,-0.2,ATL,Southeastern Illinois College,2,560,165,Bust
+-0.2,12.0,Lionel Chalmers,36,2004,33,3.1,-0.025,-6.3,-0.5,LAC,Xavier,1,433,111,Bust
+61.5,29.7,Trevor Ariza,1047,2004,43,10.5,0.095,1.4,26.7,NYK,UCLA,16,31093,11035,Above Avg
+4.5,12.5,Royal Ivey,492,2004,37,3.3,0.035,-3.8,-2.8,ATL,Texas,10,6162,1641,Below Avg
+0.0,0.0,Tim Pickett,0,2004,44,0.0,0.0,0.0,0.0,NOH,Florida State,0,0,0,Bust
+0.0,12.8,Jackson Vroman,87,2004,31,3.3,0.001,-3.9,-0.5,CHI,Iowa State,2,1111,285,Bust
+0.8,11.6,Pape Sow,76,2004,47,2.9,0.044,-4.8,-0.6,MIA,"California State University, Fullerton",3,879,219,Below Avg
+0.0,0.0,Christian Drejer,0,2004,51,0.0,0.0,0.0,0.0,NJN,Florida,0,0,0,Bust
+0.0,0.0,Romain Sato,0,2004,52,0.0,0.0,0.0,0.0,SAS,Xavier,0,0,0,Bust
+-0.6,14.0,Matt Freije,42,2004,53,3.2,-0.047,-6.3,-0.6,MIA,Vanderbilt,2,588,133,Bust
+0.0,0.0,Rickey Paulding,0,2004,54,0.0,0.0,0.0,0.0,DET,Missouri,0,0,0,Bust
+0.0,4.8,Luis Flores,16,2004,55,2.2,-0.02,-9.6,-0.1,HOU,Manhattan College,1,77,35,Bust
+0.0,0.0,Marcus Douthit,0,2004,56,0.0,0.0,0.0,0.0,LAL,Providence,0,0,0,Bust
+0.0,0.0,Blake Stepp,0,2004,58,0.0,0.0,0.0,0.0,MIN,Gonzaga,0,0,0,Bust
+0.0,0.0,Rashad Wright,0,2004,59,0.0,0.0,0.0,0.0,IND,Georgia,0,0,0,Bust
+2.0,14.9,Bernard Robinson,128,2004,45,4.5,0.049,-2.0,0.0,CHA,Michigan,3,1909,576,Below Avg
+0.0,0.0,Ricky Minard,0,2004,48,0.0,0.0,0.0,0.0,SAC,Morehead State University,0,0,0,Bust
+45.3,30.9,Emeka Okafor,616,2004,2,12.0,0.114,-0.4,7.6,CHA,UConn,10,19055,7370,Above Avg
+33.3,27.4,Ben Gordon,744,2004,3,14.9,0.078,-1.1,4.7,CHI,UConn,11,20366,11084,Above Avg
+54.9,24.3,Devin Harris,985,2004,5,10.8,0.11,0.3,13.7,WAS,Wisconsin,15,23963,10597,Above Avg
+25.7,26.7,Josh Childress,391,2004,6,9.1,0.118,1.3,8.6,ATL,Stanford,8,10432,3548,Above Avg
+74.0,34.3,Luol Deng,902,2004,7,14.8,0.115,0.9,22.6,PHO,Duke,15,30941,13361,Above Avg
+96.4,33.4,Andre Iguodala,1108,2004,9,12.1,0.125,2.9,45.5,PHI,Arizona,15,37034,13456,Star
+0.2,9.9,Luke Jackson,73,2004,10,3.5,0.01,-4.4,-0.4,CLE,Oregon,4,724,252,Below Avg
+3.2,14.2,David Harrison,189,2004,29,5.0,0.057,-3.4,-1.0,IND,Colorado,4,2686,949,Below Avg
+-0.4,11.4,Rafael Araújo,139,2004,8,2.8,-0.013,-6.4,-1.8,TOR,BYU,3,1585,389,Below Avg
+30.3,17.8,Kris Humphries,800,2004,14,6.7,0.102,-2.0,0.1,UTA,Minnesota,13,14232,5350,Above Avg
+61.3,30.2,Kevin Martin,714,2004,26,17.4,0.137,0.1,11.3,SAC,Western Carolina University,12,21559,12396,Star
+38.7,22.0,Tony Allen,820,2004,25,8.1,0.103,1.0,13.7,BOS,Oklahoma State,14,18055,6654,Above Avg
+24.5,27.4,Delonte West,432,2004,24,9.7,0.099,0.5,7.6,BOS,Saint Joseph's,8,11842,4198,Above Avg
+48.3,27.9,Jameer Nelson,878,2004,20,11.3,0.094,0.0,12.7,DEN,Saint Joseph's,14,24539,9940,Above Avg
+4.5,16.8,Kirk Snyder,211,2004,16,6.3,0.061,-2.0,0.0,UTA,Nevada,4,3540,1333,Below Avg
+0.5,8.5,Chris Taft,17,2005,42,2.8,0.155,-1.3,0.0,GSW,Pitt,1,144,47,Bust
+5.6,14.9,Travis Diener,179,2005,38,4.8,0.102,-1.8,0.1,ORL,Marquette,5,2660,854,Below Avg
+19.2,17.0,Ronny Turiaf,473,2005,37,4.7,0.115,1.0,6.0,LAL,Gonzaga,10,8020,2209,Above Avg
+42.8,21.6,Brandon Bass,758,2005,33,8.7,0.125,-1.1,3.7,NOH,LSU,12,16410,6575,Star
+3.3,12.4,Von Wafer,200,2005,39,5.3,0.064,-3.2,-0.7,LAL,Florida State,6,2475,1054,Below Avg
+-0.2,7.8,Alex Acker,30,2005,60,2.7,-0.043,-6.9,-0.3,DET,Pepperdine,2,234,81,Bust
+19.4,27.6,Ryan Gomes,487,2005,50,10.1,0.069,-1.3,2.3,BOS,Providence,8,13463,4926,Above Avg
+0.0,9.2,Robert Whaley,23,2005,51,2.1,0.004,-3.5,-0.1,UTA,Walsh University,1,212,49,Bust
+-0.7,11.9,Orien Greene,131,2005,53,2.5,-0.022,-3.8,-0.7,BOS,LA-Lafayette,4,1555,326,Below Avg
+0.2,5.8,Dijon Thompson,16,2005,54,2.8,0.102,-4.3,-0.1,NYK,UCLA,2,93,45,Bust
+2.5,13.2,Lawrence Roberts,87,2005,55,3.8,0.106,-1.4,0.2,SEA,Mississippi State,2,1150,334,Bust
+0.8,13.3,Daniel Ewing,127,2005,32,3.4,0.024,-3.7,-0.7,LAC,Duke,2,1683,431,Bust
+0.5,12.5,Bracey Wright,26,2005,47,5.0,0.068,-3.7,-0.1,MIN,Indiana,2,325,129,Bust
+2.2,17.0,Salim Stoudamire,157,2005,31,8.0,0.04,-5.1,-2.1,ATL,Arizona,3,2672,1260,Below Avg
+76.0,29.3,David Lee,829,2005,30,13.5,0.15,1.6,22.3,NYK,Florida,12,24293,11232,Star
+0.9,9.9,Wayne Simien,51,2005,29,3.3,0.083,-4.8,-0.4,MIA,Kansas,2,507,169,Bust
+64.1,28.3,Marvin Williams,1053,2005,2,10.3,0.103,-0.2,13.2,ATL,UNC,15,29796,10891,Above Avg
+77.3,34.2,Deron Williams,845,2005,3,16.3,0.129,1.3,23.8,UTA,Illinois,12,28865,13804,Star
+177.7,34.9,Chris Paul,999,2005,4,18.5,0.244,7.2,80.9,NOH,Wake Forest,15,34900,18436,Star
+40.2,29.7,Raymond Felton,971,2005,5,11.2,0.067,-0.6,9.9,CHA,UNC,14,28829,10853,Below Avg
+22.6,20.7,Charlie Villanueva,656,2005,7,10.4,0.08,-1.8,0.6,TOR,UConn,11,13578,6808,Above Avg
+38.9,22.2,Channing Frye,890,2005,8,8.7,0.094,-0.2,8.9,NYK,Arizona,13,19772,7786,Above Avg
+6.5,12.4,Ike Diogu,225,2005,9,6.0,0.112,-4.8,-2.0,GSW,Arizona State,6,2795,1348,Below Avg
+2.6,15.7,Sean May,119,2005,13,6.9,0.068,-2.4,-0.2,CHA,UNC,4,1868,821,Below Avg
+3.6,20.2,Rashad McCants,249,2005,14,10.0,0.035,-2.5,-0.6,MIN,UNC,4,5037,2479,Below Avg
+50.6,28.1,Andrew Bogut,706,2005,1,9.6,0.122,2.3,21.6,MIL,Utah,14,19862,6808,Star
+7.8,16.2,Joey Graham,377,2005,16,5.9,0.061,-3.8,-2.8,TOR,Oklahoma State,6,6117,2239,Below Avg
+3.1,19.2,Antoine Wright,297,2005,15,5.4,0.026,-3.1,-1.5,NJN,Texas A&M,6,5714,1614,Below Avg
+13.6,20.0,Linas Kleiza,409,2005,27,8.7,0.08,-2.4,-0.9,POR,Missouri,7,8185,3561,Above Avg
+20.3,18.4,Jason Maxiell,618,2005,26,5.6,0.086,-2.0,0.1,DET,Cincinnati,10,11379,3481,Above Avg
+14.7,22.4,Luther Head,348,2005,24,8.2,0.09,-0.4,3.2,HOU,Illinois,6,7797,2842,Above Avg
+18.2,21.6,Francisco García,549,2005,23,7.9,0.074,-0.3,4.9,SAC,Louisville,10,11853,4323,Above Avg
+27.8,22.5,Nate Robinson,618,2005,21,11.0,0.096,0.2,7.8,PHO,Washington,11,13878,6807,Above Avg
+0.0,4.3,Julius Hodge,23,2005,20,1.2,0.003,-4.5,-0.1,DEN,NC State,2,98,28,Bust
+20.4,20.2,Hakim Warrick,526,2005,19,9.4,0.092,-3.1,-2.9,MEM,Syracuse,8,10624,4947,Above Avg
+48.5,31.5,Danny Granger,586,2005,17,16.8,0.126,1.5,16.1,IND,New Mexico,10,18487,9855,Star
+36.8,27.8,Jarrett Jack,867,2005,22,10.8,0.073,-1.2,5.1,DEN,Georgia Tech,13,24140,9349,Above Avg
+0.0,0.0,Denham Brown,0,2006,40,0.0,0.0,0.0,0.0,SEA,UConn,0,0,0,Bust
+16.0,23.5,Daniel Gibson,397,2006,42,7.8,0.082,-1.0,2.3,CLE,Texas,7,9316,3115,Above Avg
+0.3,5.8,James Augustine,27,2006,41,1.6,0.101,-2.2,0.0,ORL,Illinois,2,156,42,Bust
+0.4,11.6,David Noel,68,2006,39,2.7,0.024,-3.4,-0.3,MIL,UNC,1,792,184,Bust
+5.0,11.0,Solomon Jones,281,2006,33,3.0,0.078,-2.9,-0.7,ATL,South Florida,8,3092,839,Below Avg
+1.1,9.5,Bobby Jones,91,2006,37,3.2,0.06,-3.5,-0.3,MIN,Washington,2,867,288,Bust
+16.0,16.9,Craig Smith,403,2006,36,7.6,0.113,-1.5,0.9,MIN,Boston College,6,6826,3080,Above Avg
+33.1,29.2,P.J. Tucker,630,2006,35,7.4,0.086,0.9,13.4,TOR,Texas,9,18407,4663,Above Avg
+0.5,8.6,Paul Davis,82,2006,34,2.6,0.035,-4.7,-0.5,LAC,Michigan State,4,702,217,Below Avg
+1.5,12.8,Alexander Johnson,102,2006,45,4.3,0.056,-4.3,-0.7,IND,Florida State,2,1302,439,Bust
+0.0,3.0,Guillermo Díaz,6,2006,52,0.8,0.033,-5.9,0.0,LAC,Miami (FL),1,18,5,Bust
+90.8,29.2,Paul Millsap,977,2006,47,14.0,0.153,3.1,37.0,UTA,Louisiana Tech,14,28519,13708,Star
+12.0,13.9,Leon Powe,239,2006,49,6.2,0.174,-2.3,-0.2,DEN,California,5,3320,1484,Below Avg
+10.4,11.8,Ryan Hollins,518,2006,50,3.7,0.081,-2.6,-1.0,CHA,UCLA,10,6134,1913,Below Avg
+0.8,7.5,Hassan Adams,73,2006,54,2.5,0.072,-4.4,-0.3,NJN,Arizona,2,547,185,Bust
+0.0,0.0,J.R. Pinnock,0,2006,58,0.0,0.0,0.0,0.0,DAL,George Washington,0,0,0,Bust
+14.5,12.1,Steve Novak,467,2006,32,4.7,0.123,-0.9,1.6,HOU,Marquette,11,5657,2177,Below Avg
+0.1,10.5,Dee Brown,68,2006,46,2.1,0.008,-4.1,-0.4,UTA,Illinois,2,711,140,Bust
+0.8,8.7,James White,67,2006,31,2.7,0.062,-3.4,-0.2,POR,Cincinnati,3,583,182,Below Avg
+-0.1,11.9,Will Blalock,14,2006,60,1.8,-0.032,-5.7,-0.2,DET,Iowa State,1,166,25,Bust
+-1.6,14.7,Mardy Collins,189,2006,29,3.9,-0.027,-4.9,-2.0,NYK,Temple,4,2771,742,Below Avg
+111.3,34.4,LaMarcus Aldridge,993,2006,2,19.6,0.156,1.5,29.8,CHI,Texas,14,34190,19420,Star
+-1.4,20.4,Adam Morrison,161,2006,3,7.5,-0.021,-5.5,-2.9,CHA,Gonzaga,3,3278,1200,Below Avg
+13.0,19.7,Tyrus Thomas,402,2006,4,7.7,0.078,-1.1,1.7,POR,LSU,8,7932,3093,Above Avg
+9.9,15.5,Shelden Williams,361,2006,5,4.5,0.085,-2.8,-1.2,ATL,Duke,6,5586,1618,Above Avg
+37.4,35.5,Brandon Roy,326,2006,6,18.8,0.155,3.2,15.2,MIN,Washington,6,11561,6136,Star
+23.5,25.6,Randy Foye,752,2006,7,10.3,0.058,-1.3,3.4,BOS,Villanova,11,19279,7729,Below Avg
+56.2,33.4,Rudy Gay,923,2006,8,17.2,0.087,0.4,19.0,HOU,UConn,14,30852,15909,Above Avg
+0.5,5.8,Patrick O'Bryant,90,2006,9,2.1,0.046,-3.1,-0.2,GSW,Bradley,4,524,186,Below Avg
+62.1,26.0,J.J. Redick,880,2006,11,13.0,0.13,0.0,11.5,ORL,Duke,14,22881,11470,Star
+3.9,11.6,Hilton Armstrong,292,2006,12,3.0,0.055,-2.8,-0.7,NOK,UConn,6,3378,880,Below Avg
+30.4,23.0,Ronnie Brewer,502,2006,14,7.8,0.127,1.7,10.7,UTA,Arkansas,8,11539,3940,Star
+6.2,15.4,Rodney Carney,299,2006,16,5.9,0.064,-2.7,-0.8,CHI,Memphis,5,4600,1778,Below Avg
+0.1,9.4,Cedric Simmons,75,2006,15,2.2,0.005,-5.7,-0.7,NOK,NC State,3,705,163,Below Avg
+-0.9,6.2,Maurice Ager,82,2006,28,2.1,-0.089,-10.4,-1.1,DAL,Michigan State,4,505,169,Below Avg
+13.9,19.5,Jordan Farmar,504,2006,26,7.7,0.068,-1.4,1.6,LAL,UCLA,10,9840,3888,Below Avg
+91.5,31.5,Kyle Lowry,894,2006,24,14.7,0.156,3.8,41.0,MEM,Villanova,14,28178,13098,Star
+9.1,17.5,Josh Boone,256,2006,23,5.2,0.097,-1.9,0.1,NJN,UConn,4,4482,1340,Above Avg
+9.2,18.0,Shannon Brown,408,2006,25,7.6,0.06,-2.3,-0.6,CLE,Michigan State,9,7329,3118,Below Avg
+59.4,31.3,Rajon Rondo,857,2006,21,10.3,0.106,1.3,22.6,PHO,Kentucky,14,26791,8804,Above Avg
+7.2,13.9,Renaldo Balkman,221,2006,20,4.0,0.113,0.9,2.2,NYK,South Carolina,6,3064,894,Below Avg
+0.0,10.7,Quincy Douby,143,2006,19,4.1,0.0,-5.4,-1.3,SAC,Rutgers University,3,1535,588,Below Avg
+6.7,17.1,Shawne Williams,314,2006,17,5.6,0.06,-2.0,0.0,IND,Memphis,7,5368,1769,Below Avg
+0.0,15.2,Marcus Williams,203,2006,22,5.6,-0.001,-4.6,-2.0,NJN,UConn,4,3095,1128,Below Avg
+0.0,0.0,Adam Haluska,0,2007,43,0.0,0.0,0.0,0.0,NOK,Iowa,0,0,0,Bust
+0.1,18.5,Derrick Byars,2,2007,42,5.0,0.147,0.6,0.0,POR,Vanderbilt,1,37,10,Bust
+0.7,11.1,Chris Richard,70,2007,41,1.9,0.045,-3.5,-0.3,MIN,Florida,2,780,135,Bust
+-0.1,3.0,Marcus Williams,13,2007,33,1.1,-0.084,-7.5,-0.1,SAS,Arizona,2,39,14,Bust
+18.5,19.1,Josh McRoberts,433,2007,37,5.4,0.107,1.0,6.2,POR,Duke,11,8271,2333,Above Avg
+0.0,8.3,Jermareo Davidson,52,2007,36,3.1,0.0,-7.6,-0.6,GSW,Alabama,2,433,162,Bust
+18.6,21.1,Glen Davis,514,2007,35,8.0,0.082,-2.3,-0.8,SEA,LSU,8,10865,4111,Above Avg
+0.8,10.3,Nick Fazekas,26,2007,34,4.1,0.148,-0.1,0.1,DAL,Nevada,1,269,107,Bust
+0.0,0.0,Reyshawn Terry,0,2007,44,0.0,0.0,0.0,0.0,ORL,UNC,0,0,0,Bust
+0.0,0.0,Jared Jordan,0,2007,45,0.0,0.0,0.0,0.0,LAC,Marist College,0,0,0,Bust
+-0.1,4.4,Taurean Green,17,2007,52,1.6,-0.066,-8.2,-0.1,POR,Florida,1,74,27,Bust
+4.1,15.6,Dominic McGuire,342,2007,47,2.7,0.037,-1.6,0.6,WAS,Fresno State,6,5348,939,Below Avg
+6.2,12.1,Aaron Gray,318,2007,49,3.4,0.077,-1.8,0.2,CHI,Pitt,7,3851,1066,Below Avg
+0.0,0.0,JamesOn Curry,1,2007,51,0.0,0.0,0.0,0.0,CHI,Oklahoma State,1,0,0,Bust
+-0.2,3.2,Demetris Nichols,18,2007,53,1.2,-0.203,-15.3,-0.2,POR,Syracuse,2,58,22,Bust
+0.0,0.0,Herbert Hill,0,2007,55,0.0,0.0,0.0,0.0,UTA,Providence,0,0,0,Bust
+28.8,23.3,Ramon Sessions,691,2007,56,10.3,0.086,-1.9,0.5,MIL,Nevada,11,16119,7141,Above Avg
+0.0,0.0,Sammy Mejia,0,2007,57,0.0,0.0,0.0,0.0,DET,DePaul,0,0,0,Bust
+-0.2,8.2,D.J. Strawberry,33,2007,59,2.2,-0.031,-5.1,-0.2,PHO,Maryland,1,270,73,Bust
+0.4,7.4,Gabe Pruitt,62,2007,32,2.0,0.043,-3.1,-0.1,BOS,USC,2,461,125,Bust
+0.3,18.9,Stéphane Lasme,16,2007,46,5.2,0.041,-2.8,-0.1,GSW,UMass,1,303,83,Bust
+35.9,22.5,Carl Landry,513,2007,31,10.8,0.149,-1.1,2.6,SEA,Purdue,9,11524,5541,Star
+0.4,8.4,Alando Tucker,51,2007,29,4.1,0.045,-6.7,-0.5,PHO,Wisconsin,3,426,211,Below Avg
+7.3,19.3,Greg Oden,105,2007,1,8.0,0.174,1.1,1.6,POR,Ohio State,3,2028,840,Star
+141.7,36.9,Kevin Durant,849,2007,2,27.0,0.217,5.1,55.7,SEA,Texas,12,31305,22940,Star
+89.7,32.7,Al Horford,830,2007,3,14.0,0.158,3.2,35.7,ATL,Florida,13,27155,11644,Star
+72.3,32.4,Mike Conley,816,2007,4,14.8,0.131,1.9,25.7,MEM,Ohio State,13,26464,12085,Star
+40.9,29.6,Jeff Green,890,2007,5,13.0,0.074,-1.3,4.3,BOS,Georgetown,12,26372,11553,Above Avg
+22.5,23.0,Corey Brewer,814,2007,7,8.7,0.058,-1.0,4.8,MIN,Florida,12,18738,7092,Below Avg
+26.2,16.2,Brandan Wright,428,2007,8,7.0,0.181,1.6,6.4,CHA,UNC,10,6949,2976,Star
+61.8,27.9,Joakim Noah,667,2007,9,8.8,0.16,4.1,28.4,CHI,Florida,12,18596,5867,Star
+22.6,22.7,Spencer Hawes,684,2007,10,8.7,0.07,-0.7,5.0,SAC,Washington,10,15541,5932,Above Avg
+1.6,12.7,Acie Law,188,2007,11,3.9,0.032,-5.4,-2.0,ATL,Texas A&M,4,2385,725,Below Avg
+60.9,30.3,Thaddeus Young,951,2007,12,13.2,0.101,0.6,19.2,PHI,Georgia Tech,13,28855,12514,Above Avg
+3.9,13.2,Julian Wright,231,2007,13,3.9,0.061,-1.3,0.5,NOK,Kansas,4,3049,907,Below Avg
+6.1,28.0,Al Thornton,296,2007,14,11.9,0.035,-3.5,-3.1,LAC,Florida State,4,8274,3527,Below Avg
+18.6,22.8,Nick Young,720,2007,16,11.4,0.054,-3.4,-5.8,WAS,USC,12,16419,8194,Below Avg
+33.5,27.3,Arron Afflalo,762,2007,27,10.8,0.077,-1.1,4.5,DET,UCLA,11,20829,8198,Above Avg
+19.2,20.8,Aaron Brooks,645,2007,26,9.7,0.069,-1.8,0.8,HOU,Oregon,10,13439,6259,Above Avg
+28.7,27.5,Rodney Stuckey,651,2007,15,12.6,0.077,-1.4,2.7,DET,Eastern Washington,10,17890,8185,Above Avg
+28.8,30.2,Wilson Chandler,660,2007,23,12.7,0.069,-0.8,6.1,NYK,DePaul,12,19942,8383,Above Avg
+0.0,9.5,Morris Almond,38,2007,25,3.1,0.005,-6.4,-0.4,UTA,Rice University,3,361,119,Below Avg
+4.9,18.3,Daequan Cook,328,2007,21,6.4,0.039,-3.6,-2.4,PHI,Ohio State,6,5993,2114,Below Avg
+14.1,16.3,Jason Smith,616,2007,20,6.1,0.067,-2.7,-1.6,MIA,Colorado State,11,10029,3777,Below Avg
+0.1,16.4,Javaris Crittenton,113,2007,19,5.3,0.002,-4.3,-1.1,LAL,Georgia Tech,2,1853,595,Bust
+3.0,14.4,Sean Williams,137,2007,17,4.2,0.073,-2.0,0.0,NJN,Boston College,4,1978,581,Below Avg
+42.8,22.7,Jared Dudley,880,2007,22,7.5,0.103,1.0,15.3,CHA,Boston College,13,19958,6617,Above Avg
+-0.1,2.7,Patrick Ewing,7,2008,43,0.4,-0.158,-9.3,0.0,SAC,Georgetown,1,19,3,Bust
+0.0,8.2,Sean Singletary,37,2008,42,2.4,0.006,-4.9,-0.2,SAC,Virginia,1,303,90,Bust
+5.4,19.7,Chris Douglas-Roberts,222,2008,40,7.1,0.059,-2.9,-1.0,NJN,Memphis,6,4381,1571,Below Avg
+0.0,18.2,Sonny Weems,183,2008,39,6.5,0.001,-4.2,-1.9,CHI,Arkansas,4,3335,1189,Below Avg
+-0.1,2.5,Walter Sharpe,8,2008,32,1.0,-0.131,-16.5,-0.1,SEA,University of Alabama at Birmingham,1,20,8,Bust
+26.0,23.3,Luc Mbah a Moute,686,2008,37,6.4,0.078,-0.8,4.9,MIL,UCLA,11,16013,4375,Above Avg
+86.9,27.9,DeAndre Jordan,858,2008,35,9.5,0.175,2.2,25.4,LAC,Texas A&M,12,23906,8141,Star
+32.3,26.7,Mario Chalmers,646,2008,34,8.9,0.09,0.3,9.8,MIN,Kansas,9,17245,5743,Above Avg
+2.9,11.4,Joey Dorsey,130,2008,33,2.6,0.092,-1.3,0.3,POR,Memphis,4,1488,344,Below Avg
+1.5,18.9,Kyle Weaver,73,2008,38,5.0,0.051,-1.3,0.3,CHA,Washington State,3,1379,363,Below Avg
+1.3,7.5,Darnell Jackson,138,2008,52,2.2,0.059,-4.9,-0.7,MIA,Kansas,3,1039,308,Below Avg
+5.0,16.7,Henry Walker,181,2008,47,6.0,0.079,-1.3,0.5,WAS,Kansas State,5,3016,1079,Above Avg
+0.8,7.6,Malik Hairston,62,2008,48,2.4,0.086,-1.9,0.0,PHO,Oregon,2,472,149,Bust
+0.0,0.0,Richard Hendrix,0,2008,49,0.0,0.0,0.0,0.0,GSW,Alabama,0,0,0,Bust
+0.0,0.0,DeVon Hardin,0,2008,50,0.0,0.0,0.0,0.0,SEA,California,0,0,0,Bust
+0.0,0.0,Shan Foster,0,2008,51,0.0,0.0,0.0,0.0,DAL,Vanderbilt,0,0,0,Bust
+0.0,0.0,Maarty Leunen,0,2008,54,0.0,0.0,0.0,0.0,HOU,Oregon,0,0,0,Bust
+-0.4,15.1,Mike Taylor,51,2008,55,5.7,-0.028,-5.5,-0.7,POR,Iowa State,1,771,289,Bust
+0.2,3.8,Sasha Kaun,25,2008,56,0.9,0.096,-0.8,0.0,SEA,Kansas,1,95,23,Bust
+0.0,0.0,James Gist,0,2008,57,0.0,0.0,0.0,0.0,SAS,Maryland,0,0,0,Bust
+0.0,11.5,Joe Crawford,2,2008,58,4.5,0.037,-5.6,0.0,LAL,Kentucky,1,23,9,Bust
+0.0,0.0,Deron Washington,0,2008,59,0.0,0.0,0.0,0.0,DET,Virginia Tech,0,0,0,Bust
+0.0,0.0,Trent Plaisted,0,2008,46,0.0,0.0,0.0,0.0,SEA,Brigham Young University Hawaii,0,0,0,Bust
+0.1,6.5,J.R. Giddens,38,2008,30,1.9,0.027,-4.6,-0.2,BOS,New Mexico,2,247,73,Bust
+1.5,16.8,Donté Greene,253,2008,28,6.1,0.017,-3.8,-2.0,MEM,Syracuse,4,4259,1541,Below Avg
+3.8,15.3,D.J. White,138,2008,29,5.9,0.087,-3.4,-0.7,DET,Indiana,6,2111,810,Above Avg
+40.1,32.7,Derrick Rose,589,2008,1,18.8,0.1,0.3,11.3,CHI,Memphis,11,19254,11094,Above Avg
+15.6,22.8,Michael Beasley,609,2008,2,12.4,0.054,-3.2,-4.3,MIA,Kansas State,11,13903,7568,Below Avg
+21.8,30.9,O.J. Mayo,547,2008,3,13.8,0.062,-0.8,5.1,MIN,USC,8,16919,7574,Below Avg
+100.2,34.6,Russell Westbrook,862,2008,4,23.1,0.161,6.4,63.1,SEA,UCLA,12,29803,19944,Star
+80.8,31.9,Kevin Love,699,2008,5,18.2,0.174,2.6,25.7,MEM,UCLA,12,22332,12741,Star
+34.4,32.9,Eric Gordon,653,2008,7,16.7,0.077,-1.0,5.4,LAC,Indiana,12,21503,10880,Above Avg
+44.3,24.2,D.J. Augustin,846,2008,9,9.9,0.104,-1.5,2.7,CHA,Texas,12,20432,8345,Above Avg
+63.4,30.7,Brook Lopez,763,2008,10,16.9,0.13,1.1,18.5,NJN,Stanford,12,23386,12878,Star
+18.6,21.3,Jerryd Bayless,586,2008,11,8.4,0.072,-2.0,0.0,IND,Arizona,11,12486,4909,Above Avg
+23.8,25.2,Jason Thompson,588,2008,12,8.9,0.077,-1.7,1.3,SAC,Rider University,8,14819,5210,Above Avg
+11.2,22.0,Brandon Rush,481,2008,13,6.8,0.051,-1.7,0.7,POR,Kansas,9,10564,3250,Below Avg
+0.5,11.1,Joe Alexander,67,2008,8,4.2,0.03,-3.3,-0.2,MIL,West Virginia,2,745,282,Bust
+44.2,22.6,Robin Lopez,810,2008,15,8.9,0.116,0.0,9.3,PHO,Stanford,12,18274,7191,Above Avg
+5.8,15.2,Anthony Randolph,252,2008,14,7.1,0.072,-2.1,-0.1,GSW,LSU,6,3841,1789,Above Avg
+64.3,27.8,George Hill,770,2008,26,11.2,0.144,1.7,20.2,SAS,IUPUI,12,21399,8592,Star
+28.3,16.4,Kosta Koufos,686,2008,23,5.7,0.12,-0.9,3.3,UTA,Ohio State,11,11271,3913,Star
+38.8,27.2,Courtney Lee,797,2008,22,9.6,0.086,-0.2,9.8,ORL,Western Kentucky,12,21673,7691,Above Avg
+12.3,17.8,Darrell Arthur,503,2008,27,6.5,0.066,-1.9,0.3,NOH,Kansas,9,8945,3282,Below Avg
+21.9,22.3,J.J. Hickson,534,2008,19,9.5,0.088,-2.3,-0.9,CLE,NC State,8,11925,5081,Above Avg
+35.5,17.4,JaVale McGee,678,2008,18,8.0,0.145,0.2,6.5,WAS,Nevada,12,11765,5400,Star
+35.9,24.8,Roy Hibbert,662,2008,17,10.0,0.105,0.2,9.1,TOR,Georgetown,9,16389,6611,Above Avg
+25.8,15.1,Marreese Speights,705,2008,16,7.9,0.116,-2.8,-2.2,PHI,Florida,10,10640,5592,Above Avg
+46.7,25.8,Ryan Anderson,649,2008,21,12.3,0.134,0.6,11.0,NJN,California,12,16769,8001,Star
+13.9,19.7,Chase Budinger,407,2009,44,7.9,0.083,-1.4,1.2,DET,Arizona,7,7998,3198,Above Avg
+20.0,23.4,Marcus Thornton,483,2009,43,11.9,0.085,-0.8,3.4,MIA,LSU,8,11299,5750,Above Avg
+27.7,28.3,Patrick Beverley,417,2009,42,9.0,0.113,2.1,12.3,LAL,Arkansas,8,11806,3747,Above Avg
+24.3,22.5,Jodie Meeks,539,2009,41,9.3,0.096,-0.6,4.2,MIL,Kentucky,10,12110,4988,Above Avg
+4.5,14.9,Derrick Brown,171,2009,40,5.2,0.085,-1.6,0.2,CHA,Xavier,3,2554,895,Below Avg
+19.0,16.6,DeJuan Blair,424,2009,37,6.8,0.129,0.4,4.2,SAS,Pitt,7,7054,2865,Star
+3.7,10.5,Jon Brockman,150,2009,38,2.1,0.113,-2.1,0.0,POR,Washington,3,1570,320,Below Avg
+5.2,15.9,Sam Young,249,2009,36,5.8,0.063,-2.9,-0.9,MEM,Pitt,4,3966,1436,Below Avg
+24.9,20.8,Dante Cunningham,715,2009,33,5.8,0.08,-1.0,3.7,POR,Villanova,10,14875,4133,Above Avg
+2.6,15.6,Nick Calathes,129,2009,45,4.6,0.063,-0.7,0.6,MIN,Florida,2,2011,590,Bust
+41.8,25.4,Danny Green,666,2009,46,9.0,0.119,2.9,20.9,CLE,UNC,11,16920,5978,Above Avg
+0.2,12.1,Jermaine Taylor,65,2009,32,5.4,0.014,-4.6,-0.5,WAS,Central Florida,2,786,351,Bust
+0.0,4.0,Taylor Griffin,8,2009,48,1.3,-0.039,-7.3,0.0,PHO,Oklahoma,1,32,10,Bust
+0.0,0.0,Goran Suton,0,2009,50,0.0,0.0,0.0,0.0,UTA,Michigan State,0,0,0,Bust
+0.0,0.0,Jack McClinton,0,2009,51,0.0,0.0,0.0,0.0,SAS,Miami (FL),0,0,0,Bust
+4.7,15.1,A.J. Price,261,2009,52,5.8,0.058,-2.4,-0.4,IND,UConn,6,3929,1523,Below Avg
+0.0,0.0,Robert Vaden,0,2009,54,0.0,0.0,0.0,0.0,CHA,University of Alabama at Birmingham,0,0,0,Bust
+29.6,19.3,Patty Mills,652,2009,55,8.7,0.113,0.4,7.6,POR,Saint Mary's,11,12596,5648,Above Avg
+0.0,0.0,Ahmad Nivins,0,2009,56,0.0,0.0,0.0,0.0,DAL,Saint Joseph's,0,0,0,Bust
+0.2,10.4,Lester Hudson,57,2009,58,4.7,0.016,-2.7,-0.1,BOS,University of Tennessee at Martin,4,594,268,Below Avg
+0.0,0.0,Chinemelu Elonu,0,2009,59,0.0,0.0,0.0,0.0,LAL,Texas A&M,0,0,0,Bust
+0.0,0.0,Robert Dozier,0,2009,60,0.0,0.0,0.0,0.0,MIA,Memphis,0,0,0,Bust
+6.3,9.8,Jeff Ayres,237,2009,31,2.9,0.131,-1.4,0.4,SAC,Arizona State,6,2322,690,Below Avg
+-0.1,9.9,DaJuan Summers,83,2009,35,3.3,-0.008,-6.4,-0.9,DET,Georgetown,4,820,278,Below Avg
+12.1,19.1,Toney Douglas,394,2009,29,7.6,0.077,-0.6,2.6,LAL,Florida State,8,7511,3009,Above Avg
+4.8,10.5,Hasheem Thabeet,224,2009,2,2.2,0.099,-1.4,0.4,MEM,UConn,5,2357,483,Below Avg
+130.6,34.3,James Harden,810,2009,3,25.0,0.226,7.2,64.5,OKC,Arizona State,11,27775,20231,Star
+28.4,30.7,Tyreke Evans,594,2009,4,15.7,0.075,0.7,12.6,SAC,Memphis,10,18242,9347,Above Avg
+-1.1,22.9,Jonny Flynn,163,2009,6,9.2,-0.015,-4.9,-2.7,MIN,Syracuse,3,3738,1504,Below Avg
+103.1,34.3,Stephen Curry,698,2009,7,23.5,0.206,6.5,51.2,GSW,Davidson,11,23971,16396,Star
+16.4,18.8,Jordan Hill,409,2009,8,7.9,0.102,-2.0,0.0,NYK,Arizona,8,7692,3232,Above Avg
+65.6,34.2,DeMar DeRozan,799,2009,9,20.0,0.115,-0.3,11.5,TOR,USC,11,27291,16014,Above Avg
+-0.2,19.1,Terrence Williams,153,2009,11,7.1,-0.004,-3.8,-1.4,NJN,Louisville,4,2922,1085,Below Avg
+18.3,25.9,Gerald Henderson,535,2009,12,11.2,0.063,-2.2,-0.9,CHA,Duke,8,13854,5987,Below Avg
+20.2,16.9,Tyler Hansbrough,428,2009,13,6.7,0.134,-2.5,-1.0,IND,UNC,7,7233,2881,Star
+2.9,13.9,Earl Clark,261,2009,14,4.4,0.038,-3.6,-1.5,PHO,Louisville,6,3630,1138,Below Avg
+4.5,14.1,Austin Daye,293,2009,15,5.2,0.053,-2.6,-0.6,DET,Gonzaga,6,4132,1522,Below Avg
+75.3,34.8,Blake Griffin,622,2009,1,21.7,0.167,3.8,32.0,LAC,Oklahoma,10,21671,13479,Star
+41.5,33.2,Jrue Holiday,692,2009,17,15.8,0.087,1.3,19.2,PHI,UCLA,11,22997,10946,Above Avg
+17.7,21.0,Wayne Ellington,669,2009,28,8.0,0.06,-2.1,-0.3,MIN,UNC,11,14058,5373,Below Avg
+29.2,23.8,DeMarre Carroll,569,2009,27,9.0,0.104,0.6,8.9,MEM,Missouri,11,13520,5096,Above Avg
+51.4,25.3,Taj Gibson,783,2009,26,9.6,0.124,0.1,10.3,CHI,USC,11,19828,7486,Star
+23.9,20.6,James Johnson,619,2009,16,7.9,0.09,1.0,9.7,CHI,Wake Forest,11,12728,4883,Above Avg
+0.6,18.2,Byron Mullens,189,2009,24,7.4,0.008,-4.6,-2.3,DAL,Ohio State,5,3446,1398,Below Avg
+49.9,29.4,Darren Collison,708,2009,21,12.5,0.115,0.1,11.1,NOH,UCLA,10,20796,8857,Above Avg
+3.3,14.6,Eric Maynor,267,2009,20,4.3,0.041,-4.7,-2.7,UTA,Virginia Commonwealth,5,3896,1141,Below Avg
+50.5,27.7,Jeff Teague,753,2009,19,12.7,0.116,-0.1,9.7,ATL,Wake Forest,11,20836,9539,Above Avg
+42.1,29.2,Ty Lawson,551,2009,18,12.7,0.126,0.7,10.9,MIN,UNC,8,16088,6977,Star
+1.7,7.6,Jerome Jordan,65,2010,44,2.8,0.168,0.0,0.2,MIL,Tulsa,2,491,180,Bust
+0.5,11.3,Devin Ebanks,63,2010,43,3.6,0.035,-4.7,-0.5,LAL,West Virginia,3,711,224,Below Avg
+0.0,0.0,Da'Sean Butler,0,2010,42,0.0,0.0,0.0,0.0,MIA,West Virginia,0,0,0,Bust
+0.7,10.7,Jarvis Varnado,37,2010,41,2.9,0.089,-1.9,0.0,MIA,Mississippi State,2,397,107,Bust
+16.7,23.4,Lance Stephenson,508,2010,40,8.6,0.068,-0.8,3.6,IND,Cincinnati,9,11866,4354,Below Avg
+42.9,26.6,Hassan Whiteside,388,2010,33,13.7,0.2,0.8,7.4,SAC,Marshall,8,10309,5300,Star
+-0.2,4.8,Andy Rautins,5,2010,38,1.6,-0.314,-16.0,-0.1,NYK,Syracuse,1,24,8,Bust
+-0.2,7.8,Darington Hobson,5,2010,37,0.8,-0.225,-14.1,-0.1,MIL,New Mexico,1,39,4,Bust
+0.0,0.0,Terrico White,0,2010,36,0.0,0.0,0.0,0.0,DET,Ole Miss,0,0,0,Bust
+-0.1,8.5,Armon Johnson,47,2010,34,3.3,-0.015,-6.2,-0.4,POR,Nevada,2,401,157,Bust
+10.5,23.6,Landry Fields,255,2010,39,6.8,0.084,-0.1,2.8,NYK,Stanford,5,6010,1731,Above Avg
+0.0,2.0,Gani Lawal,1,2010,46,0.0,-0.009,-4.9,0.0,PHO,Georgia Tech,1,2,0,Bust
+0.0,7.0,Solomon Alabi,26,2010,50,1.5,0.01,-5.4,-0.2,DAL,Florida State,2,181,39,Bust
+0.0,0.0,Magnum Rolle,0,2010,51,0.0,0.0,0.0,0.0,OKC,Louisiana Tech,0,0,0,Bust
+0.9,12.4,Luke Harangody,70,2010,52,3.6,0.048,-3.3,-0.3,BOS,Notre Dame,2,871,253,Bust
+0.2,7.1,Willie Warren,19,2010,54,1.9,0.065,-4.5,-0.1,LAC,Oklahoma,1,134,37,Bust
+8.2,10.5,Jeremy Evans,250,2010,55,3.5,0.15,1.0,2.0,UTA,Western Kentucky,7,2626,879,Below Avg
+0.0,4.8,Hamady N'Diaye,33,2010,56,0.6,0.013,-4.9,-0.1,MIN,Rutgers University,3,157,20,Below Avg
+0.1,3.4,Ryan Reid,5,2010,57,1.6,0.142,-5.5,0.0,IND,Florida State,1,17,8,Bust
+0.3,5.2,Derrick Caracter,41,2010,58,2.0,0.057,-4.9,-0.2,LAL,Texas-El Paso,1,215,81,Bust
+0.0,0.0,Stanley Robinson,0,2010,59,0.0,0.0,0.0,0.0,ORL,UConn,0,0,0,Bust
+0.0,0.0,Dwayne Collins,0,2010,60,0.0,0.0,0.0,0.0,PHO,Miami (FL),0,0,0,Bust
+0.5,6.9,Dexter Pittman,50,2010,32,2.3,0.068,-6.0,-0.4,MIA,Texas,4,347,116,Below Avg
+0.0,0.0,Tiny Gallon,0,2010,47,0.0,0.0,0.0,0.0,MIL,Oklahoma,0,0,0,Bust
+0.2,8.2,Lazar Hayward,72,2010,30,2.9,0.02,-4.6,-0.4,WAS,Marquette,3,591,207,Below Avg
+1.0,10.6,Daniel Orton,51,2010,29,2.8,0.093,-1.7,0.0,ORL,Kentucky,3,542,143,Below Avg
+20.2,26.9,Evan Turner,704,2010,2,9.7,0.051,-2.0,-0.2,PHI,Ohio State,10,18917,6822,Below Avg
+52.1,25.7,Derrick Favors,662,2010,3,11.5,0.147,1.5,15.0,NJN,Georgia Tech,10,16992,7615,Star
+10.7,22.1,Wesley Johnson,609,2010,4,7.0,0.038,-1.2,2.9,MIN,Syracuse,9,13472,4235,Below Avg
+44.1,32.0,DeMarcus Cousins,565,2010,5,21.2,0.117,2.9,22.5,SAC,Kentucky,9,18078,12006,Above Avg
+10.4,14.8,Ekpe Udoh,384,2010,6,3.5,0.088,0.2,3.2,GSW,Baylor,7,5694,1353,Below Avg
+49.7,27.7,Greg Monroe,632,2010,7,13.2,0.136,1.9,17.2,DET,Georgetown,9,17475,8326,Star
+27.5,25.1,Al-Farouq Aminu,688,2010,8,7.6,0.077,-0.1,8.5,LAC,Wake Forest,10,17264,5248,Above Avg
+51.5,30.7,Gordon Hayward,620,2010,9,15.2,0.13,1.9,18.7,UTA,Butler,10,19038,9438,Star
+67.6,33.7,Paul George,631,2010,10,20.0,0.153,3.8,31.1,IND,Fresno State,10,21243,12601,Star
+9.6,10.0,Cole Aldrich,339,2010,11,3.1,0.135,1.0,2.6,NOH,Kansas,8,3389,1050,Below Avg
+0.8,15.7,Xavier Henry,185,2010,12,5.7,0.013,-5.1,-2.3,MEM,Kansas,5,2905,1050,Below Avg
+41.7,19.9,Ed Davis,664,2010,13,6.3,0.151,0.9,9.6,TOR,UNC,10,13208,4193,Star
+30.2,21.3,Patrick Patterson,665,2010,14,6.8,0.102,0.2,7.9,HOU,Kentucky,10,14133,4509,Above Avg
+44.3,35.9,John Wall,573,2010,1,19.0,0.104,2.3,22.1,WAS,Kentucky,9,20545,10879,Above Avg
+7.2,14.0,Luke Babbitt,381,2010,16,4.8,0.065,-2.8,-1.0,MIN,Nevada,8,5332,1818,Below Avg
+10.3,19.5,Larry Sanders,238,2010,15,6.4,0.107,0.6,3.0,MIL,Virginia Commonwealth,6,4635,1520,Above Avg
+12.6,23.7,Greivis Vásquez,401,2010,28,9.0,0.064,-1.5,1.1,MEM,Maryland,7,9520,3591,Below Avg
+6.3,24.4,Jordan Crawford,281,2010,27,12.2,0.044,-2.1,-0.2,NJN,Xavier,6,6843,3432,Below Avg
+9.7,15.6,Quincy Pondexter,355,2010,26,4.5,0.084,-1.2,1.1,OKC,Washington,7,5530,1609,Above Avg
+0.0,16.0,Damion James,39,2010,24,3.8,-0.001,-4.3,-0.4,ATL,Texas,4,623,150,Below Avg
+26.2,20.4,Trevor Booker,532,2010,23,6.9,0.116,0.2,6.0,MIN,Clemson,8,10872,3679,Above Avg
+0.3,9.3,Dominique Jones,80,2010,25,3.1,0.017,-3.6,-0.3,MEM,South Florida,3,741,246,Below Avg
+-0.2,7.1,Craig Brackins,17,2010,21,1.8,-0.089,-9.1,-0.2,OKC,Iowa State,2,121,30,Bust
+3.3,17.5,James Anderson,247,2010,20,5.8,0.037,-2.8,-0.9,SAS,Oklahoma State,5,4320,1422,Below Avg
+15.1,28.3,Avery Bradley,555,2010,19,11.8,0.046,-1.9,0.3,BOS,Texas,10,15717,6536,Below Avg
+41.1,27.8,Eric Bledsoe,610,2010,18,14.2,0.116,2.2,17.9,OKC,Kentucky,10,16961,8652,Above Avg
+0.7,13.5,Elliot Williams,109,2010,22,4.9,0.024,-5.3,-1.2,POR,Memphis,4,1470,537,Below Avg
+13.2,15.8,Jon Leuer,377,2011,40,6.4,0.107,-1.4,0.9,MIL,Wisconsin,8,5945,2395,Above Avg
+0.4,14.8,Malcolm Lee,36,2011,43,3.9,0.04,-2.0,0.0,CHI,UCLA,3,534,140,Below Avg
+-0.3,11.1,Darius Morris,132,2011,41,3.3,-0.01,-5.6,-1.3,LAL,Michigan,4,1464,430,Below Avg
+10.0,21.9,Kyle Singler,356,2011,33,6.5,0.062,-1.6,0.7,DET,Duke,6,7794,2326,Below Avg
+0.0,5.0,Trey Thompkins,24,2011,37,2.4,0.004,-8.9,-0.2,LAC,Georgia,1,119,57,Bust
+1.3,14.8,Jordan Williams,43,2011,36,4.6,0.101,-3.1,-0.2,NJN,Maryland,1,635,197,Bust
+-0.1,5.0,Tyler Honeycutt,24,2011,35,1.2,-0.049,-6.4,-0.1,SAC,UCLA,2,120,28,Bust
+10.3,18.4,Shelvin Mack,456,2011,34,6.6,0.059,-2.7,-1.5,WAS,Butler,8,8392,2997,Below Avg
+0.5,12.1,Charles Jenkins,110,2011,44,3.7,0.017,-5.9,-1.3,GSW,Hofstra,2,1334,408,Bust
+29.0,30.1,Chandler Parsons,440,2011,38,12.7,0.105,1.6,11.9,HOU,Florida,9,13246,5571,Above Avg
+2.1,11.8,Josh Harrellson,75,2011,45,3.5,0.116,-0.7,0.3,NOH,Kentucky,3,888,265,Below Avg
+0.5,5.9,Vernon Macklin,23,2011,52,2.0,0.161,-0.6,0.0,DET,Florida,1,135,46,Bust
+0.1,4.5,Travis Leslie,10,2011,47,1.4,0.06,-0.2,0.0,LAC,Georgia,1,45,14,Bust
+0.0,3.0,Keith Benson,3,2011,48,0.0,-0.005,-10.4,0.0,ATL,Oakland,1,9,0,Bust
+-0.7,7.8,Josh Selby,38,2011,49,2.2,-0.113,-10.1,-0.6,MEM,Kansas,2,296,83,Bust
+13.8,17.8,Lavoy Allen,388,2011,50,4.8,0.096,-1.2,1.3,PHI,Temple,6,6905,1847,Above Avg
+0.0,0.0,Jon Diebler,0,2011,51,0.0,0.0,0.0,0.0,POR,Ohio State,0,0,0,Bust
+1.6,10.8,DeAndre Liggins,177,2011,53,2.0,0.04,-2.0,0.0,ORL,Kentucky,5,1907,346,Below Avg
+14.2,21.6,E'Twaun Moore,551,2011,55,8.2,0.057,-1.8,0.4,BOS,Purdue,9,11894,4502,Below Avg
+-0.3,6.8,Justin Harper,22,2011,32,2.0,-0.093,-8.4,-0.2,CLE,Richmond,3,150,45,Below Avg
+0.0,9.7,Andrew Goudelock,49,2011,46,4.0,0.003,-6.5,-0.5,LAL,College of Charleston,3,475,197,Below Avg
+45.4,28.9,Isaiah Thomas,523,2011,60,18.1,0.144,1.4,13.1,SAC,Washington,9,15135,9487,Star
+23.1,21.8,Cory Joseph,576,2011,29,6.9,0.088,-0.8,3.7,SAS,Texas,9,12559,3973,Above Avg
+61.4,33.8,Kyrie Irving,527,2011,1,22.4,0.166,3.9,26.5,CLE,Duke,9,17798,11831,Star
+14.1,20.7,Derrick Williams,428,2011,2,8.9,0.076,-3.2,-2.6,MIN,Arizona,7,8864,3809,Above Avg
+42.5,28.1,Tristan Thompson,609,2011,4,9.4,0.119,-0.5,6.4,CLE,Texas,9,17111,5720,Above Avg
+11.3,29.6,Brandon Knight,437,2011,8,14.1,0.042,-1.6,1.5,DET,Kentucky,8,12916,6165,Below Avg
+53.8,33.9,Kemba Walker,647,2011,9,20.0,0.118,2.6,25.4,CHA,UConn,9,21954,12935,Above Avg
+2.2,13.3,Jimmer Fredette,241,2011,10,6.0,0.033,-4.2,-1.8,MIL,BYU,6,3213,1438,Below Avg
+46.8,33.1,Klay Thompson,615,2011,11,19.5,0.11,0.2,11.3,GSW,Washington State,8,20340,11995,Above Avg
+15.4,21.9,Alec Burks,475,2011,12,10.1,0.071,-2.0,-0.1,UTA,Colorado,9,10389,4817,Above Avg
+24.7,25.7,Markieff Morris,621,2011,13,11.6,0.074,-0.9,4.4,PHO,Kansas,9,15986,7188,Above Avg
+29.5,26.9,Marcus Morris,586,2011,14,12.1,0.09,-0.7,5.3,HOU,Kansas,9,15770,7080,Above Avg
+72.9,33.1,Jimmy Butler,564,2011,30,17.0,0.188,4.1,28.7,CHI,Marquette,9,18656,9560,Star
+45.4,30.1,Nikola Vučević,573,2011,16,15.9,0.126,1.9,17.0,PHI,USC,9,17274,9101,Star
+70.9,31.0,Kawhi Leonard,503,2011,15,18.4,0.219,6.2,32.2,IND,San Diego State,9,15572,9237,Star
+3.0,22.3,Norris Cole,360,2011,28,7.0,0.018,-4.0,-4.0,CHI,Cleveland State University,6,8018,2506,Below Avg
+0.2,8.3,JaJuan Johnson,36,2011,27,3.2,0.032,-6.3,-0.3,NJN,Purdue,1,298,114,Bust
+3.0,13.9,Jordan Hamilton,151,2011,26,5.9,0.069,-1.5,0.3,DAL,Texas,5,2100,890,Below Avg
+28.6,25.2,Reggie Jackson,537,2011,24,12.9,0.101,-0.1,6.6,OKC,Boston College,9,13537,6928,Above Avg
+3.3,17.3,MarShon Brooks,200,2011,25,8.0,0.046,-2.5,-0.4,BOS,Providence,5,3456,1592,Below Avg
+-0.8,9.9,Nolan Smith,84,2011,21,3.3,-0.047,-6.5,-0.9,POR,Duke,2,829,277,Bust
+44.0,30.7,Tobias Harris,595,2011,19,15.8,0.115,0.2,10.0,CHA,Tennessee,9,18281,9388,Above Avg
+2.3,17.6,Chris Singleton,148,2011,18,4.1,0.042,-2.3,-0.2,WAS,Florida State,3,2605,612,Below Avg
+12.9,25.0,Iman Shumpert,459,2011,17,7.2,0.054,-0.6,4.1,NYK,Georgia Tech,9,11459,3318,Below Avg
+38.8,24.5,Kenneth Faried,478,2011,22,11.4,0.159,1.1,9.3,DEN,Morehead State University,8,11728,5430,Star
+20.3,24.2,Will Barton,484,2012,40,11.0,0.083,-0.3,4.9,POR,Memphis,8,11731,5307,Above Avg
+14.8,16.5,Mike Scott,485,2012,43,7.0,0.089,-2.5,-0.9,ATL,Virginia,8,7989,3387,Above Avg
+0.1,12.7,Doron Lamb,100,2012,42,3.5,0.005,-5.9,-1.2,MIL,Kentucky,2,1272,345,Bust
+-0.9,8.0,Tyshawn Taylor,61,2012,41,2.9,-0.088,-8.8,-0.8,POR,Kansas,2,491,174,Bust
+36.5,31.5,Khris Middleton,496,2012,39,16.0,0.112,0.5,9.8,DET,Texas A&M,8,15617,7959,Above Avg
+1.9,8.3,Bernard James,92,2012,33,2.2,0.117,-1.1,0.2,CLE,Florida State,3,761,203,Below Avg
+8.7,16.0,Quincy Acy,337,2012,37,4.9,0.078,-1.8,0.2,TOR,Baylor,7,5392,1642,Above Avg
+1.4,10.8,Orlando Johnson,103,2012,36,3.2,0.059,-3.8,-0.5,SAC,UC Santa Barbara,3,1112,329,Below Avg
+44.2,28.2,Draymond Green,569,2012,35,9.0,0.132,3.4,21.9,GSW,Michigan State,8,16031,5128,Star
+30.2,24.6,Jae Crowder,587,2012,34,9.5,0.1,0.6,9.4,CLE,Marquette,8,14450,5580,Above Avg
+0.2,9.9,Kim English,41,2012,44,2.9,0.021,-4.2,-0.2,DET,Missouri,1,407,119,Bust
+-0.1,13.5,Quincy Miller,69,2012,38,4.3,-0.003,-4.0,-0.5,DEN,Baylor,3,934,295,Below Avg
+3.7,17.4,Justin Hamilton,113,2012,45,6.1,0.091,-0.3,0.8,PHI,LSU,3,1961,687,Above Avg
+-0.3,3.1,Kevin Murphy,17,2012,47,0.9,-0.272,-17.6,-0.2,UTA,Tennessee Technological University,1,52,15,Bust
+17.4,14.3,Kyle O'Quinn,464,2012,49,5.5,0.126,1.9,6.4,ORL,Norfolk State,8,6618,2536,Below Avg
+-0.1,5.4,Kris Joseph,10,2012,51,0.9,-0.127,-10.5,-0.1,BOS,Syracuse,1,54,9,Bust
+-0.3,3.0,Darius Johnson-Odom,7,2012,55,0.0,-0.597,-23.2,-0.1,DAL,Marquette,2,21,0,Bust
+1.9,14.3,Robbie Hummel,98,2012,58,3.9,0.066,-2.9,-0.3,MIN,Purdue,2,1397,379,Bust
+0.0,0.0,Marcus Denmon,0,2012,59,0.0,0.0,0.0,0.0,SAS,Missouri,0,0,0,Bust
+5.9,20.4,Darius Miller,253,2012,46,6.0,0.055,-1.7,0.4,NOH,Kentucky,5,5161,1524,Below Avg
+1.3,19.4,Jeffery Taylor,132,2012,31,6.1,0.024,-3.9,-1.2,CHA,Vanderbilt,3,2566,807,Below Avg
+2.4,14.5,Robert Sacre,189,2012,60,4.2,0.042,-3.1,-0.8,LAL,Gonzaga,4,2745,787,Below Avg
+-0.9,10.0,Marquis Teague,91,2012,29,2.4,-0.045,-8.0,-1.4,CHI,Kentucky,3,909,217,Below Avg
+79.5,34.6,Anthony Davis,506,2012,1,24.0,0.218,5.0,30.8,NOH,Kentucky,8,17496,12128,Star
+21.1,25.1,Michael Kidd-Gilchrist,433,2012,2,8.6,0.093,-1.2,2.2,CHA,Kentucky,8,10857,3738,Above Avg
+39.9,34.5,Bradley Beal,528,2012,3,20.5,0.105,1.0,13.9,WAS,Florida,8,18198,10832,Above Avg
+8.7,28.3,Dion Waiters,412,2012,4,13.2,0.036,-2.5,-1.6,CLE,Syracuse,8,11670,5422,Below Avg
+4.6,13.4,Thomas Robinson,313,2012,5,4.9,0.053,-3.2,-1.3,SAC,Kansas,5,4204,1528,Below Avg
+78.6,36.3,Damian Lillard,596,2012,6,24.0,0.174,4.2,33.8,POR,Weber State,8,21653,14290,Star
+32.6,31.1,Harrison Barnes,588,2012,7,13.6,0.086,-1.4,2.7,GSW,UNC,8,18268,8026,Above Avg
+20.9,24.4,Terrence Ross,538,2012,8,10.7,0.077,-0.9,3.6,TOR,Washington,8,13140,5778,Above Avg
+60.0,31.1,Andre Drummond,588,2012,9,14.4,0.158,1.9,17.8,DET,UConn,8,18261,8454,Star
+10.7,24.6,Austin Rivers,528,2012,10,9.2,0.04,-2.8,-2.5,NOH,Duke,8,12963,4836,Below Avg
+15.6,16.0,Meyers Leonard,440,2012,11,5.6,0.107,-1.3,1.2,POR,Illinois,8,7038,2462,Above Avg
+23.1,21.1,Jeremy Lamb,472,2012,12,10.5,0.111,-0.4,4.0,HOU,UConn,8,9974,4937,Above Avg
+1.0,19.3,Kendall Marshall,160,2012,13,5.0,0.015,-5.6,-2.8,PHO,UNC,4,3083,802,Below Avg
+20.1,19.7,John Henson,431,2012,14,7.6,0.113,0.6,5.6,MIL,UNC,8,8500,3286,Above Avg
+5.9,14.1,Festus Ezeli,170,2012,30,4.2,0.119,-1.1,0.6,GSW,Vanderbilt,3,2394,712,Below Avg
+0.0,3.0,Royce White,3,2012,16,0.0,-0.121,-10.4,0.0,HOU,Iowa State,1,9,0,Bust
+1.7,11.7,Perry Jones,143,2012,28,3.4,0.048,-4.6,-1.1,OKC,Baylor,3,1675,488,Below Avg
+1.7,12.4,Arnett Moultrie,59,2012,27,3.6,0.113,-3.0,-0.2,MIA,Mississippi State,2,729,210,Bust
+10.6,16.4,Miles Plumlee,346,2012,26,4.9,0.09,-1.6,0.5,IND,Duke,7,5658,1697,Above Avg
+21.2,23.1,Maurice Harkless,522,2012,15,7.2,0.085,0.3,7.1,PHI,St. John's,8,12036,3746,Above Avg
+0.2,7.2,Jared Cunningham,84,2012,24,2.3,0.017,-5.9,-0.6,CLE,Oregon State,4,605,197,Below Avg
+3.0,12.8,John Jenkins,171,2012,23,5.0,0.065,-3.8,-1.0,ATL,Vanderbilt,6,2183,855,Below Avg
+-1.3,21.2,Tony Wroten,145,2012,25,11.1,-0.021,-4.1,-1.6,MEM,Washington,4,3076,1604,Below Avg
+15.3,24.3,Jared Sullinger,269,2012,21,10.8,0.113,0.5,4.1,BOS,Ohio State,5,6532,2893,Above Avg
+3.8,14.3,Andrew Nicholson,285,2012,19,6.0,0.045,-5.3,-3.4,ORL,St. Bonaventure,5,4080,1700,Below Avg
+14.7,23.8,Terrence Jones,234,2012,18,10.4,0.127,0.1,3.0,HOU,Kentucky,6,5562,2431,Star
+17.1,17.6,Tyler Zeller,412,2012,17,7.0,0.113,-1.6,0.8,DAL,UNC,7,7250,2871,Above Avg
+0.0,6.0,Fab Melo,6,2012,22,1.2,0.021,-5.8,0.0,BOS,Syracuse,1,36,7,Bust
+-0.6,9.9,Ricky Ledo,28,2013,43,3.9,-0.096,-7.8,-0.4,MIL,Providence,2,277,109,Bust
+0.0,10.5,Pierre Jackson,8,2013,42,4.4,0.021,-4.4,-0.1,PHI,Baylor,1,84,35,Bust
+0.0,7.3,Jamaal Franklin,24,2013,41,1.8,-0.006,-5.4,-0.1,MEM,San Diego State,2,174,42,Bust
+-0.1,6.4,Grant Jerrett,8,2013,40,2.0,-0.128,-8.4,-0.1,POR,Arizona,1,51,16,Bust
+6.8,10.1,Jeff Withey,206,2013,39,3.2,0.157,0.6,1.4,POR,Kansas,5,2072,666,Below Avg
+0.2,3.8,Tony Mitchell,21,2013,37,1.0,0.151,1.3,0.1,DET,University of North Texas,1,79,22,Bust
+2.1,18.2,Ray McCallum,154,2013,36,6.0,0.035,-2.8,-0.6,SAC,Detroit Mercy,3,2808,920,Below Avg
+-0.2,9.5,Glen Rice,16,2013,35,2.7,-0.065,-7.3,-0.2,PHI,Georgia Tech,2,152,43,Bust
+4.3,20.4,Isaiah Canaan,235,2013,34,8.1,0.043,-3.0,-1.3,HOU,Murray State,6,4799,1913,Below Avg
+0.0,5.4,Carrick Felix,7,2013,33,2.7,0.057,-4.7,0.0,CLE,Arizona State,1,38,19,Bust
+12.8,15.6,Mike Muscala,342,2013,44,5.6,0.115,-0.1,2.6,DAL,Bucknell,7,5332,1920,Above Avg
+0.9,18.8,Nate Wolters,84,2013,38,5.5,0.028,-4.0,-0.8,WAS,South Dakota State,3,1575,461,Below Avg
+-0.2,11.5,Lorenzo Brown,103,2013,52,2.8,-0.007,-4.1,-0.6,MIN,NC State,5,1185,293,Below Avg
+3.0,19.2,Ryan Kelly,163,2013,48,6.0,0.046,-2.2,-0.2,LAL,Duke,4,3125,981,Below Avg
+-0.1,2.6,Erik Murphy,24,2013,49,0.3,-0.055,-8.1,-0.1,CHI,Florida,1,62,6,Bust
+13.6,19.9,James Ennis,325,2013,50,6.4,0.101,-0.6,2.3,ATL,Cal State Long Beach,6,6471,2082,Above Avg
+0.0,0.0,Romero Osby,0,2013,51,0.0,0.0,0.0,0.0,ORL,Oklahoma,0,0,0,Bust
+0.0,0.0,Colton Iverson,0,2013,53,0.0,0.0,0.0,0.0,IND,Colorado State,0,0,0,Bust
+0.0,0.0,Arsalan Kazemi,0,2013,54,0.0,0.0,0.0,0.0,WAS,Oregon,0,0,0,Bust
+-0.2,9.3,Peyton Siva,24,2013,56,2.3,-0.032,-7.3,-0.3,DET,Louisville,1,224,54,Bust
+0.0,0.0,Alex Oriakhi,0,2013,57,0.0,0.0,0.0,0.0,PHO,Missouri,0,0,0,Bust
+0.0,0.0,Deshaun Thomas,0,2013,58,0.0,0.0,0.0,0.0,SAS,Ohio State,0,0,0,Bust
+13.9,24.1,Allen Crabbe,376,2013,31,9.1,0.074,-1.3,1.6,CLE,California,7,9057,3440,Above Avg
+0.1,8.7,Erick Green,52,2013,46,3.1,0.011,-5.1,-0.3,UTA,Virginia Tech,2,452,159,Bust
+1.1,14.5,Archie Goodwin,165,2013,29,6.3,0.022,-4.2,-1.3,OKC,Kentucky,4,2396,1040,Below Avg
+0.5,12.6,Anthony Bennett,151,2013,1,4.4,0.013,-5.6,-1.7,CLE,UNLV,4,1905,658,Below Avg
+24.2,33.2,Victor Oladipo,403,2013,2,17.5,0.087,1.1,10.4,ORL,Indiana,7,13381,7037,Above Avg
+29.6,26.9,Otto Porter,408,2013,3,11.0,0.129,1.9,10.7,WAS,Georgetown,7,10973,4484,Star
+26.7,22.9,Cody Zeller,406,2013,4,8.6,0.138,0.7,6.2,CHA,Indiana,7,9313,3472,Star
+17.4,19.8,Alex Len,452,2013,5,8.0,0.093,-1.5,1.1,PHO,Maryland,7,8945,3624,Above Avg
+20.7,22.4,Nerlens Noel,341,2013,6,8.2,0.13,2.2,8.1,NOH,Kentucky,6,7635,2786,Star
+26.8,29.4,Kentavious Caldwell-Pope,517,2013,8,11.7,0.085,0.0,7.8,DET,Georgia,7,15185,6050,Above Avg
+11.2,23.0,Trey Burke,384,2013,9,10.6,0.061,-2.2,-0.4,MIN,Michigan,7,8841,4069,Below Avg
+30.4,30.6,CJ McCollum,456,2013,10,18.2,0.105,0.2,7.6,POR,Lehigh,7,13932,8299,Above Avg
+6.0,25.5,Michael Carter-Williams,340,2013,11,10.5,0.033,-0.7,2.9,PHI,Syracuse,7,8682,3584,Below Avg
+43.5,26.8,Steven Adams,511,2013,12,9.8,0.152,2.0,13.8,OKC,Pitt,7,13700,4984,Star
+27.2,21.4,Kelly Olynyk,475,2013,13,9.7,0.128,1.4,8.7,DAL,Gonzaga,7,10171,4615,Star
+6.7,23.7,Ben McLemore,416,2013,7,9.0,0.033,-2.6,-1.5,SAC,Kansas,7,9853,3724,Below Avg
+8.5,17.2,Shabazz Muhammad,278,2013,14,9.0,0.085,-4.1,-2.5,UTA,UCLA,5,4772,2504,Above Avg
+12.7,22.5,Andre Roberson,295,2013,26,4.6,0.092,0.6,4.4,MIN,Colorado,5,6651,1356,Above Avg
+10.1,19.6,Reggie Bullock,287,2013,25,7.0,0.087,-0.8,1.7,LAC,UNC,7,5616,2002,Above Avg
+17.6,26.1,Tim Hardaway,448,2013,24,13.2,0.072,-1.7,0.9,NYK,Michigan,7,11715,5903,Above Avg
+33.5,21.7,Mason Plumlee,514,2013,22,8.4,0.144,2.5,12.5,BRK,Duke,7,11170,4306,Star
+10.4,22.2,Solomon Hill,352,2013,23,5.9,0.064,-0.7,2.5,IND,Arizona,7,7799,2079,Below Avg
+15.3,22.2,Tony Snell,485,2013,20,6.4,0.068,-1.8,0.6,CHI,New Mexico,7,10776,3106,Below Avg
+4.4,19.1,Shane Larkin,256,2013,18,5.5,0.044,-2.5,-0.6,ATL,Miami (FL),4,4880,1399,Below Avg
+26.6,22.2,Gorgui Dieng,495,2013,21,7.9,0.116,1.6,10.0,UTA,Louisville,7,10996,3919,Above Avg
+1.1,15.9,Markel Brown,113,2014,44,5.2,0.029,-2.8,-0.4,MIN,Oklahoma State,3,1794,584,Below Avg
+6.6,17.4,Glenn Robinson,265,2014,40,5.8,0.069,-2.4,-0.4,MIN,Michigan,6,4603,1531,Above Avg
+-0.1,9.4,Nick Johnson,28,2014,42,2.6,-0.02,-7.3,-0.3,HOU,Arizona,1,262,74,Bust
+21.3,24.3,Jerami Grant,432,2014,39,9.1,0.097,-1.0,2.6,PHI,Syracuse,6,10485,3915,Above Avg
+12.9,23.9,Joe Harris,308,2014,33,10.0,0.084,-0.5,2.7,CLE,Virginia,6,7366,3074,Above Avg
+0.0,0.0,DeAndre Daniels,0,2014,37,0.0,0.0,0.0,0.0,TOR,UConn,0,0,0,Bust
+0.2,11.5,Johnny O'Bryant,147,2014,36,3.5,0.006,-6.4,-1.9,MIL,LSU,4,1684,509,Below Avg
+0.6,5.4,Jarnell Stokes,28,2014,35,2.4,0.202,1.0,0.1,UTA,Tennessee,3,151,67,Below Avg
+-0.6,14.3,Cleanthony Early,56,2014,34,4.3,-0.039,-5.7,-0.8,NYK,Wichita State,2,801,241,Bust
+26.1,18.7,Dwight Powell,371,2014,45,7.7,0.18,2.2,7.4,CHH,Stanford,6,6956,2867,Star
+17.0,25.4,Spencer Dinwiddie,300,2014,38,12.6,0.107,-0.5,3.0,DET,Colorado,6,7631,3789,Above Avg
+0.9,10.0,Cory Jefferson,58,2014,60,3.5,0.071,-4.6,-0.4,SAS,Baylor,2,581,205,Bust
+0.0,0.0,Xavier Thames,0,2014,59,0.0,0.0,0.0,0.0,TOR,San Diego State,0,0,0,Bust
+-0.2,4.9,Russ Smith,27,2014,47,2.0,-0.068,-6.4,-0.1,PHI,Louisville,2,131,53,Bust
+0.1,10.9,Lamar Patterson,40,2014,48,2.3,0.006,-5.5,-0.4,MIL,Pitt,2,435,93,Bust
+-0.1,4.6,Cameron Bairstow,36,2014,49,1.2,-0.021,-7.7,-0.2,CHI,New Mexico,2,167,44,Bust
+0.0,0.0,Alec Brown,0,2014,50,0.0,0.0,0.0,0.0,PHO,Green Bay,0,0,0,Bust
+0.1,15.2,Semaj Christon,64,2014,55,2.9,0.006,-6.3,-1.1,MIA,Xavier,1,973,183,Bust
+-0.3,10.4,Devyn Marble,44,2014,56,2.2,-0.028,-5.0,-0.3,DEN,Iowa,2,457,97,Bust
+1.6,13.6,Jordan McRae,115,2014,58,6.9,0.049,-4.0,-0.8,SAS,Tennessee,4,1566,790,Below Avg
+1.3,14.1,K.J. McDaniels,148,2014,32,5.3,0.03,-3.3,-0.7,PHI,Clemson,3,2092,782,Below Avg
+13.1,27.2,Jordan Clarkson,429,2014,46,14.7,0.054,-1.6,1.1,WAS,Missouri,6,11652,6316,Below Avg
+-0.6,13.1,Adreian Payne,107,2014,15,4.0,-0.019,-5.5,-1.2,ATL,Michigan State,4,1403,429,Below Avg
+0.7,14.1,Josh Huestis,76,2014,29,2.5,0.03,-3.8,-0.5,OKC,Stanford,3,1068,187,Below Avg
+16.6,19.3,Kyle Anderson,343,2014,30,5.3,0.121,1.9,6.5,SAS,UCLA,6,6624,1820,Star
+14.9,35.9,Andrew Wiggins,439,2014,1,19.7,0.045,-2.3,-1.4,CLE,Kansas,6,15741,8662,Below Avg
+12.9,29.3,Jabari Parker,279,2014,2,15.1,0.076,-1.4,1.2,MIL,Duke,6,8178,4204,Above Avg
+21.2,30.8,Joel Embiid,191,2014,3,24.1,0.173,3.4,8.1,PHI,Kansas,4,5876,4603,Star
+19.7,28.3,Aaron Gordon,383,2014,4,12.5,0.088,0.1,5.6,ORL,Arizona,6,10831,4806,Above Avg
+19.2,28.7,Marcus Smart,379,2014,6,9.6,0.085,0.7,7.5,BOS,Oklahoma State,6,10882,3642,Above Avg
+3.8,19.9,Nik Stauskas,335,2014,8,6.8,0.028,-3.2,-2.1,SAC,Michigan,5,6662,2272,Below Avg
+9.3,17.2,Noah Vonleh,328,2014,9,5.0,0.079,-2.5,-0.7,CHH,Indiana,6,5642,1647,Above Avg
+14.0,29.3,Elfrid Payton,373,2014,10,10.9,0.061,-0.4,4.5,PHI,LA-Lafayette,6,10929,4075,Below Avg
+13.0,20.1,Doug McDermott,389,2014,11,8.1,0.08,-2.8,-1.5,DEN,Creighton,6,7807,3160,Above Avg
+11.8,30.6,Zach LaVine,344,2014,13,17.4,0.054,-1.1,2.5,MIN,UCLA,6,10530,5989,Below Avg
+19.3,29.0,Julius Randle,358,2014,7,15.9,0.089,-0.4,4.1,LAL,Kentucky,6,10373,5676,Above Avg
+17.1,28.4,T.J. Warren,309,2014,14,15.0,0.093,-1.1,2.1,PHO,NC State,6,8787,4636,Above Avg
+0.9,18.0,P.J. Hairston,111,2014,26,6.0,0.021,-3.9,-1.0,MIA,UNC,2,2000,664,Bust
+7.7,16.8,Shabazz Napier,323,2014,24,6.7,0.068,-1.5,0.7,CHH,UConn,6,5435,2174,Below Avg
+17.2,27.3,Rodney Hood,341,2014,23,12.5,0.088,-1.0,2.4,UTA,Duke,6,9326,4247,Above Avg
+0.1,5.7,C.J. Wilcox,66,2014,28,2.0,0.007,-5.2,-0.3,LAC,Washington,3,376,132,Below Avg
+1.3,10.7,Mitch McGary,52,2014,21,4.4,0.108,-3.1,-0.2,OKC,Michigan,2,557,227,Bust
+17.8,28.9,Gary Harris,352,2014,19,12.2,0.084,-0.2,4.7,CHI,Michigan State,6,10171,4307,Above Avg
+1.3,12.6,Tyler Ennis,186,2014,18,4.2,0.026,-4.6,-1.5,PHO,Syracuse,4,2336,779,Below Avg
+0.8,8.5,James Young,95,2014,17,2.3,0.046,-4.0,-0.4,BOS,Kentucky,4,812,219,Below Avg
+0.4,8.2,Jordan Adams,32,2014,22,3.2,0.07,-0.5,0.1,MEM,UCLA,2,263,101,Bust
+0.0,0.0,Marcus Thornton,0,2015,45,0.0,0.0,0.0,0.0,BOS,College of William & Mary,0,0,0,Bust
+3.2,20.6,Andrew Harrison,145,2015,44,7.0,0.051,-2.7,-0.5,PHO,Kentucky,3,2987,1012,Below Avg
+0.4,8.5,Joe Young,127,2015,43,3.4,0.016,-5.3,-0.9,IND,Oregon,3,1077,429,Below Avg
+0.0,0.0,Olivier Hanlan,0,2015,42,0.0,0.0,0.0,0.0,UTA,Boston College,0,0,0,Bust
+8.6,15.3,Pat Connaughton,260,2015,41,4.7,0.104,-0.4,1.6,BRK,Notre Dame,5,3989,1209,Above Avg
+17.7,30.8,Josh Richardson,297,2015,40,12.5,0.093,0.5,5.8,MIA,Tennessee,5,9147,3703,Above Avg
+0.5,7.5,Rakeem Christmas,30,2015,36,2.1,0.105,-4.0,-0.1,MIN,Syracuse,2,225,63,Bust
+0.3,9.4,Darrun Hilliard,91,2015,38,3.2,0.016,-5.1,-0.7,DET,Villanova,3,859,295,Below Avg
+17.0,18.7,Richaun Holmes,263,2015,37,8.4,0.166,1.6,4.5,PHI,Bowling Green,5,4912,2213,Star
+-0.2,18.6,Anthony Brown,41,2015,34,3.9,-0.016,-4.8,-0.5,LAL,Stanford,3,762,161,Below Avg
+0.5,7.5,Jordan Mickey,64,2015,33,2.4,0.05,-4.8,-0.3,BOS,LSU,3,482,152,Below Avg
+10.7,18.3,Norman Powell,293,2015,46,8.2,0.096,-0.8,1.6,MIL,UCLA,5,5353,2391,Above Avg
+0.6,5.2,Dakari Johnson,31,2015,48,1.8,0.178,0.3,0.1,OKC,Kentucky,1,161,55,Bust
+0.0,0.0,Aaron White,0,2015,49,0.0,0.0,0.0,0.0,WAS,Iowa,0,0,0,Bust
+0.0,0.0,Tyler Harvey,0,2015,51,0.0,0.0,0.0,0.0,ORL,Eastern Washington,0,0,0,Bust
+0.0,0.0,Sir'Dominic Pointer,0,2015,53,0.0,0.0,0.0,0.0,CLE,St. John's,0,0,0,Bust
+0.0,0.0,Cady Lalanne,0,2015,55,0.0,0.0,0.0,0.0,SAS,UMass,0,0,0,Bust
+0.0,4.8,Branden Dawson,6,2015,56,0.8,0.069,-6.6,0.0,NOP,Michigan State,1,29,5,Bust
+0.0,0.0,J.P. Tokoto,0,2015,58,0.0,0.0,0.0,0.0,PHI,UNC,0,0,0,Bust
+24.2,20.7,Montrezl Harrell,302,2015,32,12.5,0.186,2.5,7.0,HOU,Louisville,5,6244,3772,Star
+10.2,13.9,Kevon Looney,214,2015,30,4.4,0.165,1.9,2.9,GSW,UCLA,5,2964,937,Below Avg
+0.6,9.0,Chris McCullough,59,2015,29,3.3,0.054,-2.3,0.0,BRK,Syracuse,3,532,194,Below Avg
+8.0,28.9,D'Angelo Russell,303,2015,2,17.3,0.044,0.5,5.6,LAL,Ohio State,5,8751,5236,Below Avg
+6.4,20.5,Jahlil Okafor,215,2015,3,11.1,0.069,-3.2,-1.3,PHI,Duke,5,4416,2386,Above Avg
+19.8,23.8,Willie Cauley-Stein,338,2015,6,9.8,0.118,0.7,5.5,SAC,Kentucky,5,8054,3300,Above Avg
+3.2,20.7,Stanley Johnson,301,2015,8,6.7,0.024,-2.2,-0.3,DET,Arizona,5,6240,2006,Below Avg
+12.4,22.2,Frank Kaminsky,314,2015,9,9.9,0.086,-1.1,1.5,CHO,Wisconsin,5,6970,3110,Above Avg
+7.8,28.4,Justise Winslow,241,2015,10,9.0,0.055,-0.9,1.9,MIA,Duke,5,6848,2181,Below Avg
+24.6,28.2,Myles Turner,318,2015,11,12.8,0.132,1.4,7.8,IND,Texas,5,8962,4063,Star
+9.2,17.5,Trey Lyles,335,2015,12,7.2,0.075,-2.3,-0.5,UTA,Kentucky,5,5863,2419,Above Avg
+15.0,33.3,Devin Booker,317,2015,13,22.2,0.068,-0.6,3.7,PHO,Kentucky,5,10568,7038,Below Avg
+2.2,16.0,Cameron Payne,153,2015,14,6.0,0.044,-2.9,-0.6,OKC,Murray State,4,2454,914,Below Avg
+50.0,34.3,Karl-Anthony Towns,353,2015,1,22.6,0.198,5.3,22.3,MIN,Kentucky,5,12124,7993,Star
+12.1,22.1,Terry Rozier,320,2015,16,9.3,0.082,-0.5,2.6,BOS,Louisville,5,7076,2961,Above Avg
+11.6,23.7,Kelly Oubre,338,2015,15,10.6,0.07,-1.9,0.2,ATL,Kansas,5,8013,3590,Above Avg
+0.4,8.8,R.J. Hunter,45,2015,28,3.0,0.051,-3.3,-0.1,BOS,Georgia State University,4,395,133,Below Avg
+19.0,23.1,Larry Nance,299,2015,27,7.9,0.132,2.1,7.2,LAL,Wyoming,5,6900,2356,Star
+10.1,17.9,Tyus Jones,296,2015,24,5.3,0.091,-1.7,0.4,CLE,Duke,5,5298,1561,Above Avg
+11.5,23.1,Rondae Hollis-Jefferson,272,2015,23,9.6,0.088,-0.7,2.0,POR,Arizona,5,6277,2605,Above Avg
+3.2,15.9,Jarell Martin,184,2015,25,5.4,0.053,-3.8,-1.3,MEM,LSU,4,2927,998,Below Avg
+4.6,13.1,Justin Anderson,219,2015,21,5.3,0.077,-1.9,0.1,DAL,Virginia,5,2874,1157,Below Avg
+13.8,19.5,Delon Wright,244,2015,20,7.4,0.139,2.0,4.8,TOR,Utah,5,4765,1800,Star
+8.3,18.0,Jerian Grant,273,2015,19,6.1,0.081,-2.0,0.0,WAS,Notre Dame,4,4918,1665,Above Avg
+5.4,15.5,Sam Dekker,200,2015,18,5.5,0.083,-1.9,0.1,HOU,Wisconsin,4,3096,1094,Above Avg
+-0.6,12.0,Rashad Vaughn,139,2015,17,3.0,-0.017,-5.6,-1.5,MIL,UNLV,3,1671,423,Below Avg
+10.2,20.4,Bobby Portis,298,2015,22,10.1,0.081,-2.0,0.0,CHI,Arkansas,5,6065,3013,Above Avg
+-0.1,3.4,Diamond Stone,7,2016,40,1.4,-0.211,-24.1,-0.1,NOP,Maryland,1,24,10,Bust
+-0.9,20.5,Isaiah Whitehead,89,2016,42,7.2,-0.025,-4.9,-1.4,UTA,Seton Hall,2,1823,643,Bust
+0.0,5.7,Stephen Zimmerman,19,2016,41,1.2,-0.005,-7.3,-0.1,ORL,UNLV,1,108,23,Bust
+5.9,11.9,Cheick Diallo,164,2016,33,5.2,0.145,-2.4,-0.2,LAC,Kansas,4,1953,858,Below Avg
+0.1,12.3,Chinanu Onuaku,6,2016,37,3.0,0.043,-4.1,0.0,HOU,Louisville,2,74,18,Bust
+16.2,28.4,Malcolm Brogdon,221,2016,36,13.4,0.124,0.3,3.6,MIL,Virginia,4,6280,2971,Star
+0.5,20.9,Tyler Ulis,133,2016,34,7.5,0.008,-4.7,-1.9,PHO,Kentucky,3,2782,998,Below Avg
+3.9,16.8,Patrick McCaw,182,2016,38,3.9,0.06,-2.1,0.0,MIL,UNLV,4,3058,714,Below Avg
+0.2,5.2,Demetrius Jackson,26,2016,45,1.8,0.087,-2.2,0.0,BOS,Notre Dame,3,136,48,Below Avg
+0.3,5.1,Joel Bolomboy,18,2016,52,1.7,0.132,-3.7,0.0,UTA,Weber State,2,91,31,Bust
+2.9,13.6,Jake Layman,155,2016,47,5.2,0.066,-2.0,0.0,ORL,Maryland,4,2105,800,Below Avg
+-0.1,3.6,Michael Gbinije,9,2016,49,0.4,-0.136,-10.5,-0.1,DET,Syracuse,1,32,4,Bust
+2.6,9.2,Georges Niang,133,2016,50,3.9,0.103,-1.2,0.3,IND,Iowa State,4,1217,513,Below Avg
+-0.1,3.3,Ben Bentil,3,2016,51,0.0,-0.473,-26.9,-0.1,BOS,Providence,1,10,0,Bust
+-0.4,9.1,Kay Felder,58,2016,54,3.8,-0.041,-7.7,-0.8,ATL,Oakland,2,526,223,Bust
+0.0,5.6,Marcus Paige,5,2016,55,2.4,-0.006,-6.9,0.0,BRK,UNC,1,28,12,Bust
+0.0,9.3,Daniel Hamilton,25,2016,56,2.8,0.0,-5.3,-0.2,DEN,UConn,2,232,69,Bust
+1.4,12.2,Abdel Nader,143,2016,58,4.1,0.039,-4.5,-1.1,BOS,Iowa State,3,1749,587,Below Avg
+0.0,0.0,Isaiah Cousins,0,2016,59,0.0,0.0,0.0,0.0,SAC,Oklahoma,0,0,0,Bust
+0.2,15.5,Tyrone Wallace,106,2016,60,5.2,0.006,-4.2,-0.9,UTA,California,3,1639,549,Below Avg
+3.6,12.1,Deyonta Davis,107,2016,31,4.2,0.131,-1.4,0.2,BOS,Michigan State,3,1299,454,Below Avg
+0.0,7.4,A.J. Hammons,22,2016,46,2.2,-0.001,-5.6,-0.1,DAL,Purdue,1,163,48,Bust
+5.0,19.2,Dejounte Murray,162,2016,29,7.5,0.077,0.7,2.1,SAS,Washington,3,3104,1219,Above Avg
+24.1,34.4,Ben Simmons,207,2016,1,16.4,0.162,4.6,11.8,PHI,LSU,3,7131,3396,Star
+8.8,32.1,Brandon Ingram,234,2016,2,16.0,0.056,-1.7,0.5,LAL,Duke,4,7520,3733,Below Avg
+12.8,25.7,Jaylen Brown,261,2016,3,12.6,0.092,-1.2,1.3,BOS,California,4,6711,3278,Above Avg
+4.0,24.3,Kris Dunn,227,2016,5,8.3,0.035,-0.8,1.6,MIN,Providence,4,5516,1884,Below Avg
+12.0,27.9,Buddy Hield,292,2016,6,15.8,0.07,-0.4,3.3,NOP,Oklahoma,4,8151,4615,Above Avg
+14.8,29.0,Jamal Murray,278,2016,7,15.2,0.088,-0.5,3.0,DEN,Kentucky,4,8055,4234,Above Avg
+4.0,14.0,Damian Jones,93,2016,30,4.7,0.146,0.2,0.7,GSW,Vanderbilt,4,1300,438,Below Avg
+15.1,16.3,Jakob Pöltl,260,2016,9,5.4,0.171,3.3,5.7,TOR,Utah,4,4250,1402,Star
+18.5,24.9,Domantas Sabonis,274,2016,11,11.7,0.13,0.7,4.6,ORL,Gonzaga,4,6829,3193,Star
+5.6,26.4,Taurean Waller-Prince,243,2016,12,11.6,0.042,-1.5,0.8,UTA,Baylor,4,6404,2826,Below Avg
+3.6,21.0,Denzel Valentine,163,2016,14,7.6,0.051,-1.2,0.7,CHI,Michigan State,3,3423,1244,Below Avg
+4.2,18.9,Marquese Chriss,241,2016,8,7.6,0.045,-1.8,0.2,SAC,Washington,4,4564,1833,Below Avg
+4.4,17.5,Skal Labissière,148,2016,28,7.2,0.082,-1.7,0.2,PHO,Kentucky,4,2595,1069,Above Avg
+19.2,25.3,Pascal Siakam,254,2016,27,12.1,0.144,2.1,6.7,TOR,New Mexico State,4,6414,3078,Star
+0.1,5.1,Brice Johnson,21,2016,25,2.2,0.062,-2.5,0.0,LAC,UNC,2,107,47,Bust
+1.1,19.4,DeAndre' Bembry,189,2016,21,6.2,0.014,-2.7,-0.6,ATL,Saint Joseph's,4,3672,1173,Below Avg
+5.4,25.0,Caris LeVert,190,2016,20,11.4,0.055,-1.2,1.0,IND,Michigan,4,4746,2174,Below Avg
+5.6,16.3,Malik Beasley,204,2016,19,7.3,0.082,-2.1,-0.1,DEN,Florida State,4,3325,1495,Above Avg
+0.3,9.2,Henry Ellenson,81,2016,18,4.0,0.018,-6.3,-0.8,DET,Marquette,4,749,327,Below Avg
+-0.3,10.3,Wade Baldwin,56,2016,17,3.1,-0.028,-5.7,-0.5,MEM,Vanderbilt,3,579,174,Below Avg
+-0.1,8.9,Malachi Richardson,70,2016,22,2.8,-0.009,-6.8,-0.8,CHO,Syracuse,3,625,198,Below Avg
+1.0,16.1,Tyler Dorsey,104,2017,41,6.7,0.03,-4.1,-0.9,ATL,Oregon,2,1672,701,Bust
+2.9,20.2,Damyean Dotson,159,2017,44,7.8,0.044,-2.6,-0.5,NYK,Oregon,3,3211,1246,Below Avg
+7.4,19.8,Thomas Bryant,114,2017,42,9.9,0.158,1.2,1.8,UTA,Indiana,3,2252,1125,Star
+0.4,16.0,Dwayne Bacon,132,2017,40,5.4,0.01,-5.5,-1.9,NOP,Florida State,3,2116,713,Below Avg
+3.5,17.5,Wesley Iwundu,164,2017,33,4.5,0.059,-2.9,-0.6,ORL,Kansas State,3,2873,742,Below Avg
+4.9,12.1,Jordan Bell,150,2017,38,3.8,0.128,1.1,1.4,CHI,Oregon,3,1818,564,Below Avg
+3.1,13.9,Semi Ojeleye,174,2017,37,3.0,0.061,-3.1,-0.7,BOS,SMU,3,2419,514,Below Avg
+3.2,14.6,Ivan Rabb,85,2017,35,5.7,0.125,-1.0,0.3,ORL,California,2,1237,485,Bust
+0.8,15.3,Frank Mason,94,2017,34,6.5,0.028,-3.8,-0.6,SAC,Kansas,3,1437,613,Below Avg
+-0.4,15.1,Jawun Evans,56,2017,39,4.2,-0.022,-5.2,-0.7,PHI,Oklahoma State,2,843,237,Bust
+3.6,15.9,Sterling Brown,145,2017,46,5.2,0.075,-2.6,-0.4,PHI,SMU,3,2307,757,Above Avg
+1.0,10.7,Sindarius Thornwell,137,2017,48,2.5,0.034,-2.1,0.0,MIL,South Carolina,2,1469,344,Bust
+8.8,22.2,Monte Morris,134,2017,51,9.3,0.141,-0.5,1.1,DEN,Iowa State,3,2980,1248,Star
+0.4,11.0,Edmond Sumner,43,2017,52,3.6,0.041,-2.6,-0.1,NOP,Xavier,3,472,154,Below Avg
+0.9,13.5,Kadeem Allen,46,2017,53,5.5,0.071,-2.5,-0.1,BOS,Arizona,3,619,252,Below Avg
+0.3,11.3,Alec Peters,20,2017,54,4.1,0.055,-3.3,-0.1,PHO,Valparaiso,1,225,82,Bust
+0.0,3.1,Nigel Williams-Goss,9,2017,55,0.4,-0.037,-4.2,0.0,UTA,Gonzaga,1,28,4,Bust
+0.2,8.8,Jabari Bird,13,2017,56,3.0,0.098,-2.1,0.0,BOS,California,1,115,39,Bust
+0.3,16.3,Jaron Blossomgame,27,2017,59,4.2,0.03,-4.5,-0.3,SAS,Clemson,1,439,114,Bust
+-0.2,9.3,Davon Reed,31,2017,32,2.4,-0.039,-6.3,-0.3,PHO,Miami (FL),2,289,75,Bust
+0.0,2.6,Ike Anigbogu,14,2017,47,0.9,0.057,-6.8,0.0,IND,UCLA,2,36,13,Bust
+0.3,16.8,Frank Jackson,101,2017,31,7.2,0.009,-5.5,-1.5,CHO,Duke,2,1695,725,Bust
+2.6,27.3,Dillon Brooks,149,2017,45,12.2,0.031,-3.1,-1.1,HOU,Oregon,3,4065,1824,Below Avg
+6.5,22.8,Derrick White,129,2017,29,9.0,0.106,0.7,2.0,SAS,Colorado,3,2937,1164,Above Avg
+2.2,24.7,Markelle Fultz,80,2017,1,10.1,0.054,-2.0,0.0,PHI,Washington,3,1978,805,Below Avg
+4.8,32.1,Lonzo Ball,140,2017,2,10.6,0.051,0.9,3.3,LAL,UCLA,3,4490,1482,Below Avg
+15.8,31.4,Jayson Tatum,202,2017,3,16.2,0.12,0.4,3.8,BOS,Duke,3,6343,3278,Star
+-2.4,25.2,Josh Jackson,158,2017,4,12.3,-0.029,-4.6,-2.6,PHO,Kansas,3,3981,1938,Below Avg
+7.4,30.0,De'Aaron Fox,184,2017,5,15.4,0.064,-0.7,1.8,SAC,Kentucky,3,5512,2835,Below Avg
+6.7,26.0,Jonathan Isaac,134,2017,6,9.3,0.092,0.7,2.4,ORL,Florida State,3,3481,1249,Above Avg
+8.7,30.7,Lauri Markkanen,166,2017,7,16.2,0.082,-1.6,0.5,MIN,Arizona,3,5097,2697,Above Avg
+7.3,25.3,Josh Hart,172,2017,30,8.5,0.081,-0.4,1.8,UTA,Villanova,3,4360,1462,Above Avg
+-1.3,26.9,Dennis Smith,146,2017,9,13.0,-0.016,-2.7,-0.7,DAL,NC State,3,3927,1894,Below Avg
+3.7,17.0,Zach Collins,146,2017,10,5.7,0.071,-1.4,0.4,SAC,Gonzaga,3,2487,831,Above Avg
+0.7,16.6,Malik Monk,182,2017,11,8.2,0.011,-4.2,-1.6,CHO,Kentucky,3,3024,1488,Below Avg
+7.1,23.3,Luke Kennard,164,2017,12,9.8,0.089,-1.3,0.7,DET,Duke,3,3822,1613,Above Avg
+14.9,33.7,Donovan Mitchell,203,2017,13,22.7,0.104,1.1,5.3,DEN,Louisville,3,6850,4601,Above Avg
+17.3,24.8,Bam Adebayo,198,2017,14,9.9,0.169,2.9,6.0,MIA,Kentucky,3,4902,1956,Star
+0.0,5.4,Justin Patton,9,2017,16,1.8,0.016,-4.1,0.0,CHI,Creighton,3,49,16,Below Avg
+4.8,19.9,Justin Jackson,192,2017,15,6.7,0.06,-2.7,-0.7,POR,UNC,3,3818,1289,Below Avg
+1.8,9.1,Tony Bradley,48,2017,28,3.8,0.201,0.1,0.2,LAL,UNC,3,437,184,Below Avg
+8.0,30.6,Kyle Kuzma,185,2017,27,16.5,0.068,-2.0,0.0,BRK,Utah,3,5665,3045,Below Avg
+-0.4,7.6,Caleb Swanigan,59,2017,26,2.1,-0.039,-6.6,-0.5,POR,Purdue,3,447,122,Below Avg
+0.2,3.7,Tyler Lydon,26,2017,24,0.9,0.084,-2.6,0.0,UTA,Syracuse,2,96,23,Bust
+8.3,22.4,OG Anunoby,189,2017,23,7.4,0.094,0.2,2.4,TOR,Indiana,3,4233,1406,Above Avg
+1.3,13.3,Harry Giles,80,2017,20,6.3,0.058,-2.0,0.0,POR,Duke,2,1063,506,Bust
+13.6,27.3,John Collins,158,2017,19,15.2,0.151,1.4,3.7,ATL,Wake Forest,3,4314,2402,Star
+2.7,8.7,T.J. Leaf,133,2017,18,3.4,0.113,-3.0,-0.3,IND,UCLA,3,1161,448,Below Avg
+2.1,12.4,D.J. Wilson,96,2017,17,4.0,0.083,-2.3,-0.1,MIL,Michigan,3,1188,381,Below Avg
+17.4,24.2,Jarrett Allen,199,2017,22,10.0,0.173,2.0,4.8,BRK,Texas,3,4819,1995,Star
+0.0,0.0,Justin Jackson,0,2018,43,0.0,0.0,0.0,0.0,DEN,Maryland,0,0,0,Bust
+3.2,22.4,Bruce Brown,121,2018,42,6.0,0.056,-1.3,0.5,DET,Miami (FL),2,2714,724,Below Avg
+0.0,4.1,Jarred Vanderbilt,24,2018,41,1.2,-0.021,-6.0,-0.1,ORL,Kentucky,2,98,28,Below Avg
+0.4,14.2,Jevon Carter,72,2018,32,4.1,0.021,-2.8,-0.2,MEM,West Virginia,2,1019,292,Below Avg
+0.7,13.7,Gary Trent,51,2018,37,4.9,0.048,-2.8,-0.1,SAC,Duke,2,697,252,Below Avg
+-0.1,4.0,Melvin Frazier,23,2018,35,1.4,-0.043,-7.7,-0.1,ORL,Tulane,2,91,33,Below Avg
+3.0,25.1,Devonte' Graham,94,2018,34,11.6,0.061,-1.2,0.5,ATL,Kansas,2,2363,1089,Below Avg
+4.5,19.9,Jalen Brunson,121,2018,33,8.6,0.089,-2.2,-0.1,DAL,Villanova,2,2404,1041,Above Avg
+0.0,7.2,Khyri Thomas,28,2018,38,2.2,0.006,-5.3,-0.2,PHI,Creighton,2,201,62,Below Avg
+0.1,3.3,Thomas Welsh,11,2018,58,1.6,0.162,-2.6,0.0,DEN,UCLA,1,36,18,Bust
+1.6,18.9,De'Anthony Melton,86,2018,46,6.3,0.048,-0.8,0.5,HOU,USC,2,1628,541,Below Avg
+1.4,16.4,Sviatoslav Mykhailiuk,87,2018,47,6.1,0.049,-2.7,-0.3,LAL,Kansas,2,1424,530,Below Avg
+1.5,17.4,Keita Bates-Diop,65,2018,48,6.2,0.063,-2.6,-0.2,MIN,Ohio State,2,1133,400,Below Avg
+-0.1,4.8,Chimezie Metu,42,2018,49,2.1,-0.013,-6.4,-0.2,SAS,USC,2,203,87,Below Avg
+0.2,4.4,Alize Johnson,25,2018,50,1.2,0.077,-6.7,-0.1,IND,Missouri State,2,110,31,Below Avg
+0.0,0.0,Tony Carr,0,2018,51,0.0,0.0,0.0,0.0,NOP,Penn State,0,0,0,Bust
+0.0,8.0,Vince Edwards,2,2018,52,1.5,-0.014,-9.8,0.0,UTA,Purdue,1,16,3,Bust
+0.0,4.0,Devon Hall,5,2018,53,1.0,-0.059,-11.5,0.0,OKC,Virginia,1,20,5,Bust
+0.7,13.3,Shake Milton,36,2018,54,5.2,0.069,-2.9,-0.1,DAL,SMU,2,478,188,Below Avg
+0.2,10.6,Ray Spalding,14,2018,56,3.9,0.051,-3.4,-0.1,PHI,Louisville,1,148,54,Bust
+-0.1,2.2,Kevin Hervey,6,2018,57,0.0,-0.357,-17.0,0.0,OKC,UT Arlington,1,13,0,Bust
+1.0,13.7,Hamidou Diallo,81,2018,45,4.8,0.041,-4.7,-0.8,BRK,Kentucky,2,1112,389,Below Avg
+2.6,17.7,Omari Spellman,92,2018,30,6.8,0.076,-1.2,0.3,ATL,Villanova,2,1628,625,Above Avg
+2.3,19.6,Troy Brown,96,2018,15,7.5,0.058,-2.1,-0.1,WAS,Oregon,2,1884,716,Below Avg
+-0.7,10.3,Jacob Evans,54,2018,28,2.7,-0.06,-8.0,-0.8,GSW,Cincinnati,2,555,147,Below Avg
+0.0,6.0,George King,1,2018,59,0.0,-0.001,-10.6,0.0,PHO,Colorado,1,6,0,Bust
+7.5,31.1,Deandre Ayton,89,2018,1,16.6,0.131,0.2,1.5,PHO,Arizona,2,2772,1479,Star
+4.0,25.3,Marvin Bagley,75,2018,2,14.8,0.101,-2.5,-0.2,SAC,Duke,2,1901,1108,Above Avg
+6.0,27.0,Jaren Jackson,105,2018,4,15.5,0.102,0.5,1.8,MEM,Michigan State,2,2833,1628,Above Avg
+7.8,32.4,Trae Young,125,2018,5,22.8,0.093,1.4,3.5,DAL,Oklahoma,2,4046,2844,Above Avg
+3.4,15.8,Mohamed Bamba,91,2018,6,5.8,0.112,0.4,0.9,ORL,Texas,2,1440,532,Above Avg
+5.1,27.4,Wendell Carter,81,2018,7,11.0,0.111,-0.3,0.9,CHI,Duke,2,2219,888,Above Avg
+0.8,31.9,Collin Sexton,131,2018,8,17.8,0.009,-4.4,-2.5,CLE,Alabama,2,4175,2329,Below Avg
+-0.9,24.9,Kevin Knox,123,2018,9,10.6,-0.014,-5.3,-2.6,NYK,Kentucky,2,3058,1304,Below Avg
+5.6,27.6,Mikal Bridges,130,2018,10,8.0,0.075,0.3,2.1,PHI,Villanova,2,3593,1042,Above Avg
+7.4,29.9,Shai Gilgeous-Alexander,132,2018,11,14.1,0.09,-0.1,1.9,CHO,Kentucky,2,3950,1858,Above Avg
+4.0,24.5,Miles Bridges,128,2018,12,9.2,0.062,-1.4,0.5,LAC,Michigan State,2,3139,1182,Below Avg
+0.0,10.8,Jerome Robinson,73,2018,13,3.2,0.002,-4.4,-0.5,LAC,Boston College,2,792,234,Below Avg
+1.9,14.3,Michael Porter,39,2018,14,8.0,0.168,0.6,0.4,DEN,Missouri,1,556,311,Bust
+0.1,14.7,Zhaire Smith,9,2018,16,4.9,0.025,-4.7,-0.1,PHO,Texas Tech,2,132,44,Below Avg
+3.7,19.8,Donte DiVincenzo,70,2018,17,7.4,0.129,1.4,1.2,MIL,Villanova,2,1389,518,Star
+0.4,10.9,Lonnie Walker,56,2018,18,4.8,0.033,-4.7,-0.4,SAS,Miami (FL),2,613,270,Below Avg
+2.5,27.8,Kevin Huerter,113,2018,19,10.3,0.038,-1.7,0.2,ATL,Maryland,2,3140,1161,Below Avg
+2.4,23.8,Josh Okogie,119,2018,20,7.8,0.041,-1.6,0.3,MIN,Georgia Tech,2,2838,929,Below Avg
+0.6,13.4,Grayson Allen,68,2018,21,6.4,0.033,-5.0,-0.7,UTA,Duke,2,914,432,Below Avg
+1.3,19.2,Chandler Hutchison,68,2018,22,5.9,0.049,-3.8,-0.6,CHI,Boise State,2,1303,400,Below Avg
+2.7,17.9,Aaron Holiday,95,2018,23,8.0,0.076,-1.7,0.1,IND,UCLA,2,1698,760,Above Avg
+1.2,13.7,Moritz Wagner,64,2018,25,7.0,0.066,-2.4,-0.1,LAL,Michigan,2,875,451,Below Avg
+5.4,24.4,Landry Shamet,110,2018,26,9.4,0.097,-0.7,0.9,PHI,Wichita State,2,2679,1036,Above Avg
+2.3,10.8,Robert Williams,51,2018,27,3.0,0.199,5.0,1.0,BOS,Texas A&M,2,552,155,Below Avg
+0.0,3.2,Kostas Antetokounmpo,5,2018,60,0.4,-0.128,-10.4,0.0,PHI,Dayton,2,16,2,Below Avg
