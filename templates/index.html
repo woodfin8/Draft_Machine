@@ -24,7 +24,8 @@
             <div class="collapse navbar-collapse" id="navbarColor01">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="{{ url_for('index') }}">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="{{ url_for('index') }}">Home <span
+                                class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('find') }}">Findings</a>
@@ -62,30 +63,374 @@
         </div>
         <div class="row ml-4">
             <div class=col-6>
-                <table class="table table-hover">
+                '<table class="table table-hover">
                     <thead>
-                        <tr>
-                            <th scope="col">Player</th>
+                        <tr  class = "table=light" style="text-align: left;">
+                            <th scope="col">NBADraft.net Rank</th>
+                            <th scope="col">Name</th>
                             <th scope="col">College</th>
-                            <th scope="col">Pro Prediction</th>
-                            <th scope="col">Column heading</th>
+                            <th scope="col">Year</th>
+                            <th scope="col">Model Prediction</th>
                         </tr>
                     </thead>
                     <tbody>
-
                         <tr class="table-primary">
-                            <th scope="row">Primary</th>
-                            <td>Column content</td>
-                            <td>Column content</td>
-                            <td>Column content</td>
+                            <td>1</td>
+                            <td>Anthony Edwards</td>
+                            <td>Missouri State</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
                         </tr>
-                        <tr class="table-secondary">
-                            <th scope="row">Secondary</th>
-                            <td>Column content</td>
-                            <td>Column content</td>
-                            <td>Column content</td>
+                        <tr class="table-danger">
+                            <td>2</td>
+                            <td>James Wiseman</td>
+                            <td>Memphis</td>
+                            <td>Fr.</td>
+                            <td>Bust</td>
                         </tr>
-
+                        <tr class="table-primary">
+                            <td>4</td>
+                            <td>Obi Toppin</td>
+                            <td>Dayton</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>5</td>
+                            <td>Jaden McDaniels</td>
+                            <td>Washington</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-danger">
+                            <td>6</td>
+                            <td>Nico Mannion</td>
+                            <td>Arizona</td>
+                            <td>Fr.</td>
+                            <td>Bust</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>8</td>
+                            <td>Daniel Oturu</td>
+                            <td>Minnesota</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-danger">
+                            <td>9</td>
+                            <td>Cole Anthony</td>
+                            <td>North Carolina</td>
+                            <td>Fr.</td>
+                            <td>Bust</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>10</td>
+                            <td>Vernon Carey Jr.</td>
+                            <td>Duke</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-danger">
+                            <td>11</td>
+                            <td>Tyrese Haliburton</td>
+                            <td>Iowa State</td>
+                            <td>So.</td>
+                            <td>Bust</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>13</td>
+                            <td>Onyeka Okongwu</td>
+                            <td>Southern California</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>14</td>
+                            <td>Isaac Okoro</td>
+                            <td>Auburn</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>15</td>
+                            <td>Josh Green</td>
+                            <td>Arizona</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>16</td>
+                            <td>Zeke Nnaji</td>
+                            <td>Arizona</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>18</td>
+                            <td>Isaiah Stewart</td>
+                            <td>Siena</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>19</td>
+                            <td>Ashton Hagans</td>
+                            <td>Kentucky</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>20</td>
+                            <td>Precious Achiuwa</td>
+                            <td>Memphis</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>21</td>
+                            <td>Aaron Nesmith</td>
+                            <td>Vanderbilt</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>22</td>
+                            <td>Tyrese Maxey</td>
+                            <td>Kentucky</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>23</td>
+                            <td>Jordan Nwora</td>
+                            <td>Louisville</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>24</td>
+                            <td>Ochai Agbaji</td>
+                            <td>Kansas</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>25</td>
+                            <td>Paul Reed</td>
+                            <td>East Tennessee State</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>26</td>
+                            <td>Jalen Smith</td>
+                            <td>Maryland</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>27</td>
+                            <td>Reggie Perry</td>
+                            <td>Mississippi State</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>28</td>
+                            <td>Devon Dotson</td>
+                            <td>Kansas</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>29</td>
+                            <td>Udoka Azubuike</td>
+                            <td>Kansas</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>30</td>
+                            <td>CJ Elleby</td>
+                            <td>Washington State</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>31</td>
+                            <td>Landers Nolley II</td>
+                            <td>Louisiana State</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>32</td>
+                            <td>Devin Vassell</td>
+                            <td>Florida State</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>34</td>
+                            <td>Cassius Stanley</td>
+                            <td>Duke</td>
+                            <td>Fr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>35</td>
+                            <td>Saddiq Bey</td>
+                            <td>Villanova</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>36</td>
+                            <td>Nick Richards</td>
+                            <td>Kentucky</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-danger">
+                            <td>37</td>
+                            <td>Elijah Hughes</td>
+                            <td>Syracuse</td>
+                            <td>Jr.</td>
+                            <td>Bust</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>38</td>
+                            <td>Tyler Bey</td>
+                            <td>Colorado</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>39</td>
+                            <td>Chris Smith</td>
+                            <td>Connecticut</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>40</td>
+                            <td>Omer Yurtseven</td>
+                            <td>Georgetown</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>41</td>
+                            <td>Markus Howard</td>
+                            <td>Marquette</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-danger">
+                            <td>43</td>
+                            <td>Malachi Flynn</td>
+                            <td>San Diego Dtate</td>
+                            <td>Jr.</td>
+                            <td>Bust</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>44</td>
+                            <td>Austin Wiley</td>
+                            <td>Auburn</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>45</td>
+                            <td>Payton Pritchard</td>
+                            <td>Oregon</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>46</td>
+                            <td>Steven Enoch</td>
+                            <td>Louisville</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>47</td>
+                            <td>Mamadi Diakite</td>
+                            <td>Virginia</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>48</td>
+                            <td>Derrick Alston</td>
+                            <td>Boise State</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>49</td>
+                            <td>Malik Fitts</td>
+                            <td>Saint Marys CA</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>50</td>
+                            <td>Tre Jones</td>
+                            <td>Duke</td>
+                            <td>So.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>51</td>
+                            <td>Cassius Winston</td>
+                            <td>Michigan State</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>52</td>
+                            <td>Lamar Stevens</td>
+                            <td>Penn State</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>55</td>
+                            <td>Killian Tillie</td>
+                            <td>Gonzaga</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>56</td>
+                            <td>Mustapha Heron</td>
+                            <td>St Johns NY</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>57</td>
+                            <td>Myles Powell</td>
+                            <td>Seton Hall</td>
+                            <td>Jr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-primary">
+                            <td>59</td>
+                            <td>Desmond Bane</td>
+                            <td>Texas Christian</td>
+                            <td>Sr.</td>
+                            <td>Pro Player</td>
+                        </tr>
+                        <tr class="table-danger">
+                            <td>60</td>
+                            <td>Cam Mack</td>
+                            <td>Nebraska</td>
+                            <td>So.</td>
+                            <td>Bust</td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
@@ -228,7 +573,7 @@
                 </form>
                 <br>
                 <br>
-                {{ evaluation_text }}
+                <h2>{{ evaluation_text }}</h2>
             </div>
         </div>
 

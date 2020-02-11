@@ -5,6 +5,7 @@
 
 
 import pickle
+import numpy as np
 from flask import Flask, jsonify, render_template, request
 
 
@@ -41,24 +42,29 @@ def predict():
     ws40 = request.form["ws-40_select"]
     trues = request.form["true-shoot_select"]
     ftar = request.form["ft-ar_select"]
-    three = request.form["three_point_select"]
+    trey = request.form["three_point_select"]
 
     height = int(height)
-    fg = fg.replace("%", "")
-    fg = float(fg)*.01
+    fg = float(fg.replace("%", ""))*.01
     ws40= float(ws40)
-    trues = trues.replace("%", "")
-    trues = float(trues)*.01
+    trues = float(trues.replace("%", ""))*.01
     ftar = float(ftar)
-    three = three.replace("%", "")
-    three = float(three)*.01
+    trey = float(trey.replace("%", ""))*.01
+
+    feature_list = [fg, ftar, height, trey, trues, ws40]
+    features = [np.array(feature_list)]
 
     model = pickle.load(open('random_forest.pkl', 'rb'))
-#   
+    prediction = model.predict(features)
+    output = prediction[0]
 
-#     output = round(prediction[0], 2)
+    if output == 1:
+        result = "Player"
+    else:
+        result = "Bust"
 
-    return render_template('index.html', evaluation_text = f'{name} is {height} inches tall {fg} {ws40} {trues} {ftar} {three}')
+
+    return render_template('index.html', evaluation_text = f'{name} is predicted to be an NBA {result}')
 
 @app.route('/find')
 def find():
