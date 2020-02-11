@@ -43,11 +43,10 @@ predicted that they will not add any value to the future of the game.
   * Foundation - version 4
 * Qlik Sense
 * Pickle in Python
+
 ## Development Process
 
 ### Data Extraction
-
-## Resources
 
 ## Models
 We tried sevaral models in order to obtain the best outcome for our project.  These included
@@ -56,7 +55,7 @@ We tried sevaral models in order to obtain the best outcome for our project.  Th
 * Support Vector Machine (SVM)
 * Neural Network 
 
-Our final selection was Random Forest Classification.  This model offered the highest Train/Test predictions.
+Our final selection was Random Forest Classification.  This model offered the highest Train/Test predictions.  
 In order to come to a final analysis the following steps were taken
 1. We imported the csv file NCAA.csv
 2. We dropped some columns
@@ -69,7 +68,15 @@ In order to come to a final analysis the following steps were taken
 8. We made predictions with the hypertuned model
 9. We finally calculated classification report
 
+The following top six features were used to predict
+[(0.19545382543171627, 'field_goal_percentage'),
+ (0.18900679369069612, 'win_shares_per_40_minutes'),
+ (0.1761453493565039, 'true_shooting_percentage'),
+ (0.17068663302183093, 'free_throw_attempt_rate'),
+ (0.16473951504779355, 'three_point_percentage'),
+ (0.10396788345145934, 'height')]
 
+## Resources
 * [https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
 * https://scikit-learn.org/stable/
 
