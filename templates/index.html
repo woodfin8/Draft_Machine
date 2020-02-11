@@ -90,7 +90,7 @@
                 </table>
             </div>
             <div class=col-6>
-                <form action="/create-player" method="post">
+                <form action="{{url_for('create-player')}}" method="post">
                     <div class="row mr-4">
                         <div class=col-12>
                             <h2 class="text-center">Create and Evaluate Your Own Player</h2>
@@ -226,6 +226,9 @@
                         </div>
                     </div>
                 </form>
+                <br>
+                <br>
+                {{ evaluation_text }}
             </div>
         </div>
 
