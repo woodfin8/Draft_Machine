@@ -15,7 +15,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
-            <a class="navbar-brand" href="index.html">Draft Machine</a>
+            <a class="navbar-brand" href="{{ url_for('index') }}">Draft Machine</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
                 aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -31,10 +31,10 @@
                         <a class="nav-link" href="{{ url_for('find') }}">Findings</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Methodology</a>
+                        <a class="nav-link" href="{{ url_for('method') }}">Methodology</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="{{ url_for('charts') }}">Charts</a>
                     </li>
                 </ul>
 
@@ -65,7 +65,7 @@
             <div class=col-6>
                 '<table class="table table-hover">
                     <thead>
-                        <tr  class = "table=light" style="text-align: left;">
+                        <tr class="table-light" style="text-align: left;">
                             <th scope="col">NBADraft.net Rank</th>
                             <th scope="col">Name</th>
                             <th scope="col">College</th>
@@ -473,10 +473,10 @@
                         <div class=col-4>
                             <div class="form-group">
                                 <select class="form-control" id="fg" name="fg_select">
-                                    <option>25%</option>
                                     <option>30%</option>
                                     <option>35%</option>
                                     <option>40%</option>
+                                    <option>45%</option>
                                     <option>50%</option>
                                     <option>55%</option>
                                     <option>65%</option>
