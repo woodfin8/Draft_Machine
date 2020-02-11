@@ -17,7 +17,6 @@ app = Flask(__name__)
 # In[17]:
 
 
-# model = pickle.load(open('random_forest.pkl', 'rb'))
 
 
 # In[19]:
@@ -44,6 +43,17 @@ def predict():
     ftar = request.form["ft-ar_select"]
     three = request.form["three_point_select"]
 
+    height = int(height)
+    fg = fg.replace("%", "")
+    fg = float(fg)*.01
+    ws40= float(ws40)
+    trues = trues.replace("%", "")
+    trues = float(trues)*.01
+    ftar = float(ftar)
+    three = three.replace("%", "")
+    three = float(three)*.01
+
+    model = pickle.load(open('random_forest.pkl', 'rb'))
 #   
 
 #     output = round(prediction[0], 2)
