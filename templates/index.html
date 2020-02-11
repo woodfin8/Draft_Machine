@@ -24,10 +24,10 @@
             <div class="collapse navbar-collapse" id="navbarColor01">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="{{ url_for('index') }}">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="find.html">Findings</a>
+                        <a class="nav-link" href="{{ url_for('find') }}">Findings</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="method.html">Methodology</a>
@@ -90,7 +90,7 @@
                 </table>
             </div>
             <div class=col-6>
-                <form action="{{url_for('create-player')}}" method="post">
+                <form action="{{url_for('predict')}}" method="post">
                     <div class="row mr-4">
                         <div class=col-12>
                             <h2 class="text-center">Create and Evaluate Your Own Player</h2>
