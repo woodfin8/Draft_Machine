@@ -7,8 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Draft Machine</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" type="image/x-icon" href="/path/to/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+    <link rel="icon" type="image/x-icon" href="../static/images/favicon.ico">
 
 
 </head>
@@ -44,9 +44,99 @@
         </div>
     </nav>
 
-    <div class = "container">
+    <div class="container mt-4">
         <h2>Methodology</h2>
+        <hr>
+        <br>
+        <div class="row">
+            <p class=lead>How well can a basketball player's college performance predict their NBA potential? We look at
+                players
+                selected in the 2000-2018 NBA drafts and use machine learning classification models to answer this
+                question. Players' NCAA stats were collected, filtered and used as model features. We looked at two
+                possible NBA outcomes. "Player" - the drafted player turned out to be NBA caliber, playing for more than
+                2 years in the league. "Bust" - The drafted player lasted 2 years or less in the leagues. In some cases,
+                the "Bust" didn't play a single pro game. After fitting and testing the data with four different
+                classifiers, we selected a Random Forest classifier as our model of choice. This model was then applied
+                to top prospects for the upcoming 2020 NBA draft to see if this draft (as sbnation.com described it) "is
+                one of the weakest in years".</p>
+        </div>
+        <div class="row">
+            <br>
+            <h2>Development Process</h2>
+            <hr>
+        </div>
+        <br>
+        <div class="row">
+            <h4>Data Munging</h4>
+            <br>
+            <p class=lead>To train our machine learning model, we needed to gather data about drafted players before
+                they made it
+                to the pros. First, we collected draft picks and their NBA player data between 2000 and 2019 from
+                https://www.basketball-reference.com/draft/NBA_2000.html. We used pandas to merge and clean the NBA
+                data, filtering to include only players that had played in the NCAA. This list of players was used to
+                extract NCAA data from the sportsreference API (pip intall sportsreference in jupyter notebook). The NBA
+                and NCAA data were exported as csv files, and were also combined to one csv files. 2020 draft prospects
+                were collected from https://www.nbadraft.net/nba-mock-drafts/, and was filtered to exclude foreign
+                players.</p>
+        </div>
+
+        <div class="row">
+            <h4>Models</h4>
+            <hr>
+        </div>
+        <div clas="row">
+            <p class="lead">We trained and tested our data with the following classification models.</p>
+        </div>
+        <div class="row">
+            <div class="list-group">
+                <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html"
+                    target="_blank" class="list-group-item list-group-item-action">
+                    K - Nearest Neighbors
+                </a>
+                <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=random%20forest#sklearn.ensemble.RandomForestClassifier"
+                    target="_blank" class="list-group-item list-group-item-action">
+                    Random Forest Classification
+                </a>
+                <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC"
+                    target="_blank" class="list-group-item list-group-item-action ">
+                    Support Vector Machine (SVM)
+                </a>
+                <a href="https://www.tensorflow.org/tutorials/keras/classification" target="_blank"
+                    class="list-group-item list-group-item-action">
+                    Neural Network
+                </a>
+            </div>
+            <br>
+        </div>
+        <div class="row mt-4">
+            <h2>Pre-Processing Steps</h2>
+            <hr>
+            <br>
+        </div>
+        <div class="row">
+            <p class="lead"> For all models, the pre-processing steps are as follows:</p>
+            <br>
+        </div>
+        <div class="row">
+            <ol>
+                <li>Import dependencies</li>
+                <li>Import NCAA_data.csv and create a dataframe</li>
+                <li>Drop unnecessary features (key features were obtained through random forest feature_importance).
+                </li>
+                <li>Use Label Encoder to encode the "class" column to integers</li>
+                <li>train_test_split the data</li>
+                <li>Fit the data to the modelli></li>
+                <li>Create GridSearch estimator along with a parameter object containing the hyper-parameters to
+                    adjust</li>
+                <li>Re-fit the model using the grid search estimator</li>
+                <li>List best hyper-parameters for this dataset</li>
+                <li>List the best score</li>
+                <li>Make predictions with the hypertuned model</li>
+                <li>Produce classification report</li>
+            </ol>
+        </div>
     </div>
+
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">

@@ -7,10 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Draft Machine</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" type="image/x-icon" href="/path/to/favicon.ico">
-
-
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+    <link rel="icon" type="image/x-icon" href="../static/images/favicon.ico">
 </head>
 
 
@@ -44,10 +42,246 @@
         </div>
     </nav>
 
-    <div class = "container">
+    <div class="container mb-5">
         <h2>Findings</h2>
-    </div>
+        <hr>
+        <br>
+        <div class="row">
+            <br>
+            <h2>Model Processes and Findings</h2>
+            <hr>
+        </div>
+        <div class="row">
 
+            <p class=lead>Based on correlation and feature importance findings, the following six NCAA stats were used
+                as features:</p>
+            <br>
+        </div>
+        <div class="row">
+            <ul>
+                <li>field_goal_percentage</li>
+                <li>win_shares_per_40_minutes</li>
+                <li>true_shooting_percentage</li>
+                <li>free_throw_attempt_rate</li>
+                <li>three_point_percentage</li>
+                <li>height</li>
+            </ul>
+            <br>
+        </div>
+
+        <div class="row">
+            <h4>Label Choices</h4>
+            <br>
+        </div>
+        <div clas="row">
+            <p class="lead">Our intial aim was to rank players in 4 categories: "Star", "Above-average", "Below-average"
+                and "Bust". However, the machine learning results were disappointing with 4 labels, giving us testing
+                accuracy scores in the mid 30%'s. We decided to limit the labels to 2 outcomes: "Player" and "Bust" as
+                drafting a first round "Bust" is something all NBA teams want to avoid.</p>
+
+        </div>
+
+        <div class="row mt-4">
+            <h4>Random Forest</h4>
+            <br>
+        </div>
+        <div class="row">
+            <p class="lead">The random forest model was trained using NBA player's college data. Players were classified
+                as either "Bust" or "Player" The model was initially tested using all of the available features from the
+                data. After testing and training the data in the model, random forest feature importance was used to
+                determine the hierarchy of the features. This list helped us narrow our list of features to the 6
+                features that we used to train and test all of our models. Random forest was used again, limiting the
+                features to the top 6. The random forest score was about 65%. The grid search was run multiple times,
+                trying various n-estimators (the number of trees for the model) ranging from 50-300, using 200 as the
+                final n-estimator. The result was a grid best score around 75%. The "Bust" class accuracy score ranged
+                between 17-22%, and the "Player" class accuraccy score ranged between 74-77%. This model was run on the
+                '2020_prospects.csv" to predice this year's draft outcome. The result was 7 out of 51 players, or 13.7%,
+                were classified as “Bust”. In our NBA historical files, 28% of the players were classified as “Bust”.
+            </p>
+            <br>
+        </div>
+        <div class="row mt-4">
+            <h4>Artificial Neural Network</h4>
+            <br>
+        </div>
+        <div class="row">
+            <p class="lead">Keras Sequential was the Artificial Neural Network model tested on the NBA player’s college
+                data and 2020 Draft Prospects. Using the same six features recommended by the Random Forest model,
+                players were categorized with the ‘player’ (good, worth drafting) and ‘bust’ (bad, not worth drafting)
+                labels. With only a simple train/test split, model accuracy on testing sets was disappointing - hovering
+                between the 50-70 percentage with huge variance. Using K-Fold Cross Validation (K-5), final model
+                accuracy on test data jumped to around 85%. Unfortunately, model predictions on the 2020 Draft Prospects
+                proved that the model is bugged when predicting – the ANN thought that there were no ‘busts’. This does
+                not square with our conventionial knowledge that the 2020 Draft seems relatively weak compared to
+                previous years, and that the average number of ‘busts’ for the previous years hovers around 30% of the
+                draft. The Random Forest Classification model was our chosen model because it had the highest Train/Test
+                predictions.
+            </p>
+            <br>
+        </div>
+        <div class="row mt-4">
+            <h4>K-Nearest Neighbor</h4>
+            <br>
+        </div>
+        <div class="row">
+            <p class="lead">The K Nearest Neighbor Classifier model was used to analyze College basketball players and
+                their suitability for being drafted to the NCAA. The model was selected so as to determine which players
+                were categorized as a ‘Bust’ and would therefore not be fit to be drafted to the NCAA. A number of
+                variables were combined to validate the accuracy of the model and to come up with a finding that was
+                workable. Some of the variables used included 'win_shares_per_40_minutes', 'field_goal_percentage',
+                'free_throw_attempt_rate', 'total_rebounds_per_40' as well as 'assists', 'blocks', 'turnovers',
+                'steals_per_40'. In most of the combinations the highest value of K in the Train and Test output was
+                ‘11’. Test accuracy scores averaged in the mid 60%'s.
+            </p>
+            <br>
+        </div>
+        <div class="row mt-4">
+            <h4>SVM</h4>
+            <br>
+        </div>
+        <div class="row">
+            <p class="lead">We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 NBA draft
+                using 6 features with “rbf” as value for kernel parameter. X variable contains attributes such as
+                field_goal_percentage, win_shares_per_40_minutes, true_shooting_percentage, free_throw_attempt_rate,
+                three_point_percentage, height while y variable was class. Once the data was divided into attributes and
+                Label the final preprocessing step is to train & test sets. Result for the test was about 0.658, similar
+                to the KNN model.
+            </p>
+            <br>
+        </div>
+        <div class="row mt-4">
+            <h2>Feature Heatmap Analysis</h2>
+            <br>
+        </div>
+        <div class="row">
+            <p class="lead">We used heatmap correlation displays to narrow our feature selection.
+            </p>
+            <br>
+        </div>
+        <div class="row">
+            <img src="../static/images/features_vs_class_2.png" class="img-fluid" alt="feature_corr">
+        </div>
+        <div class="row">
+            <img src="../static/images/top_features_vs_class.png" class="img-fluid" alt="top_feature_corr">
+            <br>
+        </div>
+        <div class="row">
+            <h2>2020 Draft Busts Analysis</h2>
+            <br>
+        </div>
+        <div class="row">
+            <p class="lead">Our random forest model classified 7 of the top 51 college prospects as NBA "Busts". At a
+                13% "Bust" rate, this is less than the historical average of 28%. However, 4 of those players are in the
+                top 11 draft prospects. This suggests that this is indeed a weak draft class and/or that General
+                Managers should look futher down the prospect list when they make their picks in Jun3 2020.</p>
+            <br>
+        </div>
+        <div class="row mb-1">
+            <div class="col-12">
+                <h3 class="text-center">2020 Busts</h3>
+            </div>
+            <br>
+        </div>
+        <div class="row mb-3">
+            <img src="../static/images/busts_table.PNG" class="img-fluid" alt="busts">
+        </div>
+        <div class="row mb-1">
+            <div class="col-12">
+                <h3 class="text-center">Stats Snapshot for All 2020 Prospects</h3>
+            </div>
+            <br>
+        </div>
+        <div class="row mb-3">
+            <img src="../static/images/busts_avgs.PNG" class="img-fluid" alt="stats">
+            <br>
+        </div>
+        <div class="row mt-4">
+            <div class="col-12">
+                <p class= "lead">Why did our model assign a "Bust" label to seven Draft prospects? Here's what our model didn't like
+                about each player:</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <p class="lead">Player: James Wiseman<br>
+                    NBADraft.net Rank: 2<br>
+                    Model Prediction: Bust <br>
+                    James Wiseman, one of the tallest players in the draft at has a 0% three-point percentage. In an era
+                    where big players are shooting more and more threes, our model sees this lack of an outside shot as
+                    a Pro pitfall
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <p class="lead">Player: Nico Mannion<br>
+                    NBADraft.net Rank: 6<br>
+                    Model Prediction: Bust <br>
+                    Nico Mannion's low field goal percentage and low true shooting percentage (both in the bottom
+                    quartile of 2020
+                    prospects) consigned him to the Bust Bin.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <p class="lead">Player: Cole Anthony<br>
+                    NBADraft.net Rank: 9<br>
+                    Model Prediction: Bust <br>
+                    Bust Cole Anthony's abysmal field goal shooting (the lowest of all 2020 Draft prospects) dooms
+                    him to the Bust category.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <p class="lead">Player: Tyrese Haliburton<br>
+                    NBADraft.net Rank: 11<br>
+                    Model Prediction: Bust <br>
+                    Tyrese Haliburton just can't get to the free throw line. With the lowest free throw attempt rate of
+                    any draft
+                    prospect, Tyrese gets labeled a Bust by our model.
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <p class="lead">Player: Elijah Hughes<br>
+                    NBADraft.net Rank: 37<br>
+                    Model Prediction: Bust <br>
+                    Elijah Hughes' low field goal percentage and low win-shares per 40 minutes hurt him in the eyes of
+                    our model.
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <p class="lead">Player: Malachi Flynn<br>
+                    NBADraft.net Rank: 43<br>
+                    Model Prediction: Bust <br>
+                    Malachi Flynn's Pro chances are hurt by his low field goal percentage, low free throw attempt rate
+                    and low
+                    win-shares per 40 minutes
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <p class="lead">Player: Cam Mack<br>
+                    NBADraft.net Rank: 60<br>
+                    Model Prediction: Bust <br>
+                    It's only fitting that the player picked to go last by NBADraft.net is a Bust according to our
+                    model. His low
+                    win shares hurt his ranking.
+                </p>
+            </div>
+        </div>
+
+    </div>
+    
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
