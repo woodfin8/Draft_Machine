@@ -101,8 +101,17 @@ A number of variable were combined to validate the accuracy of the model and to 
 #### SVM
 We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 NBA draft using 6 features with “rbf” as value for kernel parameter. X variable contains attributes such as field_goal_percentage, win_shares_per_40_minutes, true_shooting_percentage, free_throw_attempt_rate, three_point_percentage, height while y variable was class. Once the data was divided into attributes and Label the final preprocessing step is to train & test sets. Result for the test was about 0.658, similar to the KNN model.
 
+
+#### Heatmap Feature Analysis
+We used heatmap displays to compare all of the features to the class to confirm our narrowed feature selection.
+![Features_1](../images/features_vs_class.PNG)
+![Features_2](../images/features_vs_class_2.PNG)
+![Features_3](../images/top_features_vs_class.PNG)
 ### Draft Busts Analysis
 Why did our model assign a "Bust" label to seven Draft prospects? Here's what our model didn't like about each player:
+
+![2020_Draft_Avg](../images/busts_avgs.PNG)
+![2020_Draft_Table](../images/busts_table.PNG)
 
 Player: James Wiseman   
 NBADraft.net Rank: 2
