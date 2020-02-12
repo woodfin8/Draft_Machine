@@ -31,7 +31,7 @@
                         <a class="nav-link" href="{{ url_for('find') }}">Findings</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('method') }}">Methodology</a>
+                        <a class="nav-link"  href="{{ url_for('method') }}">Methodology</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('charts') }}">Charts</a>
@@ -55,7 +55,7 @@
                     forecasts
                     below.
                     Also, try it yourself with a player of your creation.
-                    For more information, check our <a href="#" class="text-primary">methodology </a> and <a href="#"
+                    For more information, check our <a href="{{ url_for('method') }}" class="text-primary">methodology </a> and <a href="{{ url_for('find') }}"
                         class="text-primary">findings</a> pages.
                 </p>
                 <hr class="my-4">
@@ -65,7 +65,7 @@
             <div class=col-6>
                 '<table class="table table-hover">
                     <thead>
-                        <tr class="table-light" style="text-align: left;">
+                        <tr  class = "table-light" style="text-align: left;">
                             <th scope="col">NBADraft.net Rank</th>
                             <th scope="col">Name</th>
                             <th scope="col">College</th>
