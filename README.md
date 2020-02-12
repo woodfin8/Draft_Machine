@@ -66,7 +66,7 @@ We trained and tested our data with the following classification models.
 ### Pre-Processing Steps
 For all of the models, the pre-processing steps are as follows: 
 1. Import dependencies
-2. Import NCAA_data.csv and create a dataframe
+2. Import NCAA_data.csv and create a pandas dataframe
 3. Drop columns to create a dataframe which displays key features that we want to analyze (key features were obtained through random forest feature_selection (see below)).
 4. Use Label Encoder to encode the "class" column to integers
 5. train_test_split the data
@@ -77,6 +77,9 @@ For all of the models, the pre-processing steps are as follows:
 10. Lst the best score 
 11. Make predictions with the hypertuned model
 12. Produce classification report
+
+### K-Fold Cross Validation
+K-Fold Cross Validation is a resampling method used to lessen the impact of training data overfitting.  The training/test data is re-divided and ran multiple times so that the model cannot get too used to one train/test split.  This technique was attempted for the Artifical Neural Network and Random Forest Classification models we good testing accuracy.  Unfortunately, these models predicted very strange results for the 2020 Draft Prospects, so ultimately they were not used.  To utilize K-Fold Cros Validation in python, import KFold from sklearn and reference the NeuralNetwork_Keras_v3_KFold.ipynb file in the artifical_neural_network directory. 
 
 ### Model Processes and Findings
 
