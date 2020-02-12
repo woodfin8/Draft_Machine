@@ -169,3 +169,4 @@ Billy Martinez (bmatz0729)
 * https://pypi.org/project/sportsreference/
 * https://www.nbadraft.net/nba-mock-drafts/
 * https://www.basketball-reference.com/draft/NBA_2019.html
+* https://keras.io/getting-started/sequential-model-guide/
