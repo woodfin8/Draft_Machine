@@ -168,7 +168,7 @@ All the models are associative, capturing data drilled down to the users liking.
 * Keith Woodfin (woodfin8)
 * Jacqueline McBean-Blake (jacquiemcb)
 * Melissa Mason (MelMason)
-* Pournima (Pournima07)
+* Pournima Joshi (Pournima07)
 * Brendan Law (M1Bren)
 * Billy Martinez (bmatz0729)
 
