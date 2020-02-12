@@ -1,0 +1,19 @@
+NCAA - Data
+
+duplicate keys Player_id:
+Marcus-williams-2	(below average/Bust) - deleted "line with Bust"
+marcus-thornton-3	(below average/Bust) - deleted "line with Bust"
+
+
+NBA - Data
+duplicate keys Player_id:
+
+marcus-williams-1	Duplicates	
+marcus-williams-2	Duplicates
+
+marcus-thornton-3		MIA	LSU 				- Duplicate
+marcus-thornton-3		BOS	College of William & Mary	- Duplicate
+
+
+justin-jackson-4
+justin-jackson-5
