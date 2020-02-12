@@ -161,7 +161,7 @@ On our homepage, create and evaluate your own player. Select the players college
 * Melissa Mason (MelMason)
 * Pournima (Pournima07)
 * Brendan Law (M1Bren)
-Billy Martinez (bmatz0729)
+*Billy Martinez (bmatz0729)
 
 ## Resources
 * https://machinelearningmastery.com/
