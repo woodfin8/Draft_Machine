@@ -7,9 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Draft Machine</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" type="image/x-icon" href="/path/to/favicon.ico">
-
+    <!-- <link rel="stylesheet" type="text/css" href="../static/style.css"> -->
+    <link rel="icon" type="image/x-icon" href="../static/images/favicon.ico">
 
 </head>
 
@@ -39,14 +38,21 @@
                         <a class="nav-link" href="{{ url_for('charts') }}">Charts</a>
                     </li>
                 </ul>
-
             </div>
         </div>
     </nav>
 
     <div class = "container">
         <h2>Charts</h2>
+        <br>
+        <h2>A Look at Correlation Between NCAA stats and NBA Win-Shares/48 minutes</h2>
+        <br>
     </div>
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://bmatz0729.us.qlikcloud.com/single/?appid=5a9b9dd4-a178-4fd8-a76c-3dc04d5fdebf&sheet=751e4f34-034a-448d-9fbe-695f46c10b1f&opt=ctxmenu,currsel"
+         style="border:none;width:100%;height:100%;"></iframe>
+      </div>
+
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">

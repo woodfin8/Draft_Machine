@@ -7,8 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Draft Machine</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" type="image/x-icon" href="/path/to/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+    <link rel="icon" type="image/x-icon" href="../static/images/favicon.ico">
 </head>
 
 
@@ -31,7 +31,7 @@
                         <a class="nav-link" href="{{ url_for('find') }}">Findings</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link"  href="{{ url_for('method') }}">Methodology</a>
+                        <a class="nav-link" href="{{ url_for('method') }}">Methodology</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('charts') }}">Charts</a>
@@ -55,17 +55,19 @@
                     forecasts
                     below.
                     Also, try it yourself with a player of your creation.
-                    For more information, check our <a href="{{ url_for('method') }}" class="text-primary">methodology </a> and <a href="{{ url_for('find') }}"
-                        class="text-primary">findings</a> pages.
+                    For more information, check our <a href="{{ url_for('method') }}" class="text-primary">methodology
+                    </a> and <a href="{{ url_for('find') }}" class="text-primary">findings</a> pages.
                 </p>
                 <hr class="my-4">
             </div>
         </div>
         <div class="row ml-4">
             <div class=col-6>
-                '<table class="table table-hover">
+                <h2 class="text-center">2020 Draft Predictions</h2>
+                <br>
+                <table class="table table-hover">
                     <thead>
-                        <tr  class = "table-light" style="text-align: left;">
+                        <tr class="table-light" style="text-align: left;">
                             <th scope="col">NBADraft.net Rank</th>
                             <th scope="col">Name</th>
                             <th scope="col">College</th>
@@ -439,6 +441,9 @@
                     <div class="row mr-4">
                         <div class=col-12>
                             <h2 class="text-center">Create and Evaluate Your Own Player</h2>
+                            <br>
+                            <h4 class="text-center">Enter Player Name and NCAA stats</h4>
+                            <br>
                         </div>
                     </div>
                     <div class="row mr-4">
