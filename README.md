@@ -170,3 +170,5 @@ On our homepage, create and evaluate your own player. Select the players college
 * https://www.nbadraft.net/nba-mock-drafts/
 * https://www.basketball-reference.com/draft/NBA_2019.html
 * https://keras.io/getting-started/sequential-model-guide/
+* https://bmatz0729.us.qlikcloud.com/single/?appid=bea1ee98-ad92-4762-baca-91f68483df31&sheet=751e4f34-034a-448d-9fbe-695f46c10b1f&opt=ctxmenu,currsel
+* https://bmatz0729.us.qlikcloud.com/single/?appid=bea1ee98-ad92-4762-baca-91f68483df31&sheet=72c20bbb-510f-4c11-9e17-50bb62f1ff27&opt=ctxmenu,currsel
