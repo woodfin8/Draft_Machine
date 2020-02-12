@@ -18,7 +18,7 @@ In some cases, the "Bust" didn't play a single pro game. After fitting and testi
 * CSS
 * HTML
 * PostgreSQL
-* QlikSense
+* Qlik Sense
 
 ### Data Extraction, Munging, and Modeling 
 
@@ -44,7 +44,7 @@ In some cases, the "Bust" didn't play a single pro game. After fitting and testi
   * Modernizr - version 2.6.0
   * Foundation - version 4
 * Bootstrap - version 3.3.7
-* QlikSense
+* Qlik Sense
 
 ## Development Process
 
