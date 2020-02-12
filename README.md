@@ -155,6 +155,11 @@ It's only fitting that the player picked to go last by NBADraft.net is a Bust ac
 ## Try the Model Yourself!
 On our homepage, create and evaluate your own player. Select the players college stats in the web form and submit to see what our model thinks of your player's NBA prospects
 
+## Qlik Sense
+Using the data munged, data tables were created in PostgreSql to drive the Qlik Sense applicatoin development modult.  Behind the engine are the NCAA and NBA files that join at the Player_id field.  Qlik analyzes the relationship and loads the data tying the two tables together.  Within the application app development platform multiple scatter plots were created to capture general stats such AVG PPG and Rebouds by player, as well as, line regressions used to compare other stats against the total Win Share data.
+
+All the models are associative capturing data drilled down to the users liking. This gives an overall view on a plyer individually or the overall performance of the team he is playing for.  Ideally we want to capture a correlated measure between two data sets withning the Qlik Sense applicaiton to deliver visual perspective of the analyzed data.
+
 ## Authors
 * Keith Woodfin (woodfin8)
 * Jacqueline McBean-Blake (jacquiemcb)
