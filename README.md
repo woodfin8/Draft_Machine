@@ -60,7 +60,7 @@ To train our machine learning model, we needed to gather data about drafted play
 We trained and tested our data with the following classification models.   
 * K - Nearest Neighbors
 * Random Forest Classification
-* Support Vector Machine (SVM)
+* Support Vector Machine
 * Artificial Neural Network 
 
 ### Pre-Processing Steps
