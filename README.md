@@ -8,7 +8,7 @@ Applying machine learning to NBA Draft prospects
 ## General info
 
 The purpose of this project is to provide the NBA with a model to predict those players 
-who would not be good selections for the upcoming 2020 NCAA draft picks, and future draft picks.  These players are categrized as 'Bust', and it is predicted that they will not add any value to the future of the game.
+who would not be good selections for the upcoming 2020 NCAA draft picks, and future draft picks.  These players are categorized as 'Bust', and it is predicted that they will not add any value to the future of the game.
 
 ## Technologies
 
@@ -53,7 +53,7 @@ To train our machine learning model, we needed to gather data about NBA players 
 
 ## Models
 
-We tested sevaral models to obtain the best outcome for our project.  
+We tested several models to obtain the best outcome for our project.  
 These included:
 * K - Nearest Neighbors
 * Random Forest Classification
@@ -88,7 +88,7 @@ The following top six features were used to predict:
 * height
 
 #### Random Forest
-The random forest model was trained using NBA player's college data. Players were classified as either "Bust" or "Player" The model was initially tested using all of the available features from the data. After testing and training the data in the model, random forest feature importance was used to determine the hierarchy of the features. This list helped us narrow our list of features to the 6 features that we used to train and test all of our models. Random forest was used again, limiting the features to the top 6. The random forest score was about 65%. The grid search was run multiple times, trying various n-estimators (the number of trees for the model) ranging from 50-300, using 200 as the final n-estimator. The result was a grid best score around 75%. The "Bust" percentage ranged between 17-22%, and the "Player" percentage ranged beteen 74-77%. 
+The random forest model was trained using NBA player's college data. Players were classified as either "Bust" or "Player" The model was initially tested using all of the available features from the data. After testing and training the data in the model, random forest feature importance was used to determine the hierarchy of the features. This list helped us narrow our list of features to the 6 features that we used to train and test all of our models. Random forest was used again, limiting the features to the top 6. The random forest score was about 65%. The grid search was run multiple times, trying various n-estimators (the number of trees for the model) ranging from 50-300, using 200 as the final n-estimator. The result was a grid best score around 75%. The "Bust" percentage ranged between 17-22%, and the "Player" percentage ranged between 74-77%. We ran the 2020_prospects.csv to test our model. The result was 7 out of 51 players, or 13.7%, were classified as “Bust”. In our NBA historical files, 28% of the players were classified as “Bust”. 
 
 
 #### Artificial Neural Network
@@ -96,13 +96,62 @@ Keras Sequential was the Artificial Neural Network model tested on the NBA playe
 
 #### K-Nearest Neighbor
 The K Nearest Neighbor Classifier model was used to analyze College basketball players and their suitability for being drafted to the NCAA. The model was selected so as to determine which players were categorized as a ‘Bust’ and would therefore not be fit to be drafted to the NCAA.
-A number of variable were combined to validate the accuracy of the model and to come up with a finding that was workable. Some of the variables used included 'win_shares_per_40_minutes', 'field_goal_percentage', 'free_throw_attempt_rate', 'total_rebounds_per_40' as well as 'assists', 'blocks', 'turnovers', 'steals_per_40'.
-In most of the combinations the highest value of K in the Train and Test output was ‘11’. Since we primarily wanted to predict the future of NCAA draft we wanted ensure that the prediction had a higher value. k: 11, Train/Test Score: 0.765/0.654.
+A number of variable were combined to validate the accuracy of the model and to come up with a finding that was workable. Some of the variables used included 'win_shares_per_40_minutes', 'field_goal_percentage', 'free_throw_attempt_rate', 'total_rebounds_per_40' as well as 'assists', 'blocks', 'turnovers', 'steals_per_40'. In most of the combinations the highest value of K in the Train and Test output was ‘11’. Since we primarily wanted to predict the future of NCAA draft we wanted ensure that the prediction had a higher value. k: 11, Train/Test Score around 0.65.
 
 #### SVM
-We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 NBA draft using 6 features with “rbf” as value for kernel parameter.
-X variable contains attributes such as field_goal_percentage, win_shares_per_40_minutes, true_shooting_percentage, free_throw_attempt_rate, three_point_percentage, height while y variable was class. Once the data was divided into attributes and Label the final preprocessing step is to train & test sets. Result for my test was Test Acc: 0.658879.
+We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 NBA draft using 6 features with “rbf” as value for kernel parameter. X variable contains attributes such as field_goal_percentage, win_shares_per_40_minutes, true_shooting_percentage, free_throw_attempt_rate, three_point_percentage, height while y variable was class. Once the data was divided into attributes and Label the final preprocessing step is to train & test sets. Result for the test was about 0.658, similar to the KNN model.
+
+
+#### Heatmap Feature Analysis
+We used heatmap displays to compare all of the features to the class to confirm our narrowed feature selection.
+![Features_1](/images/features_vs_class.png)
+![Features_2](/images/features_vs_class_2.png)
+![Features_3](/images/top_features_vs_class.png)
+### Draft Busts Analysis
+Why did our model assign a "Bust" label to seven Draft prospects? Here's what our model didn't like about each player:
+
+![2020_Draft_Avg](/images/busts_avgs.PNG)
+![2020_Draft_Table](/images/busts_table.PNG)
+
+Player: James Wiseman   
+NBADraft.net Rank: 2
+Model Prediction: Bust
+James Wiseman, one of the tallest players in the draft at has a 0% three-point percentage. In an era where big players are shooting more and more threes, our model sees this lack of an outside shot as a Pro pitfall
+
+Player: Nico Mannion
+NBADraft.net Rank: 6
+Model Prediction: Bust
+Nico Mannion's low field goal percentage and low true shooting percentage (both in the bottom quartile of 2020 prospects) consigned him to the Bust Bin. 
+
+Player: Cole Anthony
+NBADraft.net Rank: 9
+Model Prediction: Bust
+Cole Anthony's abysmal field goal shooting (the lowest of all 2020 Draft prospects) dooms him to the Bust category. 
+
+Player: Tyrese Haliburton
+NBADraft.net Rank: 11
+Model Prediction: Bust
+Tyrese Haliburton just can't get to the free throw line. With the lowest free throw attempt rate of any draft prospect, Tyrese gets labeled a Bust by our model. 
+
+Player: Elijah Hughes
+NBADraft.net Rank: 37
+Model Prediction: Bust
+Elijah Hughes' low field goal percentage and low win-shares per 40 minutes hurt him in the eyes of our model
+
+Player: Malachi Flynn
+NBADraft.net Rank: 43
+Model Prediction: Bust
+Malachi Flynn's Pro chances are hurt by his low field goal percentage, low free throw attempt rate and low win-shares per 40 minutes
+
+Player: Cam Mack
+NBADraft.net Rank: 60
+Model Prediction: Bust
+It's only fitting that the player picked to go last by NBADraft.net is a Bust according to our model. His low win shares hurts his ranking. 
+
 
 ## Resources
-* [https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
+* https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
 * https://scikit-learn.org/stable/
+* https://pypi.org/project/sportsreference/
+* https://www.nbadraft.net/nba-mock-drafts/
+* https://www.basketball-reference.com/draft/NBA_2019.html
