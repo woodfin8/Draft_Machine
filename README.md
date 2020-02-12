@@ -103,7 +103,7 @@ We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 
 
 
 #### Heatmap Feature Analysis
-We used heatmap displays to compare all of the features to the class to confirm our narrowed feature selection.
+We used heatmap correlation displays to narrow our feature selection.
 ![Features_1](/images/features_vs_class.png)
 ![Features_2](/images/features_vs_class_2.png)
 ![Features_3](/images/top_features_vs_class.png)
