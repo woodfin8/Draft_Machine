@@ -54,7 +54,7 @@ def predict():
     feature_list = [fg, ftar, height, trey, trues, ws40]
     features = [np.array(feature_list)]
 
-    model = pickle.load(open('random_forest.pkl', 'rb'))
+    model = pickle.load(open('random_forest/random_forest.pkl', 'rb'))
     prediction = model.predict(features)
     output = prediction[0]
 
