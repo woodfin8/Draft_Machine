@@ -69,6 +69,11 @@ def charts():
 
     return render_template('charts.html')
 
+@app.route('/corr')
+def corr():
+
+    return render_template('corr.html')
+
 if __name__ == "__main__":
     app.run(debug=True)
 
