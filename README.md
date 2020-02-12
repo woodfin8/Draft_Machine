@@ -104,9 +104,9 @@ We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 
 
 #### Heatmap Feature Analysis
 We used heatmap displays to compare all of the features to the class to confirm our narrowed feature selection.
-![Features_1](/images/features_vs_class)
-![Features_2](/images/features_vs_class_2)
-![Features_3](/images/top_features_vs_class)
+![Features_1](/images/features_vs_class.png)
+![Features_2](/images/features_vs_class_2.png)
+![Features_3](/images/top_features_vs_class.png)
 ### Draft Busts Analysis
 Why did our model assign a "Bust" label to seven Draft prospects? Here's what our model didn't like about each player:
 
