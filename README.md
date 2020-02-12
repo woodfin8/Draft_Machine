@@ -1,5 +1,4 @@
 # Draft_Machine
-Applying machine learning to NBA Draft prospects
 
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -7,7 +6,8 @@ Applying machine learning to NBA Draft prospects
 
 ## General info
 
-How well can a basketball player's college performance predict their NBA potential? We look at players selected in the 2000-2018 NBA drafts and use machine learning classification models to answer this question. Players' NCAA stats were collected, filtered and used as model features. We looked at two possible NBA outcomes. "Player" - the drafted player turned out to be NBA caliber, playing for more than 2 years in the league. "Bust" - The drafted player lasted 2 years or less in the leagues. In some cases, the "Bust" didn't play a single pro game. After fitting and testing the data with four different classifiers, we selected a Random Forest classifier as our model of choice. This model was then applied to top prospects for the upcoming 2020 NBA draft to see if this draft (as sbnation.com described it) "is one of the weakest in years". 
+How well can a basketball player's college performance predict their NBA potential? We look at players selected in the 2000-2018 NBA drafts and use machine learning classification models to answer this question. Players' NCAA stats were collected, filtered and used as model features. We looked at two possible NBA outcomes: "Player" - the drafted player turned out to be NBA caliber, playing for more than 2 years in the league, and "Bust" - The drafted player lasted 2 years or less in the leagues. 
+In some cases, the "Bust" didn't play a single pro game. After fitting and testing the data with four different classifiers, we selected a Random Forest classifier as our model of choice. This model was then applied to top prospects for the upcoming 2020 NBA draft to see if this draft - as sbnation.com described it - "is one of the weakest in years". 
 
 
 ## Technologies
@@ -17,20 +17,21 @@ How well can a basketball player's college performance predict their NBA potenti
 * Python
 * CSS
 * HTML
-* SQL
+* PostgreSQL
 * Qlik Sense
 
-### Data Extraction and Munging
+### Data Extraction, Munging, and Modeling 
 
 * Jupyter notebook - version 4.1
 * Pandas - version 0.23.4
 * Numpy - version 1.15.4
 * Sklearn - version 0.22.1
-* sportsreference 0.4.7
+* sportsreference - version 0.4.7
+* keras - version 2.3.1
 
 ### Database
 
-* Postgres - version 12.1
+* PostgreSQL - version 12.1
 
 ### Data Rendering and Visualization
 
@@ -48,21 +49,24 @@ How well can a basketball player's college performance predict their NBA potenti
 ## Development Process
 
 ### Data Munging
-To train our machine learning model, we needed to gather data about drafted players before they made it to the pros. First, we collected draft picks and their NBA player data between 2000 and 2019 from https://www.basketball-reference.com/draft/NBA_2000.html. We used pandas to merge and clean the NBA data, filtering to include only players that had played in the NCAA. This list of players was used to extract NCAA data from the sportsreference API (pip intall sportsreference in jupyter notebook). The NBA and NCAA data were exported as csv files, and were also combined to one csv files. 2020 draft prospects were collected from https://www.nbadraft.net/nba-mock-drafts/, and was filtered to exclude foreign players. 
+To train our machine learning model, we needed to gather data about drafted players before they made it to the pros. The steps to do this were:
+1. Collect draft picks and their NBA player data between 2000 and 2019 from https://www.basketball-reference.com/draft/NBA_2000.html. 
+2. Use pandas to merge and clean the NBA data, filtering to include only players that had played in the NCAA. 
+3. Use this list of players to extract NCAA data from the sportsreference API (pip intall sportsreference in jupyter notebook). The NBA and NCAA data were exported as csv files, and were also combined to one csv files. 
+4. Collect 2020 draft prospects were collected from https://www.nbadraft.net/nba-mock-drafts/, and filter to exclude foreign players. 
 
 ## Models
 
 We trained and tested our data with the following classification models.   
 * K - Nearest Neighbors
 * Random Forest Classification
-* Support Vector Machine (SVM)
-* Neural Network 
-
+* Support Vector Machine
+* Artificial Neural Network 
 
 ### Pre-Processing Steps
 For all of the models, the pre-processing steps are as follows: 
 1. Import dependencies
-2. Import NCAA_data.csv and create a dataframe
+2. Import NCAA_data.csv and create a pandas dataframe
 3. Drop columns to create a dataframe which displays key features that we want to analyze (key features were obtained through random forest feature_selection (see below)).
 4. Use Label Encoder to encode the "class" column to integers
 5. train_test_split the data
@@ -73,6 +77,9 @@ For all of the models, the pre-processing steps are as follows:
 10. Lst the best score 
 11. Make predictions with the hypertuned model
 12. Produce classification report
+
+### K-Fold Cross Validation
+K-Fold Cross Validation is a resampling method used to lessen the impact of training data overfitting.  The training/test data is re-divided and ran multiple times so that the model cannot get too used to one train/test split.  This technique was attempted for the Artifical Neural Network and Random Forest Classification models we good testing accuracy.  Unfortunately, these models predicted very strange results for the 2020 Draft Prospects, so ultimately they were not used.  To utilize K-Fold Cros Validation in python, import KFold from sklearn and reference the NeuralNetwork_Keras_v3_KFold.ipynb file in the artifical_neural_network directory. 
 
 ### Model Processes and Findings
 
@@ -87,20 +94,17 @@ Based on correlation and feature importance findings, the following six NCAA sta
 #### Label Choices
 Our intial aim was to rank players in 4 categories: "Star", "Above-average", "Below-average" and "Bust". However, the machine learning results were disappointing with 4 labels, giving us testing accuracy scores in the mid 30%'s. We decided to limit the labels to 2 outcomes: "Player" and "Bust" as drafting a first round "Bust" is something all NBA teams want to avoid.  
 
-#### Random Forest
-The random forest model was trained using NBA player's college data. Players were classified as either "Bust" or "Player" The model was initially tested using all of the available features from the data. After testing and training the data in the model, random forest feature importance was used to determine the hierarchy of the features. This list helped us narrow our list of features to the 6 features that we used to train and test all of our models. Random forest was used again, limiting the features to the top 6. The random forest score was about 65%. The grid search was run multiple times, trying various n-estimators (the number of trees for the model) ranging from 50-300, using 200 as the final n-estimator. The result was a grid best score around 75%. The "Bust" class accuracy score ranged between 17-22%, and the "Player" class accuraccy score ranged between 74-77%. This model was run on the '2020_prospects.csv" to predice this year's draft outcome. The result was 7 out of 51 players, or 13.7%, were classified as “Bust”. In our NBA historical files, 28% of the players were classified as “Bust”. 
-
+#### Random Forest (Chosen model)
+The random forest model was trained using NBA player's college data. After testing and training the data in the model, random forest feature importance was used to determine the hierarchy of the features. This list helped us narrow our list of features to the 6 features that we used to train and test all of our models. Random forest was used again, limiting the features to the top 6. The random forest score was about 65%. The grid search was run multiple times, trying various n-estimators (the number of trees for the model) ranging from 50-300, using 200 as the final n-estimator. The result was a grid best score around 75%. The "Bust" class accuracy score ranged between 17-22%, and the "Player" class accuraccy score ranged between 74-77%. This model was run on the '2020_prospects.csv" to predice this year's draft outcome. The result was 7 out of 51 players, or 13.7%, were classified as “Bust”. In our NBA historical files, 28% of the players were classified as “Bust”. 
 
 #### Artificial Neural Network
-Keras Sequential was the Artificial Neural Network model tested on the NBA player’s college data and 2020 Draft Prospects. Using the same six features recommended by the Random Forest model, players were categorized with the ‘player’ (good, worth drafting) and ‘bust’ (bad, not worth drafting) labels. With only a simple train/test split, model accuracy on testing sets was disappointing - hovering between the 50-70 percentage with huge variance. Using K-Fold Cross Validation (K-5), final model accuracy on test data jumped to around 85%. Unfortunately, model predictions on the 2020 Draft Prospects proved that the model is bugged when predicting – the ANN thought that there were no ‘busts’. This does not square with our conventionial knowledge that the 2020 Draft seems relatively weak compared to previous years, and that the average number of ‘busts’ for the previous years hovers around 30% of the draft. The Random Forest Classification model was our chosen model because it had the highest Train/Test predictions.
+Keras Sequential was the Artificial Neural Network model tested on the NBA player’s college data and 2020 Draft Prospects. Using the same six features recommended by the Random Forest model, players were categorized.  With only a simple train/test split, model accuracy on testing sets was disappointing - hovering between the 50-70 percentage with huge variance. Using K-Fold Cross Validation (K-5), final model accuracy on test data jumped to around 85%. Unfortunately, model predictions on the 2020 Draft Prospects proved that the model is bugged when predicting – the ANN thought that there were no ‘busts’. This does not square with our conventionial knowledge that the 2020 Draft seems relatively weak compared to previous years, and that the average number of ‘busts’ for the previous years hovers around 30% of the draft. Thus, the Random Forest Classification model was our chosen model because it had much better reliablity in this situation.
 
 #### K-Nearest Neighbor
-The K Nearest Neighbor Classifier model was used to analyze College basketball players and their suitability for being drafted to the NCAA. The model was selected so as to determine which players were categorized as a ‘Bust’ and would therefore not be fit to be drafted to the NCAA.
-A number of variables were combined to validate the accuracy of the model and to come up with a finding that was workable. Some of the variables used included 'win_shares_per_40_minutes', 'field_goal_percentage', 'free_throw_attempt_rate', 'total_rebounds_per_40' as well as 'assists', 'blocks', 'turnovers', 'steals_per_40'. In most of the combinations the highest value of K in the Train and Test output was ‘11’. Test accuracy scores averaged in the mid 60%'s. 
+The K Nearest Neighbor Classifier model was used to analyze College basketball players and their suitability for being drafted to the NCAA.  A number of variables were combined to validate the accuracy of the model and to come up with a finding that was workable. Some of the variables used included 'win_shares_per_40_minutes', 'field_goal_percentage', 'free_throw_attempt_rate', 'total_rebounds_per_40' as well as 'assists', 'blocks', 'turnovers', 'steals_per_40'. In most of the combinations the highest value of K in the Train and Test output was ‘11’. Test accuracy scores averaged in the mid 60%'s, thus we deferred to the Random Forest Model. 
 
 #### SVM
-We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 NBA draft using 6 features with “rbf” as value for kernel parameter. X variable contains attributes such as field_goal_percentage, win_shares_per_40_minutes, true_shooting_percentage, free_throw_attempt_rate, three_point_percentage, height while y variable was class. Once the data was divided into attributes and Label the final preprocessing step is to train & test sets. Result for the test was about 0.658, similar to the KNN model.
-
+Support-Vector-Machine (SVM) model was used to analyze NCAA data to predict 2020 NBA draft using 6 features with “rbf” as value for kernel parameter. X variable contains attributes such as field_goal_percentage, win_shares_per_40_minutes, true_shooting_percentage, free_throw_attempt_rate, three_point_percentage, height while y variable was class. Once the data was divided into attributes and Label the final preprocessing step is to train & test sets. Result for the tests hovered around 65%, similar to the KNN model.
 
 #### Heatmap Feature Analysis
 We used heatmap correlation displays to narrow our feature selection.
@@ -154,9 +158,26 @@ It's only fitting that the player picked to go last by NBADraft.net is a Bust ac
 ## Try the Model Yourself!
 On our homepage, create and evaluate your own player. Select the players college stats in the web form and submit to see what our model thinks of your player's NBA prospects
 
+## Qlik Sense
+Using the data munged, data tables were created in PostgreSQL to drive the Qlik Sense application development module.  Behind the engine are the NCAA and NBA files that join at the Player_id field.  Qlik analyzes the relationship and loads the data, tying the two tables together.  Within the application development platform, multiple interactive graphs were created to compare the data collected. Multiple scatter plots were created to capture general stats, such as, average points per game and rebounds by player. Line regressions were used to compare other stats against the total Win Share data.
+
+All the models are associative, capturing data drilled down to the users liking. This gives an overall view on a player individually or the overall performance of the team he is playing for.  Qlik Sense was used to capture a correlated measure between the two data sets and deliver a visual perspective of the analyzed data to the user.
+
+
+## Authors
+* Keith Woodfin (woodfin8)
+* Jacqueline McBean-Blake (jacquiemcb)
+* Melissa Mason (MelMason)
+* Pournima (Pournima07)
+* Brendan Law (M1Bren)
+* Billy Martinez (bmatz0729)
+
 ## Resources
-* https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
+* https://machinelearningmastery.com/
 * https://scikit-learn.org/stable/
 * https://pypi.org/project/sportsreference/
 * https://www.nbadraft.net/nba-mock-drafts/
 * https://www.basketball-reference.com/draft/NBA_2019.html
+* https://keras.io/getting-started/sequential-model-guide/
+* https://bmatz0729.us.qlikcloud.com/single/?appid=bea1ee98-ad92-4762-baca-91f68483df31&sheet=751e4f34-034a-448d-9fbe-695f46c10b1f&opt=ctxmenu,currsel
+* https://bmatz0729.us.qlikcloud.com/single/?appid=bea1ee98-ad92-4762-baca-91f68483df31&sheet=72c20bbb-510f-4c11-9e17-50bb62f1ff27&opt=ctxmenu,currsel
