@@ -104,14 +104,14 @@ We used SVM (Support-Vector-Machine) model to analyze NCAA data to predict 2020 
 
 #### Heatmap Feature Analysis
 We used heatmap displays to compare all of the features to the class to confirm our narrowed feature selection.
-![Features_1](../images/features_vs_class.PNG)
-![Features_2](../images/features_vs_class_2.PNG)
-![Features_3](../images/top_features_vs_class.PNG)
+![Features_1](/images/features_vs_class.PNG)
+![Features_2](/images/features_vs_class_2.PNG)
+![Features_3](/images/top_features_vs_class.PNG)
 ### Draft Busts Analysis
 Why did our model assign a "Bust" label to seven Draft prospects? Here's what our model didn't like about each player:
 
-![2020_Draft_Avg](../images/busts_avgs.PNG)
-![2020_Draft_Table](../images/busts_table.PNG)
+![2020_Draft_Avg](/images/busts_avgs.PNG)
+![2020_Draft_Table](/images/busts_table.PNG)
 
 Player: James Wiseman   
 NBADraft.net Rank: 2
