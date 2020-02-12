@@ -1,26 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[11]:
-
 
 import pickle
 import numpy as np
 from flask import Flask, jsonify, render_template, request
 
 
-# In[12]:
-
 
 app = Flask(__name__)
-
-
-# In[17]:
-
-
-
-
-# In[19]:
 
 
 #return homepage
