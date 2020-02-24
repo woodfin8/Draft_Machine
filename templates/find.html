@@ -23,21 +23,15 @@
 
             <div class="collapse navbar-collapse" id="navbarColor01">
                 <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('index') }}">Home </a>
+                    </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="{{ url_for('index') }}">Home <span
+                        <a class="nav-link" href="{{ url_for('find') }}">Findings <span
                                 class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('find') }}">Findings</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('method') }}">Methodology</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('charts') }}">Player Charts</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('corr') }}">Further Analysis</a>
                     </li>
                 </ul>
                 </ul>
@@ -73,7 +67,7 @@
             <br>
         </div>
 
-        <div class="row">
+        <div class="row mt-4">
             <h4>Label Choices</h4>
             <br>
         </div>
@@ -81,7 +75,9 @@
             <p class="lead">Our intial aim was to rank players in 4 categories: "Star", "Above-average", "Below-average"
                 and "Bust". However, the machine learning results were disappointing with 4 labels, giving us testing
                 accuracy scores in the mid 30%'s. We decided to limit the labels to 2 outcomes: "Player" and "Bust" as
-                drafting a first round "Bust" is something all NBA teams want to avoid.</p>
+                drafting a first round "Bust" is something all NBA teams want to avoid.
+            </p>
+            <br>
 
         </div>
 
@@ -200,13 +196,14 @@
         </div>
         <div class="row mt-4">
             <div class="col-12">
-                <p class= "lead">Why did our model assign a "Bust" label to seven Draft prospects? Here's what our model didn't like
-                about each player:</p>
+                <p class="lead">Why did our model assign a "Bust" label to seven Draft prospects? Here's what our model
+                    didn't like
+                    about each player:</p>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <p class="lead">Player: James Wiseman<br>
+                <p class="lead">Player: <span class="font-weight-bold">James Wiseman</span><br>
                     NBADraft.net Rank: 2<br>
                     Model Prediction: Bust <br>
                     James Wiseman, one of the tallest players in the draft at has a 0% three-point percentage. In an era
@@ -217,7 +214,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <p class="lead">Player: Nico Mannion<br>
+                <p class="lead">Player: <span class="font-weight-bold">Nico Mannion</span><br>
                     NBADraft.net Rank: 6<br>
                     Model Prediction: Bust <br>
                     Nico Mannion's low field goal percentage and low true shooting percentage (both in the bottom
@@ -228,7 +225,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <p class="lead">Player: Cole Anthony<br>
+                <p class="lead">Player: <span class="font-weight-bold">Cole Anthony</span><br>
                     NBADraft.net Rank: 9<br>
                     Model Prediction: Bust <br>
                     Bust Cole Anthony's abysmal field goal shooting (the lowest of all 2020 Draft prospects) dooms
@@ -238,7 +235,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <p class="lead">Player: Tyrese Haliburton<br>
+                <p class="lead">Player: <span class="font-weight-bold">Tyrese Haliburton</span><br>
                     NBADraft.net Rank: 11<br>
                     Model Prediction: Bust <br>
                     Tyrese Haliburton just can't get to the free throw line. With the lowest free throw attempt rate of
@@ -250,7 +247,7 @@
 
         <div class="row">
             <div class="col-12">
-                <p class="lead">Player: Elijah Hughes<br>
+                <p class="lead">Player: <span class="font-weight-bold">Elijah Hughes</span><br>
                     NBADraft.net Rank: 37<br>
                     Model Prediction: Bust <br>
                     Elijah Hughes' low field goal percentage and low win-shares per 40 minutes hurt him in the eyes of
@@ -261,7 +258,7 @@
 
         <div class="row">
             <div class="col-12">
-                <p class="lead">Player: Malachi Flynn<br>
+                <p class="lead">Player: <span class="font-weight-bold">Malachi Flynn</span><br>
                     NBADraft.net Rank: 43<br>
                     Model Prediction: Bust <br>
                     Malachi Flynn's Pro chances are hurt by his low field goal percentage, low free throw attempt rate
@@ -273,7 +270,7 @@
 
         <div class="row">
             <div class="col-12">
-                <p class="lead">Player: Cam Mack<br>
+                <p class="lead"><span class="font-weight-bold">Player: Cam Mack</span><br>
                     NBADraft.net Rank: 60<br>
                     Model Prediction: Bust <br>
                     It's only fitting that the player picked to go last by NBADraft.net is a Bust according to our
@@ -284,7 +281,7 @@
         </div>
 
     </div>
-    
+
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
