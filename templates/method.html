@@ -25,19 +25,17 @@
 
             <div class="collapse navbar-collapse" id="navbarColor01">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="{{ url_for('index') }}">Home <span
-                                class="sr-only">(current)</span></a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('index') }}">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('find') }}">Findings</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('method') }}">Methodology</a>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ url_for('method') }}">Methodology <span
+                                class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('charts') }}">Charts</a>
-                    </li>
+                </ul>
                 </ul>
 
             </div>
@@ -50,7 +48,8 @@
         <br>
         <div class="row">
             <p class=lead>How well can a basketball player's college performance predict their NBA potential? We look at
-                players selected in the 2000-2018 NBA drafts and use machine learning classification models to answer this
+                players
+                selected in the 2000-2018 NBA drafts and use machine learning classification models to answer this
                 question. Players' NCAA stats were collected, filtered and used as model features. We looked at two
                 possible NBA outcomes. "Player" - the drafted player turned out to be NBA caliber, playing for more than
                 2 years in the league. "Bust" - The drafted player lasted 2 years or less in the leagues. In some cases,
@@ -60,6 +59,9 @@
                 one of the weakest in years".</p>
         </div>
         <div class="row">
+            <br>
+            <h2>Development Process</h2>
+            <hr>
         </div>
         <br>
         <div class="row">
@@ -95,11 +97,11 @@
                 </a>
                 <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC"
                     target="_blank" class="list-group-item list-group-item-action ">
-                    Support Vector Machine
+                    Support Vector Machine (SVM)
                 </a>
-                <a href="https://keras.io/getting-started/sequential-model-guide/" target="_blank"
+                <a href="https://www.tensorflow.org/tutorials/keras/classification" target="_blank"
                     class="list-group-item list-group-item-action">
-                    Artifical Neural Network
+                    Neural Network
                 </a>
             </div>
             <br>
@@ -114,7 +116,7 @@
             <br>
         </div>
         <div class="row">
-            <ol style="font-size:20">
+            <ol>
                 <li>Import dependencies</li>
                 <li>Import NCAA_data.csv and create a dataframe</li>
                 <li>Drop unnecessary features (key features were obtained through random forest feature_importance).
