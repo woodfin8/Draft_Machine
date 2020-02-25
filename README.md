@@ -53,7 +53,7 @@ To train our machine learning model, we needed to gather data about drafted play
 1. Collect draft picks and their NBA player data between 2000 and 2019 from https://www.basketball-reference.com/draft/NBA_2000.html. 
 2. Use pandas to merge and clean the NBA data, filtering to include only players that had played in the NCAA. 
 3. Use this list of players to extract NCAA data from the sportsreference API (pip intall sportsreference in jupyter notebook). The NBA and NCAA data were exported as csv files, and were also combined to one csv files. 
-4. Collect 2020 draft prospects were collected from https://www.nbadraft.net/nba-mock-drafts/, and filter to exclude foreign players. 
+4. Collect 2020 draft prospects were collected from https://www.nbadraft.net/nba-mock-drafts/, and filtered to exclude foreign players. 
 
 ## Models
 
